@@ -415,7 +415,7 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
 <script>
 (function(){
   let DATA = JSON.parse(document.getElementById('booking-data').textContent);
-  let GENERATED_AT = "08/09/2026 19:29 น.";
+  let GENERATED_AT = "08/09/2026 19:49 น.";
 
   // Bangkok "today" computed client-side (not baked in at build time) so it
   // stays correct across a live refresh, and even if the page is left open
@@ -555,7 +555,15 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
     document.getElementById(onId).classList.add('active');
     document.getElementById(offId).classList.remove('active');
   }
-  sDate.addEventListener('input', renderSheet);
+  sDate.addEventListener('input', () => {
+    // Show the sheet immediately from whatever data is already loaded...
+    renderSheet();
+    // ...then sync to make sure the job sheet for this date reflects the
+    // latest bookings (not just whatever was last auto-synced up to 5 min
+    // ago) — syncNow() re-runs renderSheet() again once the fetch lands.
+    document.getElementById('sheet-note').textContent = '🔄 กำลังซิงค์ข้อมูลล่าสุดสำหรับวันที่นี้...';
+    syncNow(false);
+  });
 
   const OUT_HEAD = ['No.','วันที่','แผนก','ชื่อผู้สั่งงาน','เบอร์โทรติดต่อ','ประเภทการสั่งงาน','สถานที่','ชื่อผู้ติดต่อปลายทาง','เบอร์โทรผู้ติดต่อปลายทาง','รายละเอียดเพิ่มเติม (ถ้ามี)','ต้องการส่งเอกสารให้ปลายทางในช่วงใด','เซ็นรับเอกสาร'];
   const IN_HEAD = ['No.','วันที่','ชื่อผู้ฝากเอกสารกลับ','เบอร์โทรติดต่อ','ฝากเอกสารจากสถานที่','รายละเอียดเอกสารเบื้องต้น','เอกสารฝากถึงใคร','จำนวน','ชื่อผู้รับฝากเอกสารกลับ','ชื่อผู้รับเอกสารจริง'];
