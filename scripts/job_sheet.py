@@ -81,45 +81,51 @@ def build_send_sheet(wb, shift, records, target_date, date_str):
     write_title(ws, f"งาน Messenger ช่วง{shift} {SEND_TIME[shift]} วันที่ {date_str}", len(SEND_HEADERS))
     write_header(ws, SEND_HEADERS)
 
+    row = 3
     for i, rec in enumerate(records):
-        r = 3 + i
         values = [
             i + 1, target_date, rec["dept"], rec["requester"], rec["phone"],
             rec["task"], rec["loc"], rec["contact"], rec["contact_phone"],
             rec["notes"], "ช่วง" + rec["shift"], None,
         ]
         for c, v in enumerate(values, start=1):
-            cell = ws.cell(row=r, column=c, value=v)
+            cell = ws.cell(row=row, column=c, value=v)
             cell.border = BORDER
             cell.alignment = Alignment(vertical="center", wrap_text=(c in (7, 10)))
             if c == 2:
                 cell.number_format = "d/m/yyyy"
-        ws.row_dimensions[r].height = 24
+        ws.row_dimensions[row].height = 24
+        row += 1
 
     if not records:
-        r = 3
-        ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=len(SEND_HEADERS))
+        ws.merge_cells(start_row=row, start_column=1, end_row=row, end_column=len(SEND_HEADERS))
         cell = ws.cell(
-            row=r,
+            row=row,
             column=1,
             value="ไม่มีรายการจากระบบจองคิวสำหรับวันและช่วงเวลานี้ — ตารางด้านล่างเว้นไว้ให้เขียนเพิ่มด้วยมือ",
         )
         cell.alignment = Alignment(horizontal="center", vertical="center")
         cell.font = Font(italic=True, color="FF808080")
         for c in range(1, len(SEND_HEADERS) + 1):
-            ws.cell(row=r, column=c).border = BORDER
-        ws.row_dimensions[r].height = 22
+            ws.cell(row=row, column=c).border = BORDER
+        ws.row_dimensions[row].height = 22
+        row += 1
 
-        # Blank hand-log rows, same style as the return sheet, so the printed
-        # page still has room to write in jobs that aren't in the queue yet.
-        for i in range(SEND_BLANK_ROWS):
-            rr = r + 1 + i
-            ws.cell(row=rr, column=1, value=i + 1).border = BORDER
-            ws.cell(row=rr, column=1).alignment = Alignment(horizontal="center", vertical="center")
-            for c in range(2, len(SEND_HEADERS) + 1):
-                ws.cell(row=rr, column=c).border = BORDER
-            ws.row_dimensions[rr].height = 24
-        ws.page_setup.fitToHeight = 1  # scale the blank hand-log to fill one printed page
+    # Blank hand-log rows, same style as the return sheet, appended after
+    # whatever's above (real bookings and/or the "no data" note) so there's
+    # always room to add jobs that aren't in the queue yet — numbering picks
+    # up where the real rows left off rather than restarting at 1.
+    start_no = len(records) + 1
+    for i in range(SEND_BLANK_ROWS):
+        rr = row + i
+        ws.cell(row=rr, column=1, value=start_no + i).border = BORDER
+        ws.cell(row=rr, column=1).alignment = Alignment(horizontal="center", vertical="center")
+        for c in range(2, len(SEND_HEADERS) + 1):
+            ws.cell(row=rr, column=c).border = BORDER
+        ws.row_dimensions[rr].height = 24
+
+    if not records:
+        ws.page_setup.fitToHeight = 1  # scale the (all-blank) hand-log to fill one printed page
 
     for c, w in enumerate(SEND_WIDTHS, start=1):
         ws.column_dimensions[get_column_letter(c)].width = w
