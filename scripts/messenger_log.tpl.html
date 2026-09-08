@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Turtle23 Messenger Log</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -284,6 +289,8 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
   .sheet-table td,.sheet-table th{padding:6px 9px;}
 }
 </style>
+</head>
+<body>
 
 <div class="wrap">
   <header class="top">
@@ -553,6 +560,7 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
   const OUT_HEAD = ['No.','วันที่','แผนก','ชื่อผู้สั่งงาน','เบอร์โทรติดต่อ','ประเภทการสั่งงาน','สถานที่','ชื่อผู้ติดต่อปลายทาง','เบอร์โทรผู้ติดต่อปลายทาง','รายละเอียดเพิ่มเติม (ถ้ามี)','ต้องการส่งเอกสารให้ปลายทางในช่วงใด','เซ็นรับเอกสาร'];
   const IN_HEAD = ['No.','วันที่','ชื่อผู้ฝากเอกสารกลับ','เบอร์โทรติดต่อ','ฝากเอกสารจากสถานที่','รายละเอียดเอกสารเบื้องต้น','เอกสารฝากถึงใคร','จำนวน','ชื่อผู้รับฝากเอกสารกลับ','ชื่อผู้รับเอกสารจริง'];
   const IN_BLANK_ROWS = 20;
+  const OUT_BLANK_ROWS = 20; // when a date/shift has 0 bookings from the queue, still print this many blank numbered rows to write in by hand
 
   function renderSheet(){
     const d = sDate.value;
@@ -561,14 +569,19 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
     const thead = document.getElementById('sheet-thead');
     const tbody = document.getElementById('sheet-tbody');
     const note = document.getElementById('sheet-note');
-    document.getElementById('sheet-table').classList.toggle('blank-mode', sheetMode==='in');
 
     if (sheetMode === 'out'){
       const rows = DATA.filter(x => x.date===d && x.shift===sheetShift).sort((a,b)=>a.id-b.id);
       document.getElementById('sheet-title').textContent = `งาน Messenger ช่วง${sheetShift} วันที่ ${dateStr}`;
       thead.innerHTML = '<tr>' + OUT_HEAD.map(h=>`<th>${h}</th>`).join('') + '</tr>';
+      document.getElementById('sheet-table').classList.toggle('blank-mode', rows.length===0);
       if (rows.length===0){
-        tbody.innerHTML = `<tr><td colspan="${OUT_HEAD.length}" style="text-align:center;color:var(--ink-muted);padding:16px;">ไม่มีรายการสำหรับวันและช่วงเวลานี้</td></tr>`;
+        let blankHtml = `<tr><td colspan="${OUT_HEAD.length}" style="text-align:center;color:var(--ink-muted);padding:10px;font-style:italic;">ไม่มีรายการจากระบบจองคิวสำหรับวันและช่วงเวลานี้ — ตารางด้านล่างเว้นไว้ให้เขียนเพิ่มด้วยมือ</td></tr>`;
+        for (let i=0;i<OUT_BLANK_ROWS;i++){
+          blankHtml += '<tr><td>'+(i+1)+'</td>' + '<td>&nbsp;</td>'.repeat(OUT_HEAD.length-1) + '</tr>';
+        }
+        tbody.innerHTML = blankHtml;
+        note.innerHTML = 'ยังไม่มีรายการจากระบบจองคิวสำหรับกะนี้ — เว้นตารางเปล่าไว้ '+OUT_BLANK_ROWS+' บรรทัดให้เขียนเพิ่มด้วยมือ';
       } else {
         tbody.innerHTML = rows.map((r,i) => `
           <tr>
@@ -585,9 +598,10 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
             <td>${esc(r.shift ? 'ช่วง'+r.shift : '')}</td>
             <td class="sig"></td>
           </tr>`).join('');
+        note.innerHTML = 'รวมทุกประเภทงานของกะนั้นจากระบบจองคิว — พร้อมพิมพ์ได้ทันที';
       }
-      note.innerHTML = 'รวมทุกประเภทงานของกะนั้นจากระบบจองคิว — พร้อมพิมพ์ได้ทันที';
     } else {
+      document.getElementById('sheet-table').classList.toggle('blank-mode', true);
       const timeLabel = sheetShift==='เช้า' ? '10.00 น.' : '14.00 น.';
       document.getElementById('sheet-title').textContent = `รับฝากเอกสารกลับ Messenger ช่วง${sheetShift} ${timeLabel} วันที่ ${dateStr}`;
       thead.innerHTML = '<tr>' + IN_HEAD.map(h=>`<th>${h}</th>`).join('') + '</tr>';
@@ -635,9 +649,17 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
 
     ['เช้า','บ่าย'].forEach(shift => {
       const rows = DATA.filter(x => x.date===d && x.shift===shift).sort((a,b)=>a.id-b.id);
-      const dataRows = rows.length
-        ? rows.map((r,i) => [i+1, r.date, r.dept, r.requester, r.phone, r.task, r.loc, r.contact, r.contact_phone, r.notes, r.shift?('ช่วง'+r.shift):'', ''])
-        : [['ไม่มีรายการสำหรับวันและช่วงเวลานี้']];
+      let dataRows;
+      if (rows.length) {
+        dataRows = rows.map((r,i) => [i+1, r.date, r.dept, r.requester, r.phone, r.task, r.loc, r.contact, r.contact_phone, r.notes, r.shift?('ช่วง'+r.shift):'', '']);
+      } else {
+        // no queue entries for this date/shift — leave OUT_BLANK_ROWS blank
+        // numbered rows so it can still be printed and filled in by hand.
+        dataRows = [['ไม่มีรายการจากระบบจองคิวสำหรับวันและช่วงเวลานี้ — เว้นตารางด้านล่างไว้ให้เขียนเพิ่มด้วยมือ']];
+        for (let i=0;i<OUT_BLANK_ROWS;i++){
+          dataRows.push([i+1, ...Array(OUT_HEAD.length-1).fill('')]);
+        }
+      }
       const title = `งาน Messenger ช่วง${shift} ${SEND_TIME_XLSX[shift]} วันที่ ${dateStr}`;
       const ws = sheetWithTitle(title, OUT_HEAD, dataRows, OUT_HEAD.length);
       XLSX.utils.book_append_sheet(wb, ws, shift==='เช้า' ? 'ส่งเอกสารช่วงเช้า' : 'ส่งเอกสารช่วงบ่าย');
@@ -742,3 +764,5 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
   setInterval(() => syncNow(false), 5 * 60 * 1000);
 })();
 </script>
+</body>
+</html>

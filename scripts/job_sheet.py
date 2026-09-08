@@ -33,6 +33,9 @@ RETURN_HEADERS = [
 RETURN_WIDTHS = [5, 11, 18, 14, 20, 22, 18, 8, 18, 18]
 RETURN_BLANK_ROWS = 20  # padded + fitToHeight=1 below so the sheet fills one full printed page
 
+SEND_BLANK_ROWS = 20  # when a date/shift has 0 queue bookings, still print this many
+# blank numbered rows below the "no data" note so the sheet can be filled in by hand
+
 SHIFTS = ["เช้า", "บ่าย"]
 SEND_SHEET_NAME = {"เช้า": "ส่งเอกสารช่วงเช้า", "บ่าย": "ส่งเอกสารช่วงบ่าย"}
 RETURN_SHEET_NAME = {"เช้า": "รับฝากเอกสารกลับเช้า", "บ่าย": "รับฝากเอกสารกลับบ่าย"}
@@ -96,11 +99,27 @@ def build_send_sheet(wb, shift, records, target_date, date_str):
     if not records:
         r = 3
         ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=len(SEND_HEADERS))
-        cell = ws.cell(row=r, column=1, value="ไม่มีรายการสำหรับวันและช่วงเวลานี้")
+        cell = ws.cell(
+            row=r,
+            column=1,
+            value="ไม่มีรายการจากระบบจองคิวสำหรับวันและช่วงเวลานี้ — ตารางด้านล่างเว้นไว้ให้เขียนเพิ่มด้วยมือ",
+        )
         cell.alignment = Alignment(horizontal="center", vertical="center")
         cell.font = Font(italic=True, color="FF808080")
         for c in range(1, len(SEND_HEADERS) + 1):
             ws.cell(row=r, column=c).border = BORDER
+        ws.row_dimensions[r].height = 22
+
+        # Blank hand-log rows, same style as the return sheet, so the printed
+        # page still has room to write in jobs that aren't in the queue yet.
+        for i in range(SEND_BLANK_ROWS):
+            rr = r + 1 + i
+            ws.cell(row=rr, column=1, value=i + 1).border = BORDER
+            ws.cell(row=rr, column=1).alignment = Alignment(horizontal="center", vertical="center")
+            for c in range(2, len(SEND_HEADERS) + 1):
+                ws.cell(row=rr, column=c).border = BORDER
+            ws.row_dimensions[rr].height = 24
+        ws.page_setup.fitToHeight = 1  # scale the blank hand-log to fill one printed page
 
     for c, w in enumerate(SEND_WIDTHS, start=1):
         ws.column_dimensions[get_column_letter(c)].width = w
