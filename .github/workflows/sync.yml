@@ -1,0 +1,49 @@
+name: Sync Messenger booking data
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: messenger-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch from SharePoint and rebuild docs/
+        env:
+          AZURE_TENANT_ID: ${{ secrets.AZURE_TENANT_ID }}
+          AZURE_CLIENT_ID: ${{ secrets.AZURE_CLIENT_ID }}
+          AZURE_CLIENT_SECRET: ${{ secrets.AZURE_CLIENT_SECRET }}
+          SHAREPOINT_FILE_URL: ${{ secrets.SHAREPOINT_FILE_URL }}
+          SHAREPOINT_TEMPLATE_URL: ${{ secrets.SHAREPOINT_TEMPLATE_URL }}
+        run: python scripts/sync_data.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "messenger-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/index.html docs/booking_data.json
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore: sync booking data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
