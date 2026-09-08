@@ -255,8 +255,16 @@ def build_html(records, repo_root, now):
     os.makedirs(docs_dir, exist_ok=True)
     with open(os.path.join(docs_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(html)
+    # Wrapped with generated_at so the page's client-side "sync now" button
+    # (and its on-open/periodic auto-refresh) can tell whether a freshly
+    # fetched copy of this file is actually newer than what's on screen.
     with open(os.path.join(docs_dir, "booking_data.json"), "w", encoding="utf-8") as f:
-        json.dump(records, f, ensure_ascii=False, indent=1)
+        json.dump(
+            {"generated_at": generated_at, "count": len(records), "records": records},
+            f,
+            ensure_ascii=False,
+            indent=1,
+        )
 
     return generated_at
 

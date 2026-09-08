@@ -96,6 +96,17 @@ header.top{
   line-height:1.6;
 }
 .snapshot b{color:var(--ink);font-weight:600;}
+.snapshot-text{margin-top:6px;}
+.sync-btn{
+  font-size:11.5px;
+  padding:5px 12px;
+  border-radius:20px;
+  border-color:var(--border);
+  background:var(--surface);
+}
+.sync-btn:disabled{opacity:.6;cursor:default;border-color:var(--border);color:var(--ink-muted);}
+.sync-btn.spinning{animation:sync-pulse 1s ease-in-out infinite;}
+@keyframes sync-pulse{0%,100%{opacity:1;}50%{opacity:.55;}}
 
 .stats{
   display:grid;
@@ -282,8 +293,11 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
       <p class="sub">ประวัติการจองคิวส่งเอกสารทั้งหมด ดึงจากระบบจองคิว (Microsoft Forms) — ค้นหา กรอง และสร้างใบงานสำหรับพิมพ์</p>
     </div>
     <div class="snapshot">
-      ข้อมูล ณ <b id="snapshot-time">—</b><br>
-      ทั้งหมด <b id="snapshot-count">—</b> รายการ
+      <button type="button" id="btn-sync" class="sync-btn">🔄 ซิงค์ข้อมูลล่าสุด</button>
+      <div class="snapshot-text">
+        ข้อมูล ณ <b id="snapshot-time">—</b><br>
+        ทั้งหมด <b id="snapshot-count">—</b> รายการ
+      </div>
     </div>
   </header>
 
@@ -385,7 +399,7 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
   </section>
 
   <footer>
-    ข้อมูลนี้เป็นสแนปช็อตที่ดึงจาก SharePoint แบบ on-demand ไม่ได้อัปเดตสด — ต้องการข้อมูลล่าสุด พิมพ์บอก Claude ว่า “อัปเดตข้อมูล” ในแชทได้เลย
+    ข้อมูลซิงก์อัตโนมัติจาก SharePoint ทุก 5 นาที และซิงก์ให้อีกครั้งทุกครั้งที่เปิดหน้านี้ — ต้องการข้อมูลสดใหม่ทันที กดปุ่ม "🔄 ซิงค์ข้อมูลล่าสุด" ที่มุมขวาบนได้เลย
   </footer>
 </div>
 
@@ -393,38 +407,55 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
 <script type="application/json" id="booking-data">__BOOKING_DATA_JSON__</script>
 <script>
 (function(){
-  const DATA = JSON.parse(document.getElementById('booking-data').textContent);
-  const GENERATED_AT = "__GENERATED_AT__";
+  let DATA = JSON.parse(document.getElementById('booking-data').textContent);
+  let GENERATED_AT = "__GENERATED_AT__";
 
-  document.getElementById('snapshot-time').textContent = GENERATED_AT;
-  document.getElementById('snapshot-count').textContent = DATA.length.toLocaleString('th-TH');
+  // Bangkok "today" computed client-side (not baked in at build time) so it
+  // stays correct across a live refresh, and even if the page is left open
+  // across midnight.
+  function bkkToday(){
+    return new Date().toLocaleDateString('sv-SE', {timeZone:'Asia/Bangkok'});
+  }
 
-  // ---- stats ----
-  const today = "__TODAY__";
-  const todays = DATA.filter(d => d.date === today);
-  const amCount = DATA.filter(d => d.shift === 'เช้า').length;
-  const pmCount = DATA.filter(d => d.shift === 'บ่าย').length;
-  const deptCounts = {};
-  DATA.forEach(d => { if(d.dept) deptCounts[d.dept] = (deptCounts[d.dept]||0)+1; });
-  const topDept = Object.entries(deptCounts).sort((a,b)=>b[1]-a[1])[0];
-
-  const statsEl = document.getElementById('stats');
-  const stats = [
-    {n: DATA.length.toLocaleString('th-TH'), l:'รายการทั้งหมด', accent:true},
-    {n: todays.length, l:'วันนี้ ('+today+')'},
-    {n: amCount.toLocaleString('th-TH'), l:'ช่วงเช้า (สะสม)'},
-    {n: pmCount.toLocaleString('th-TH'), l:'ช่วงบ่าย (สะสม)'},
-    {n: topDept ? topDept[0] : '—', l:'แผนกที่จองมากสุด'+(topDept? ' ('+topDept[1]+')':'')},
-  ];
-  statsEl.innerHTML = stats.map(s => `<div class="stat${s.accent?' accent':''}"><div class="n">${s.n}</div><div class="l">${s.l}</div></div>`).join('');
-
-  // ---- filter dropdowns ----
-  const depts = [...new Set(DATA.map(d=>d.dept).filter(Boolean))].sort();
-  const tasks = [...new Set(DATA.map(d=>d.task).filter(Boolean))].sort();
   const deptSel = document.getElementById('f-dept');
   const taskSel = document.getElementById('f-task');
-  depts.forEach(d => deptSel.insertAdjacentHTML('beforeend', `<option value="${d}">${d}</option>`));
-  tasks.forEach(t => taskSel.insertAdjacentHTML('beforeend', `<option value="${t}">${t}</option>`));
+
+  function updateSnapshotAndStats(){
+    document.getElementById('snapshot-time').textContent = GENERATED_AT;
+    document.getElementById('snapshot-count').textContent = DATA.length.toLocaleString('th-TH');
+
+    const today = bkkToday();
+    const todays = DATA.filter(d => d.date === today);
+    const amCount = DATA.filter(d => d.shift === 'เช้า').length;
+    const pmCount = DATA.filter(d => d.shift === 'บ่าย').length;
+    const deptCounts = {};
+    DATA.forEach(d => { if(d.dept) deptCounts[d.dept] = (deptCounts[d.dept]||0)+1; });
+    const topDept = Object.entries(deptCounts).sort((a,b)=>b[1]-a[1])[0];
+
+    const statsEl = document.getElementById('stats');
+    const stats = [
+      {n: DATA.length.toLocaleString('th-TH'), l:'รายการทั้งหมด', accent:true},
+      {n: todays.length, l:'วันนี้ ('+today+')'},
+      {n: amCount.toLocaleString('th-TH'), l:'ช่วงเช้า (สะสม)'},
+      {n: pmCount.toLocaleString('th-TH'), l:'ช่วงบ่าย (สะสม)'},
+      {n: topDept ? topDept[0] : '—', l:'แผนกที่จองมากสุด'+(topDept? ' ('+topDept[1]+')':'')},
+    ];
+    statsEl.innerHTML = stats.map(s => `<div class="stat${s.accent?' accent':''}"><div class="n">${s.n}</div><div class="l">${s.l}</div></div>`).join('');
+  }
+
+  // ---- filter dropdowns (rebuilt on every refresh in case new depts/tasks show up) ----
+  function populateFilterOptions(){
+    const depts = [...new Set(DATA.map(d=>d.dept).filter(Boolean))].sort();
+    const tasks = [...new Set(DATA.map(d=>d.task).filter(Boolean))].sort();
+    const curDept = deptSel.value, curTask = taskSel.value;
+    deptSel.innerHTML = '<option value="">ทั้งหมด</option>' + depts.map(d => `<option value="${d}">${d}</option>`).join('');
+    taskSel.innerHTML = '<option value="">ทั้งหมด</option>' + tasks.map(t => `<option value="${t}">${t}</option>`).join('');
+    if (depts.includes(curDept)) deptSel.value = curDept;
+    if (tasks.includes(curTask)) taskSel.value = curTask;
+  }
+
+  updateSnapshotAndStats();
+  populateFilterOptions();
 
   const els = {
     from: document.getElementById('f-from'),
@@ -508,7 +539,7 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
   let sheetShift = 'เช้า';
   let sheetMode = 'out'; // 'out' = ส่งเอกสาร (data-driven), 'in' = รับฝากเอกสารกลับ (blank hand-log)
   const sDate = document.getElementById('s-date');
-  sDate.value = today;
+  sDate.value = bkkToday();
   document.getElementById('s-am').addEventListener('click', () => { sheetShift='เช้า'; syncToggle('s-am','s-pm'); renderSheet(); });
   document.getElementById('s-pm').addEventListener('click', () => { sheetShift='บ่าย'; syncToggle('s-pm','s-am'); renderSheet(); });
   document.getElementById('s-out').addEventListener('click', () => { sheetMode='out'; syncToggle('s-out','s-in'); renderSheet(); });
@@ -652,5 +683,62 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
       btn.textContent = origText;
     }
   });
+
+  // ---- live sync: refetch docs/booking_data.json (rebuilt by GitHub
+  // Actions every 5 min) and hot-swap it in, no full page reload needed ----
+  const syncBtn = document.getElementById('btn-sync');
+  const SYNC_BTN_LABEL = syncBtn.textContent;
+  let syncing = false;
+
+  async function syncNow(isManual){
+    if (syncing) return;
+    syncing = true;
+    if (isManual) {
+      syncBtn.disabled = true;
+      syncBtn.classList.add('spinning');
+      syncBtn.textContent = '🔄 กำลังซิงค์...';
+    }
+    try {
+      const res = await fetch('booking_data.json?t=' + Date.now(), {cache: 'no-store'});
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const payload = await res.json();
+      const records = Array.isArray(payload) ? payload : payload.records;
+      const generatedAt = Array.isArray(payload) ? GENERATED_AT : (payload.generated_at || GENERATED_AT);
+      if (!Array.isArray(records)) throw new Error('bad payload');
+
+      const changed = generatedAt !== GENERATED_AT || records.length !== DATA.length;
+      DATA = records;
+      GENERATED_AT = generatedAt;
+
+      updateSnapshotAndStats();
+      populateFilterOptions();
+      render();
+      renderSheet();
+
+      if (isManual) {
+        syncBtn.textContent = changed ? '✅ มีข้อมูลใหม่แล้ว' : '✅ เป็นข้อมูลล่าสุดอยู่แล้ว';
+      }
+    } catch (err) {
+      if (isManual) syncBtn.textContent = '⚠️ ซิงค์ไม่สำเร็จ ลองใหม่';
+    } finally {
+      syncing = false;
+      if (isManual) {
+        syncBtn.classList.remove('spinning');
+        setTimeout(() => { syncBtn.disabled = false; syncBtn.textContent = SYNC_BTN_LABEL; }, 2000);
+      }
+    }
+  }
+
+  syncBtn.addEventListener('click', () => syncNow(true));
+
+  // sync automatically every time the page is opened...
+  syncNow(false);
+  // ...and again if the tab was in the background and just became visible...
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') syncNow(false);
+  });
+  // ...and periodically while the page stays open, so a long-open tab
+  // (e.g. on an office screen) doesn't go stale.
+  setInterval(() => syncNow(false), 5 * 60 * 1000);
 })();
 </script>

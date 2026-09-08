@@ -2,15 +2,21 @@ name: Sync Messenger booking data
 
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch: {}
+    # Every 5 minutes, all day (the shortest interval GitHub allows for
+    # scheduled workflows) — cron is UTC. Adjust if you want a different
+    # cadence (e.g. "*/30 0-12 * * 1-6" = every 30 min, 07:00-19:00 Bangkok
+    # time, Mon-Sat). GitHub may delay scheduled runs by a few minutes
+    # during high load; that's normal, and the web page's own "sync now"
+    # button / auto-refresh-on-open don't depend on this cadence anyway.
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}   # adds a "Run workflow" button for on-demand refresh
 
 permissions:
   contents: write
 
 concurrency:
   group: messenger-sync
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   sync:
