@@ -392,8 +392,7 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
           <button id="s-in" data-mode="in">รับฝากเอกสารกลับ</button>
         </div>
       </div>
-      <button class="primary" id="btn-print">พิมพ์ใบงานนี้</button>
-      <button class="ghost" id="btn-download" hidden>⬇️ ดาวน์โหลดไฟล์ (Excel ทั้ง 4 ชีต)</button>
+      <button class="primary" id="btn-download">⬇️ ดาวน์โหลดไฟล์ (Excel ทั้ง 4 ชีต)</button>
     </div>
     <div class="sheet-body">
       <p class="sheet-title" id="sheet-title">—</p>
@@ -410,7 +409,7 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
   </footer>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/exceljs/4.4.0/exceljs.min.js"></script>
 <script type="application/json" id="booking-data">__BOOKING_DATA_JSON__</script>
 <script>
 (function(){
@@ -623,91 +622,155 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
   }
   renderSheet();
 
-  document.getElementById('btn-print').addEventListener('click', () => window.print());
-
   // ---- download as Excel (.xlsx), all 4 sheets for the selected date ----
-  let downloadsNS = null;
-  const useDownloadsCapability = (typeof claude !== 'undefined' && !!claude.use);
-  if (useDownloadsCapability) {
-    claude.use('downloads').then(ns => {
-      downloadsNS = ns;
-      document.getElementById('btn-download').hidden = !ns;
-    }).catch(() => { document.getElementById('btn-download').hidden = true; });
-  } else {
-    // Plain web page (e.g. GitHub Pages) — no capability bridge, but an
-    // ordinary browser download via a blob link works fine here.
-    document.getElementById('btn-download').hidden = false;
-  }
-
+  // Built with ExcelJS (not the earlier SheetJS/xlsx library) because this
+  // needs real page-setup metadata — landscape orientation, fit-to-width,
+  // and fit-to-one-page for the blank hand-log sheets — which the SheetJS
+  // community build can't write. Mirrors scripts/job_sheet.py's layout
+  // exactly, including that same page-setup policy: populated "ส่งเอกสาร"
+  // sheets are landscape + fit-to-width only (so a busy day's real rows
+  // aren't shrunk unreadably), while sheets with no data (or the blank
+  // "รับฝากเอกสารกลับ" hand-log) are also fit-to-height so the ~20 blank
+  // rows land on exactly one printed page.
   const SEND_TIME_XLSX = {'เช้า':'10.30 น.','บ่าย':'14.30 น.'};
   const RETURN_TIME_XLSX = {'เช้า':'10.00 น.','บ่าย':'14.00 น.'};
+  const SEND_WIDTHS = [5, 11, 13, 18, 14, 16, 22, 20, 16, 26, 13, 14];
+  const RETURN_WIDTHS = [5, 11, 18, 14, 20, 22, 18, 8, 18, 18];
+  const THIN_SIDE = {style:'thin', color:{argb:'FF000000'}};
+  const CELL_BORDER = {top:THIN_SIDE, left:THIN_SIDE, bottom:THIN_SIDE, right:THIN_SIDE};
+  const HEADER_FILL = {type:'pattern', pattern:'solid', fgColor:{argb:'FFD9E2DC'}};
 
-  function sheetWithTitle(title, headerRow, dataRows, ncols){
-    const aoa = [[title], headerRow, ...dataRows];
-    const ws = XLSX.utils.aoa_to_sheet(aoa);
-    ws['!merges'] = [{s:{r:0,c:0}, e:{r:0,c:ncols-1}}];
-    ws['!cols'] = Array(ncols).fill({wch:18});
+  function xlsxNewSheet(wb, name, ncols, fitToHeight){
+    return wb.addWorksheet(name, {
+      pageSetup: {
+        orientation: 'landscape',
+        fitToPage: true,
+        fitToWidth: 1,
+        fitToHeight: fitToHeight, // 0 = unconstrained height, 1 = force onto one page
+        paperSize: 9, // A4
+        printTitlesRow: '1:2',
+      },
+      views: [{state:'frozen', ySplit:2}],
+    });
+  }
+  function xlsxWriteTitle(ws, title, ncols){
+    ws.mergeCells(1,1,1,ncols);
+    const cell = ws.getCell(1,1);
+    cell.value = title;
+    cell.font = {name:'Calibri', size:16, bold:true};
+    cell.alignment = {horizontal:'center', vertical:'middle'};
+    ws.getRow(1).height = 28;
+  }
+  function xlsxWriteHeader(ws, headers){
+    headers.forEach((h,i) => {
+      const cell = ws.getCell(2, i+1);
+      cell.value = h;
+      cell.font = {name:'Calibri', size:10.5, bold:true};
+      cell.alignment = {horizontal:'center', vertical:'middle', wrapText:true};
+      cell.fill = HEADER_FILL;
+      cell.border = CELL_BORDER;
+    });
+    ws.getRow(2).height = 30;
+  }
+  function xlsxSetWidths(ws, widths){
+    widths.forEach((w,i) => { ws.getColumn(i+1).width = w; });
+  }
+
+  function buildSendSheet(wb, shift, rows, dateStr){
+    const hasData = rows.length > 0;
+    const ws = xlsxNewSheet(wb, shift==='เช้า' ? 'ส่งเอกสารช่วงเช้า' : 'ส่งเอกสารช่วงบ่าย', OUT_HEAD.length, hasData ? 0 : 1);
+    xlsxWriteTitle(ws, `งาน Messenger ช่วง${shift} ${SEND_TIME_XLSX[shift]} วันที่ ${dateStr}`, OUT_HEAD.length);
+    xlsxWriteHeader(ws, OUT_HEAD);
+
+    if (hasData){
+      rows.forEach((r,i) => {
+        const rr = 3+i;
+        const values = [i+1, r.date, r.dept, r.requester, r.phone, r.task, r.loc, r.contact, r.contact_phone, r.notes, r.shift?('ช่วง'+r.shift):'', ''];
+        values.forEach((v,c) => {
+          const cell = ws.getCell(rr, c+1);
+          cell.value = v;
+          cell.border = CELL_BORDER;
+          cell.alignment = {vertical:'middle', wrapText: (c===6 || c===9)};
+        });
+        ws.getRow(rr).height = 24;
+      });
+    } else {
+      const rr = 3;
+      ws.mergeCells(rr,1,rr,OUT_HEAD.length);
+      const cell = ws.getCell(rr,1);
+      cell.value = 'ไม่มีรายการจากระบบจองคิวสำหรับวันและช่วงเวลานี้ — ตารางด้านล่างเว้นไว้ให้เขียนเพิ่มด้วยมือ';
+      cell.alignment = {horizontal:'center', vertical:'middle'};
+      cell.font = {italic:true, color:{argb:'FF808080'}};
+      for (let c=1;c<=OUT_HEAD.length;c++){ ws.getCell(rr,c).border = CELL_BORDER; }
+      ws.getRow(rr).height = 22;
+      for (let i=0;i<OUT_BLANK_ROWS;i++){
+        const r2 = rr+1+i;
+        const idCell = ws.getCell(r2,1);
+        idCell.value = i+1;
+        idCell.alignment = {horizontal:'center', vertical:'middle'};
+        for (let c=1;c<=OUT_HEAD.length;c++){ ws.getCell(r2,c).border = CELL_BORDER; }
+        ws.getRow(r2).height = 24;
+      }
+    }
+    xlsxSetWidths(ws, SEND_WIDTHS);
     return ws;
   }
 
-  function buildWorkbookForDate(d){
+  function buildReturnSheet(wb, shift, dateStr){
+    const ws = xlsxNewSheet(wb, shift==='เช้า' ? 'รับฝากเอกสารกลับเช้า' : 'รับฝากเอกสารกลับบ่าย', IN_HEAD.length, 1);
+    xlsxWriteTitle(ws, `รับฝากเอกสารกลับ Messenger ช่วง${shift} ${RETURN_TIME_XLSX[shift]} วันที่ ${dateStr}`, IN_HEAD.length);
+    xlsxWriteHeader(ws, IN_HEAD);
+    for (let i=0;i<IN_BLANK_ROWS;i++){
+      const r = 3+i;
+      const idCell = ws.getCell(r,1);
+      idCell.value = i+1;
+      idCell.alignment = {horizontal:'center', vertical:'middle'};
+      for (let c=1;c<=IN_HEAD.length;c++){ ws.getCell(r,c).border = CELL_BORDER; }
+      ws.getRow(r).height = 24;
+    }
+    xlsxSetWidths(ws, RETURN_WIDTHS);
+    return ws;
+  }
+
+  async function buildWorkbookForDate(d){
     const [y,m,day] = d.split('-');
     const dateStr = `${parseInt(day)}/${parseInt(m)}/${y}`;
-    const wb = XLSX.utils.book_new();
+    const wb = new ExcelJS.Workbook();
 
     ['เช้า','บ่าย'].forEach(shift => {
       const rows = DATA.filter(x => x.date===d && x.shift===shift).sort((a,b)=>a.id-b.id);
-      let dataRows;
-      if (rows.length) {
-        dataRows = rows.map((r,i) => [i+1, r.date, r.dept, r.requester, r.phone, r.task, r.loc, r.contact, r.contact_phone, r.notes, r.shift?('ช่วง'+r.shift):'', '']);
-      } else {
-        // no queue entries for this date/shift — leave OUT_BLANK_ROWS blank
-        // numbered rows so it can still be printed and filled in by hand.
-        dataRows = [['ไม่มีรายการจากระบบจองคิวสำหรับวันและช่วงเวลานี้ — เว้นตารางด้านล่างไว้ให้เขียนเพิ่มด้วยมือ']];
-        for (let i=0;i<OUT_BLANK_ROWS;i++){
-          dataRows.push([i+1, ...Array(OUT_HEAD.length-1).fill('')]);
-        }
-      }
-      const title = `งาน Messenger ช่วง${shift} ${SEND_TIME_XLSX[shift]} วันที่ ${dateStr}`;
-      const ws = sheetWithTitle(title, OUT_HEAD, dataRows, OUT_HEAD.length);
-      XLSX.utils.book_append_sheet(wb, ws, shift==='เช้า' ? 'ส่งเอกสารช่วงเช้า' : 'ส่งเอกสารช่วงบ่าย');
+      buildSendSheet(wb, shift, rows, dateStr);
     });
-
     ['เช้า','บ่าย'].forEach(shift => {
-      const dataRows = [];
-      for (let i=0;i<IN_BLANK_ROWS;i++){
-        dataRows.push([i+1, ...Array(IN_HEAD.length-1).fill('')]);
-      }
-      const title = `รับฝากเอกสารกลับ Messenger ช่วง${shift} ${RETURN_TIME_XLSX[shift]} วันที่ ${dateStr}`;
-      const ws = sheetWithTitle(title, IN_HEAD, dataRows, IN_HEAD.length);
-      XLSX.utils.book_append_sheet(wb, ws, shift==='เช้า' ? 'รับฝากเอกสารกลับเช้า' : 'รับฝากเอกสารกลับบ่าย');
+      buildReturnSheet(wb, shift, dateStr);
     });
 
     return wb;
   }
 
   document.getElementById('btn-download').addEventListener('click', async () => {
-    if (!downloadsNS) return;
     const btn = document.getElementById('btn-download');
     const origText = btn.textContent;
     btn.disabled = true;
     btn.textContent = 'กำลังสร้างไฟล์...';
     try {
       const d = sDate.value;
-      const wb = buildWorkbookForDate(d);
-      const wbout = XLSX.write(wb, {bookType:'xlsx', type:'array'});
-      const blob = new Blob([wbout], {type:'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'});
+      const wb = await buildWorkbookForDate(d);
+      const buf = await wb.xlsx.writeBuffer();
+      const blob = new Blob([buf], {type:'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'});
       const [y,m,day] = d.split('-');
       const filename = `MESSENGER ${parseInt(day)}-${parseInt(m)}-${y}.xlsx`;
-      await downloadsNS.save({filename, data: blob});
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 4000);
     } catch(err){
-      if (err && err.code === 'declined') {
-        // user cancelled the save prompt — nothing to report
-      } else if (err && err.code === 'rate_limited') {
-        alert('มีการขอบันทึกไฟล์ค้างอยู่ กรุณารอสักครู่แล้วลองใหม่');
-      } else {
-        alert('ไม่สามารถสร้าง/บันทึกไฟล์ได้ในขณะนี้ ลองใหม่อีกครั้ง');
-      }
+      console.error(err);
+      alert('ไม่สามารถสร้างไฟล์ได้ในขณะนี้ ลองใหม่อีกครั้ง');
     } finally {
       btn.disabled = false;
       btn.textContent = origText;

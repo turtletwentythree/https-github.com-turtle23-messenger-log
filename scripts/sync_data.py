@@ -182,15 +182,36 @@ def normalize_shift(s):
     return ""
 
 
-def to_iso_date(s):
-    s = (s or "").strip()
+def to_iso_date(v):
+    """Accepts the RAW cell value (not yet stringified) for the date column.
+
+    Excel/SharePoint date cells come back from openpyxl as actual
+    datetime.datetime/date objects, not "d/m/y" text — str()'ing one of
+    those gives "YYYY-MM-DD HH:MM:SS", which the old slash-splitting logic
+    here could never parse, so every record's "date" silently came out as
+    "". Handle real date/datetime objects first, then fall back to parsing
+    text in either "d/m/y" or "y-m-d" form (with an optional time part) in
+    case a row ever has a plain-text date instead.
+    """
+    if isinstance(v, datetime.datetime):
+        return v.strftime("%Y-%m-%d")
+    if isinstance(v, datetime.date):
+        return v.strftime("%Y-%m-%d")
+    s = (v or "")
+    s = str(s).strip()
     if not s:
         return ""
+    date_part = s.split(" ")[0].split("T")[0]
     try:
-        d, m, y = s.split("/")
-        return f"{int(y):04d}-{int(m):02d}-{int(d):02d}"
+        if "-" in date_part:
+            y, m, d = date_part.split("-")
+            return f"{int(y):04d}-{int(m):02d}-{int(d):02d}"
+        if "/" in date_part:
+            d, m, y = date_part.split("/")
+            return f"{int(y):04d}-{int(m):02d}-{int(d):02d}"
     except ValueError:
         return ""
+    return ""
 
 
 def cell_str(v):
@@ -210,12 +231,13 @@ def load_records(xlsx_bytes, sheet_name):
     for raw in rows_iter:
         if raw is None or len(raw) < 49:
             continue
+        date_raw = raw[COL_DATE]  # keep the original (possibly datetime) value
         row = [cell_str(v) for v in raw]
         if not row[COL_ID].isdigit():
             continue
         records.append({
             "id": row[COL_ID],
-            "date": to_iso_date(row[COL_DATE]),
+            "date": to_iso_date(date_raw),
             "dept": row[COL_DEPT],
             "requester": row[COL_REQUESTER],
             "phone": row[COL_REQUESTER_PHONE],
