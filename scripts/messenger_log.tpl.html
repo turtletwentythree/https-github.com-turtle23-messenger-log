@@ -792,11 +792,14 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
     }
 
     // Blank hand-log rows appended after whatever's above (real bookings
-    // and/or the "no data" note) so there's always room to add jobs that
-    // aren't in the queue yet — numbering picks up where the real rows
-    // left off rather than restarting at 1.
+    // and/or the "no data" note) so there's room to add jobs that aren't
+    // in the queue yet — numbering picks up where the real rows left off
+    // (rather than restarting at 1), and the total row count (real + blank)
+    // is capped at OUT_BLANK_ROWS (No. 20), not 20 MORE rows on top of
+    // however many real bookings there are.
     const startNo = rows.length + 1;
-    for (let i=0;i<OUT_BLANK_ROWS;i++){
+    const blankCount = Math.max(0, OUT_BLANK_ROWS - rows.length);
+    for (let i=0;i<blankCount;i++){
       const r2 = nextRow + i;
       const idCell = ws.getCell(r2,1);
       idCell.value = startNo + i;

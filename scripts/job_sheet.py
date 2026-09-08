@@ -113,10 +113,13 @@ def build_send_sheet(wb, shift, records, target_date, date_str):
 
     # Blank hand-log rows, same style as the return sheet, appended after
     # whatever's above (real bookings and/or the "no data" note) so there's
-    # always room to add jobs that aren't in the queue yet — numbering picks
-    # up where the real rows left off rather than restarting at 1.
+    # room to add jobs that aren't in the queue yet — numbering picks up
+    # where the real rows left off (rather than restarting at 1) and the
+    # total row count (real + blank) is capped at SEND_BLANK_ROWS (No. 20),
+    # not 20 MORE rows on top of however many real bookings there are.
     start_no = len(records) + 1
-    for i in range(SEND_BLANK_ROWS):
+    blank_count = max(0, SEND_BLANK_ROWS - len(records))
+    for i in range(blank_count):
         rr = row + i
         ws.cell(row=rr, column=1, value=start_no + i).border = BORDER
         ws.cell(row=rr, column=1).alignment = Alignment(horizontal="center", vertical="center")
