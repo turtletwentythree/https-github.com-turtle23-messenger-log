@@ -433,7 +433,7 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
 <script>
 (function(){
   let DATA = JSON.parse(document.getElementById('booking-data').textContent);
-  let GENERATED_AT = "09/09/2026 15:10 น.";
+  let GENERATED_AT = "09/09/2026 15:13 น.";
 
   // Bangkok "today" computed client-side (not baked in at build time) so it
   // stays correct across a live refresh, and even if the page is left open
@@ -875,40 +875,28 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
 
   // ---- live sync ----
   // Automatic sync (page open / visibility / 5-min interval) just refetches
-  // the latest booking_data.json, which GitHub Actions rebuilds on its own
-  // schedule. A MANUAL click, though, first asks a small Cloudflare Worker
+  // booking_data.json, which GitHub Actions rebuilds on its own schedule. A
+  // MANUAL click, though, first asks a small Cloudflare Worker
   // (messenger-sync-trigger) to kick off that GitHub Actions workflow
   // immediately — so it does a genuinely fresh SharePoint pull — then polls
   // until generated_at actually moves forward, rather than just re-reading
   // whatever was already there.
   //
-  // The GitHub Actions run itself only takes ~10-20s even with 5,000+
-  // records (parsing the sheet isn't the slow part) — most of the perceived
-  // wait was actually GitHub Pages' CDN taking its time to start serving the
-  // freshly-committed file. raw.githubusercontent.com serves the same file
-  // straight from the committed content with no such lag (and sends CORS
-  // headers allowing this), so that's the primary source now; the
-  // Pages-relative copy is only a fallback if raw.githubusercontent.com is
-  // ever unreachable (e.g. blocked on some office networks).
+  // (Tried routing this through raw.githubusercontent.com to dodge GitHub
+  // Pages' CDN lag — its cache turned out to ignore cache-busting query
+  // strings and can serve up to ~5 min stale, which is worse. Sticking with
+  // the plain Pages-relative fetch below, which tests reliably at ~20-30s
+  // of CDN lag after the Actions run finishes.)
   const syncBtn = document.getElementById('btn-sync');
   const SYNC_BTN_LABEL = syncBtn.textContent;
   const SYNC_TRIGGER_URL = 'https://messenger-sync-trigger.turtle23-ai.workers.dev/';
-  const RAW_DATA_URL = 'https://raw.githubusercontent.com/turtletwentythree/https-github.com-turtle23-messenger-log/main/docs/booking_data.json';
   const SYNC_POLL_INTERVAL_MS = 3000;
-  const SYNC_POLL_TIMEOUT_MS = 90000;
+  const SYNC_POLL_TIMEOUT_MS = 120000;
   let syncing = false;
 
   async function fetchLatestPayload(){
-    let res;
-    try {
-      res = await fetch(RAW_DATA_URL + '?t=' + Date.now(), {cache: 'no-store'});
-      if (!res.ok) throw new Error('raw HTTP ' + res.status);
-    } catch (e) {
-      // Fall back to the Pages-served copy — may lag a little behind a
-      // just-landed push, but still correct.
-      res = await fetch('booking_data.json?t=' + Date.now(), {cache: 'no-store'});
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-    }
+    const res = await fetch('booking_data.json?t=' + Date.now(), {cache: 'no-store'});
+    if (!res.ok) throw new Error('HTTP ' + res.status);
     const payload = await res.json();
     const records = Array.isArray(payload) ? payload : payload.records;
     const generatedAt = Array.isArray(payload) ? GENERATED_AT : (payload.generated_at || GENERATED_AT);
