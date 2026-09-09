@@ -1,6 +1,6 @@
 {
- "generated_at": "09/09/2026 16:42 น.",
- "count": 5490,
+ "generated_at": "09/09/2026 16:45 น.",
+ "count": 5492,
  "records": [
   {
    "id": "1",
@@ -76861,6 +76861,34 @@
    "notes": "เอกสารเชฟลงนาม",
    "shift": "บ่าย",
    "submitted": "46274.5827893519"
+  },
+  {
+   "id": "5640",
+   "date": "2026-09-10",
+   "dept": "Project Development",
+   "requester": "Ky",
+   "phone": "0659657846",
+   "task": "รับเอกสาร",
+   "loc": "SVP",
+   "contact": "คุณแคท",
+   "contact_phone": "085-243-8111",
+   "notes": "บริษัท เอส. วี. แอนด์ พี. คาร์ตั้น จำกัด ที่อยู่ 14/3 หมู่3 ซอยบุญธรรมอนุสรณ์ ถนนเทพารักษ์ อำเภอบางพลี ตำบลบางพลีใหญ่ จังหวัดสมุทรปราการ 10540",
+   "shift": "เช้า",
+   "submitted": "46266.7673611111"
+  },
+  {
+   "id": "5641",
+   "date": "2026-09-09",
+   "dept": "Finance",
+   "requester": "p[ldsfb",
+   "phone": "dplfbk",
+   "task": "ส่งเอกสาร",
+   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "contact": "asdv",
+   "contact_phone": "wve",
+   "notes": "asdv",
+   "shift": "บ่าย",
+   "submitted": "46274.6249652778"
   }
  ]
 }
