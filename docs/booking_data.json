@@ -1,6 +1,6 @@
 {
- "generated_at": "09/09/2026 11:29 น.",
- "count": 5483,
+ "generated_at": "09/09/2026 14:19 น.",
+ "count": 5490,
  "records": [
   {
    "id": "1",
@@ -76710,16 +76710,16 @@
   },
   {
    "id": "5620",
-   "date": "2026-09-09",
+   "date": "2026-09-10",
    "dept": "Procurement",
    "requester": "๋JC",
    "phone": "02-180 8974",
    "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.29",
+   "loc": "Alpea",
    "contact": "คุณ ณัชชา",
    "contact_phone": "02-180 8974",
    "notes": "สรุปใบสั่งซื้อเพื่อการลงนาม",
-   "shift": "บ่าย",
+   "shift": "เช้า",
    "submitted": "46274.3875"
   },
   {
@@ -76752,7 +76752,7 @@
   },
   {
    "id": "5627",
-   "date": "2026-09-09",
+   "date": "2026-09-10",
    "dept": "Marketing",
    "requester": "โบ",
    "phone": "0624292244",
@@ -76761,8 +76761,106 @@
    "contact": "-",
    "contact_phone": "-",
    "notes": "ส่งเล่มเมนู",
-   "shift": "บ่าย",
+   "shift": "เช้า",
    "submitted": "46274.4057175926"
+  },
+  {
+   "id": "5631",
+   "date": "2026-09-09",
+   "dept": "Accounting",
+   "requester": "Mee",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Beam",
+   "contact_phone": "-",
+   "notes": "บิล food Truck 5-6/8/69",
+   "shift": "บ่าย",
+   "submitted": "46274.4166898148"
+  },
+  {
+   "id": "5630",
+   "date": "2026-09-10",
+   "dept": "Marketing",
+   "requester": "Pap",
+   "phone": "099-256-3655",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Takashi S38",
+   "contact": "พี่ลัคกี้",
+   "contact_phone": "085-553-5662\n061-172-2598",
+   "notes": "ส่งเมนู และใบเสร็จ",
+   "shift": "บ่าย",
+   "submitted": "46274.487962963"
+  },
+  {
+   "id": "5632",
+   "date": "2026-09-09",
+   "dept": "Accounting",
+   "requester": "Ying",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "เชฟใหม่",
+   "contact_phone": "-",
+   "notes": "ใบเสร้จ",
+   "shift": "บ่าย",
+   "submitted": "46274.5036689815"
+  },
+  {
+   "id": "5633",
+   "date": "2026-09-09",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "บ่าย",
+   "submitted": "46274.5536458333"
+  },
+  {
+   "id": "5635",
+   "date": "2026-09-09",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ying",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46274.5688773148"
+  },
+  {
+   "id": "5636",
+   "date": "2026-09-09",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV เดือน 7",
+   "shift": "บ่าย",
+   "submitted": "46274.5782291667"
+  },
+  {
+   "id": "5637",
+   "date": "2026-09-09",
+   "dept": "Accounting",
+   "requester": "Ying",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "หลานยายนุสรา",
+   "contact": "K.เมษา",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46274.5827893519"
   }
  ]
 }
