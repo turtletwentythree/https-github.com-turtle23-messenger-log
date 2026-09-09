@@ -1,0 +1,7 @@
+name = "messenger-sync-trigger"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+[[kv_namespaces]]
+binding = "SYNC_STATE"
+id = "7407699e099a45b8b11664c04db8918c"
