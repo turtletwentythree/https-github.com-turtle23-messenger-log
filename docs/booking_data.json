@@ -1,6 +1,6 @@
 {
- "generated_at": "09/09/2026 14:57 น.",
- "count": 5492,
+ "generated_at": "09/09/2026 15:03 น.",
+ "count": 5490,
  "records": [
   {
    "id": "1",
@@ -76861,34 +76861,6 @@
    "notes": "เอกสารเชฟลงนาม",
    "shift": "บ่าย",
    "submitted": "46274.5827893519"
-  },
-  {
-   "id": "5638",
-   "date": "2026-09-09",
-   "dept": "Finance",
-   "requester": "sdv",
-   "phone": "sfdb",
-   "task": "ส่งเอกสาร",
-   "loc": "หลานยายนุสรา (Baan Turtle)",
-   "contact": "zxfb",
-   "contact_phone": "sfdb",
-   "notes": "asdfb",
-   "shift": "บ่าย",
-   "submitted": "46274.6051041667"
-  },
-  {
-   "id": "5639",
-   "date": "2026-09-09",
-   "dept": "Finance",
-   "requester": "poskdv",
-   "phone": "[pksdv",
-   "task": "ส่งเอกสาร",
-   "loc": "หลานยายนุสรา (Baan Turtle)",
-   "contact": "oksdv",
-   "contact_phone": "poksv",
-   "notes": ";ls",
-   "shift": "บ่าย",
-   "submitted": "46274.6205092593"
   }
  ]
 }
