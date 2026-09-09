@@ -1,6 +1,6 @@
 {
- "generated_at": "09/09/2026 16:45 น.",
- "count": 5492,
+ "generated_at": "09/09/2026 16:53 น.",
+ "count": 5491,
  "records": [
   {
    "id": "1",
@@ -76709,20 +76709,6 @@
    "submitted": "46274.4003935185"
   },
   {
-   "id": "5620",
-   "date": "2026-09-10",
-   "dept": "Procurement",
-   "requester": "๋JC",
-   "phone": "02-180 8974",
-   "task": "ส่งเอกสาร",
-   "loc": "Alpea",
-   "contact": "คุณ ณัชชา",
-   "contact_phone": "02-180 8974",
-   "notes": "สรุปใบสั่งซื้อเพื่อการลงนาม",
-   "shift": "เช้า",
-   "submitted": "46274.3875"
-  },
-  {
    "id": "5621",
    "date": "2026-09-09",
    "dept": "Procurement",
@@ -76751,20 +76737,6 @@
    "submitted": "46274.3906944444"
   },
   {
-   "id": "5627",
-   "date": "2026-09-10",
-   "dept": "Marketing",
-   "requester": "โบ",
-   "phone": "0624292244",
-   "task": "ส่งเอกสาร",
-   "loc": "Alpea",
-   "contact": "-",
-   "contact_phone": "-",
-   "notes": "ส่งเล่มเมนู",
-   "shift": "เช้า",
-   "submitted": "46274.4057175926"
-  },
-  {
    "id": "5631",
    "date": "2026-09-09",
    "dept": "Accounting",
@@ -76777,20 +76749,6 @@
    "notes": "บิล food Truck 5-6/8/69",
    "shift": "บ่าย",
    "submitted": "46274.4166898148"
-  },
-  {
-   "id": "5630",
-   "date": "2026-09-10",
-   "dept": "Marketing",
-   "requester": "Pap",
-   "phone": "099-256-3655",
-   "task": "ส่งเอกสาร",
-   "loc": "Kappo Takashi S38",
-   "contact": "พี่ลัคกี้",
-   "contact_phone": "085-553-5662\n061-172-2598",
-   "notes": "ส่งเมนู และใบเสร็จ",
-   "shift": "บ่าย",
-   "submitted": "46274.487962963"
   },
   {
    "id": "5632",
@@ -76863,6 +76821,48 @@
    "submitted": "46274.5827893519"
   },
   {
+   "id": "5620",
+   "date": "2026-09-10",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "คุณ ณัชชา",
+   "contact_phone": "02-180 8974",
+   "notes": "สรุปใบสั่งซื้อเพื่อการลงนาม",
+   "shift": "เช้า",
+   "submitted": "46274.3875"
+  },
+  {
+   "id": "5627",
+   "date": "2026-09-10",
+   "dept": "Marketing",
+   "requester": "โบ",
+   "phone": "0624292244",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "-",
+   "contact_phone": "-",
+   "notes": "ส่งเล่มเมนู",
+   "shift": "เช้า",
+   "submitted": "46274.4057175926"
+  },
+  {
+   "id": "5630",
+   "date": "2026-09-10",
+   "dept": "Marketing",
+   "requester": "Pap",
+   "phone": "099-256-3655",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Takashi S38",
+   "contact": "พี่ลัคกี้",
+   "contact_phone": "085-553-5662\n061-172-2598",
+   "notes": "ส่งเมนู และใบเสร็จ",
+   "shift": "บ่าย",
+   "submitted": "46274.487962963"
+  },
+  {
    "id": "5640",
    "date": "2026-09-10",
    "dept": "Project Development",
@@ -76875,20 +76875,6 @@
    "notes": "บริษัท เอส. วี. แอนด์ พี. คาร์ตั้น จำกัด ที่อยู่ 14/3 หมู่3 ซอยบุญธรรมอนุสรณ์ ถนนเทพารักษ์ อำเภอบางพลี ตำบลบางพลีใหญ่ จังหวัดสมุทรปราการ 10540",
    "shift": "เช้า",
    "submitted": "46266.7673611111"
-  },
-  {
-   "id": "5641",
-   "date": "2026-09-09",
-   "dept": "Finance",
-   "requester": "p[ldsfb",
-   "phone": "dplfbk",
-   "task": "ส่งเอกสาร",
-   "loc": "หลานยายนุสรา (Baan Turtle)",
-   "contact": "asdv",
-   "contact_phone": "wve",
-   "notes": "asdv",
-   "shift": "บ่าย",
-   "submitted": "46274.6249652778"
   }
  ]
 }
