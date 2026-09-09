@@ -1,6 +1,6 @@
 {
- "generated_at": "09/09/2026 14:51 น.",
- "count": 5490,
+ "generated_at": "09/09/2026 14:52 น.",
+ "count": 5491,
  "records": [
   {
    "id": "1",
@@ -76861,6 +76861,20 @@
    "notes": "เอกสารเชฟลงนาม",
    "shift": "บ่าย",
    "submitted": "46274.5827893519"
+  },
+  {
+   "id": "5638",
+   "date": "2026-09-09",
+   "dept": "Finance",
+   "requester": "sdv",
+   "phone": "sfdb",
+   "task": "ส่งเอกสาร",
+   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "contact": "zxfb",
+   "contact_phone": "sfdb",
+   "notes": "asdfb",
+   "shift": "บ่าย",
+   "submitted": "46274.6051041667"
   }
  ]
 }
