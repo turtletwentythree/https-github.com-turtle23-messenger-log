@@ -1,6 +1,6 @@
 {
- "generated_at": "09/09/2026 14:56 น.",
- "count": 5491,
+ "generated_at": "09/09/2026 14:57 น.",
+ "count": 5492,
  "records": [
   {
    "id": "1",
@@ -76875,6 +76875,20 @@
    "notes": "asdfb",
    "shift": "บ่าย",
    "submitted": "46274.6051041667"
+  },
+  {
+   "id": "5639",
+   "date": "2026-09-09",
+   "dept": "Finance",
+   "requester": "poskdv",
+   "phone": "[pksdv",
+   "task": "ส่งเอกสาร",
+   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "contact": "oksdv",
+   "contact_phone": "poksv",
+   "notes": ";ls",
+   "shift": "บ่าย",
+   "submitted": "46274.6205092593"
   }
  ]
 }
