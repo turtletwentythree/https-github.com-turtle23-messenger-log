@@ -433,7 +433,7 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
 <script>
 (function(){
   let DATA = JSON.parse(document.getElementById('booking-data').textContent);
-  let GENERATED_AT = "09/09/2026 14:19 น.";
+  let GENERATED_AT = "09/09/2026 14:24 น.";
 
   // Bangkok "today" computed client-side (not baked in at build time) so it
   // stays correct across a live refresh, and even if the page is left open
@@ -873,11 +873,59 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
     }
   });
 
-  // ---- live sync: refetch docs/booking_data.json (rebuilt by GitHub
-  // Actions every 5 min) and hot-swap it in, no full page reload needed ----
+  // ---- live sync ----
+  // Automatic sync (page open / visibility / 5-min interval) just refetches
+  // docs/booking_data.json, which GitHub Actions rebuilds on its own
+  // schedule. A MANUAL click, though, first asks a small Cloudflare Worker
+  // (messenger-sync-trigger) to kick off that GitHub Actions workflow
+  // immediately — so it does a genuinely fresh SharePoint pull — then polls
+  // booking_data.json until its generated_at stamp actually moves forward,
+  // rather than just re-reading whatever was already there.
   const syncBtn = document.getElementById('btn-sync');
   const SYNC_BTN_LABEL = syncBtn.textContent;
+  const SYNC_TRIGGER_URL = 'https://messenger-sync-trigger.turtle23-ai.workers.dev/';
+  const SYNC_POLL_INTERVAL_MS = 5000;
+  const SYNC_POLL_TIMEOUT_MS = 120000;
   let syncing = false;
+
+  async function fetchLatestPayload(){
+    const res = await fetch('booking_data.json?t=' + Date.now(), {cache: 'no-store'});
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const payload = await res.json();
+    const records = Array.isArray(payload) ? payload : payload.records;
+    const generatedAt = Array.isArray(payload) ? GENERATED_AT : (payload.generated_at || GENERATED_AT);
+    if (!Array.isArray(records)) throw new Error('bad payload');
+    return { records, generatedAt };
+  }
+
+  function applyPayload(p){
+    const changed = p.generatedAt !== GENERATED_AT || p.records.length !== DATA.length;
+    DATA = p.records;
+    GENERATED_AT = p.generatedAt;
+    updateSnapshotAndStats();
+    populateFilterOptions();
+    render();
+    renderSheet();
+    return changed;
+  }
+
+  function wait(ms){ return new Promise(r => setTimeout(r, ms)); }
+
+  // Ask the Worker to trigger a fresh GitHub Actions run right now.
+  // Returns true if a run is (or was already) underway and worth waiting
+  // on, false if the trigger itself failed outright (network/CORS/etc).
+  async function triggerFreshSync(){
+    try {
+      const resp = await fetch(SYNC_TRIGGER_URL, { method: 'POST' });
+      let body = {};
+      try { body = await resp.json(); } catch (e) { /* ignore */ }
+      if (resp.ok && body.ok) return true;
+      if (resp.status === 429 || body.rateLimited) return true; // a run is likely already in flight
+      return false;
+    } catch (err) {
+      return false;
+    }
+  }
 
   async function syncNow(isManual){
     if (syncing) return;
@@ -885,25 +933,40 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
     if (isManual) {
       syncBtn.disabled = true;
       syncBtn.classList.add('spinning');
-      syncBtn.textContent = '🔄 กำลังซิงค์...';
+      syncBtn.textContent = '🔄 กำลังสั่งดึงข้อมูลสดจาก SharePoint...';
     }
     try {
-      const res = await fetch('booking_data.json?t=' + Date.now(), {cache: 'no-store'});
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      const payload = await res.json();
-      const records = Array.isArray(payload) ? payload : payload.records;
-      const generatedAt = Array.isArray(payload) ? GENERATED_AT : (payload.generated_at || GENERATED_AT);
-      if (!Array.isArray(records)) throw new Error('bad payload');
+      if (isManual) {
+        const beforeGeneratedAt = GENERATED_AT;
+        const triggered = await triggerFreshSync();
 
-      const changed = generatedAt !== GENERATED_AT || records.length !== DATA.length;
-      DATA = records;
-      GENERATED_AT = generatedAt;
+        if (triggered) {
+          syncBtn.textContent = '⏳ รอ SharePoint อัปเดตข้อมูล...';
+          const deadline = Date.now() + SYNC_POLL_TIMEOUT_MS;
+          let fresh = null;
+          while (Date.now() < deadline) {
+            await wait(SYNC_POLL_INTERVAL_MS);
+            try {
+              const p = await fetchLatestPayload();
+              if (p.generatedAt !== beforeGeneratedAt) { fresh = p; break; }
+            } catch (e) { /* keep polling */ }
+          }
+          if (fresh) {
+            applyPayload(fresh);
+            syncBtn.textContent = '✅ มีข้อมูลใหม่แล้ว';
+          } else {
+            const p = await fetchLatestPayload();
+            const changed = applyPayload(p);
+            syncBtn.textContent = changed ? '✅ มีข้อมูลใหม่แล้ว' : '⚠️ ยังไม่เสร็จ ลองซิงค์อีกครั้งในสักครู่';
+          }
+          return;
+        }
+        // Trigger itself failed (Worker unreachable, blocked, etc.) — fall
+        // through to a plain refetch below so the button still does *something*.
+      }
 
-      updateSnapshotAndStats();
-      populateFilterOptions();
-      render();
-      renderSheet();
-
+      const p = await fetchLatestPayload();
+      const changed = applyPayload(p);
       if (isManual) {
         syncBtn.textContent = changed ? '✅ มีข้อมูลใหม่แล้ว' : '✅ เป็นข้อมูลล่าสุดอยู่แล้ว';
       }
@@ -913,7 +976,7 @@ footer{margin-top:26px;font-size:11.5px;color:var(--ink-muted);text-align:center
       syncing = false;
       if (isManual) {
         syncBtn.classList.remove('spinning');
-        setTimeout(() => { syncBtn.disabled = false; syncBtn.textContent = SYNC_BTN_LABEL; }, 2000);
+        setTimeout(() => { syncBtn.disabled = false; syncBtn.textContent = SYNC_BTN_LABEL; }, 2500);
       }
     }
   }
