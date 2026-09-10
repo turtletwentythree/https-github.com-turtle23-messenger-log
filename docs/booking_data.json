@@ -1,6 +1,6 @@
 {
- "generated_at": "10/09/2026 13:50 น.",
- "count": 5497,
+ "generated_at": "10/09/2026 13:52 น.",
+ "count": 5502,
  "records": [
   {
    "id": "1",
@@ -76959,6 +76959,76 @@
    "notes": "ส่งเมนู และใบเสร็จ",
    "shift": "บ่าย",
    "submitted": "46274.487962963"
+  },
+  {
+   "id": "5648",
+   "date": "2026-09-10",
+   "dept": "Operation",
+   "requester": "Rawisara",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "p'koko",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารสำเนา Travel authorization (2Sep26) --PD",
+   "shift": "บ่าย",
+   "submitted": "46275.510162037"
+  },
+  {
+   "id": "5649",
+   "date": "2026-09-10",
+   "dept": "Procurement",
+   "requester": "เบียร์",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46275.5671412037"
+  },
+  {
+   "id": "5650",
+   "date": "2026-09-10",
+   "dept": "Procurement",
+   "requester": "เบียร์",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณละห์",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46275.5678009259"
+  },
+  {
+   "id": "5651",
+   "date": "2026-09-10",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ประทับตราบริษัท",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal",
+   "contact_phone": "-",
+   "notes": "ประทับตรา  T23",
+   "shift": "บ่าย",
+   "submitted": "46275.4217476852"
+  },
+  {
+   "id": "5652",
+   "date": "2026-09-10",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "HR P Pare",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามพี่จี้ส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46275.5740625"
   }
  ]
 }
