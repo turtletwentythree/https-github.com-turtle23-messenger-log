@@ -1,6 +1,6 @@
 {
- "generated_at": "10/09/2026 09:50 น.",
- "count": 5495,
+ "generated_at": "10/09/2026 10:00 น.",
+ "count": 5496,
  "records": [
   {
    "id": "1",
@@ -76872,7 +76872,7 @@
    "loc": "Alpea",
    "contact": "k.NATCHA",
    "contact_phone": "-",
-   "notes": "ฌฮฏศษณ,.ฯษฒ",
+   "notes": "เอกสารลงนาม 1 ถุง 1 ซอง",
    "shift": "เช้า",
    "submitted": "46275.4050231482"
   },
@@ -76931,6 +76931,20 @@
    "notes": "ส่งเมนู และใบเสร็จ",
    "shift": "บ่าย",
    "submitted": "46274.487962963"
+  },
+  {
+   "id": "5646",
+   "date": "2026-09-10",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 # 2264",
+   "notes": "บิลแก้ไขชื่อบริษัท",
+   "shift": "เช้า",
+   "submitted": "46275.4146296296"
   }
  ]
 }
