@@ -1,6 +1,6 @@
 {
- "generated_at": "10/09/2026 09:44 น.",
- "count": 5493,
+ "generated_at": "10/09/2026 09:50 น.",
+ "count": 5495,
  "records": [
   {
    "id": "1",
@@ -76821,6 +76821,20 @@
    "submitted": "46274.5827893519"
   },
   {
+   "id": "5640",
+   "date": "2026-09-10",
+   "dept": "Project Development",
+   "requester": "Ky",
+   "phone": "0659657846",
+   "task": "รับเอกสาร",
+   "loc": "SVP",
+   "contact": "คุณแคท",
+   "contact_phone": "085-243-8111",
+   "notes": "บริษัท เอส. วี. แอนด์ พี. คาร์ตั้น จำกัด ที่อยู่ 14/3 หมู่3 ซอยบุญธรรมอนุสรณ์ ถนนเทพารักษ์ อำเภอบางพลี ตำบลบางพลีใหญ่ จังหวัดสมุทรปราการ 10540",
+   "shift": "เช้า",
+   "submitted": "46266.7673611111"
+  },
+  {
    "id": "5620",
    "date": "2026-09-10",
    "dept": "Procurement",
@@ -76842,39 +76856,25 @@
    "phone": "0624292244",
    "task": "ส่งเอกสาร",
    "loc": "Alpea",
-   "contact": "-",
+   "contact": "คุณ ณัชชา",
    "contact_phone": "-",
    "notes": "ส่งเล่มเมนู",
    "shift": "เช้า",
    "submitted": "46274.4057175926"
   },
   {
-   "id": "5630",
+   "id": "5645",
    "date": "2026-09-10",
-   "dept": "Marketing",
-   "requester": "Pap",
-   "phone": "099-256-3655",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
    "task": "ส่งเอกสาร",
-   "loc": "Kappo Takashi S38",
-   "contact": "พี่ลัคกี้",
-   "contact_phone": "085-553-5662\n061-172-2598",
-   "notes": "ส่งเมนู และใบเสร็จ",
-   "shift": "บ่าย",
-   "submitted": "46274.487962963"
-  },
-  {
-   "id": "5640",
-   "date": "2026-09-10",
-   "dept": "Project Development",
-   "requester": "Ky",
-   "phone": "0659657846",
-   "task": "รับเอกสาร",
-   "loc": "SVP",
-   "contact": "คุณแคท",
-   "contact_phone": "085-243-8111",
-   "notes": "บริษัท เอส. วี. แอนด์ พี. คาร์ตั้น จำกัด ที่อยู่ 14/3 หมู่3 ซอยบุญธรรมอนุสรณ์ ถนนเทพารักษ์ อำเภอบางพลี ตำบลบางพลีใหญ่ จังหวัดสมุทรปราการ 10540",
+   "loc": "Alpea",
+   "contact": "k.NATCHA",
+   "contact_phone": "-",
+   "notes": "ฌฮฏศษณ,.ฯษฒ",
    "shift": "เช้า",
-   "submitted": "46266.7673611111"
+   "submitted": "46275.4050231482"
   },
   {
    "id": "5642",
@@ -76903,6 +76903,34 @@
    "notes": "Inv. RCS",
    "shift": "เช้า",
    "submitted": "46275.3741087963"
+  },
+  {
+   "id": "5644",
+   "date": "2026-09-10",
+   "dept": "Marketing",
+   "requester": "โบ",
+   "phone": "0624292244",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "-",
+   "contact_phone": "-",
+   "notes": "-",
+   "shift": "บ่าย",
+   "submitted": "46275.4058449074"
+  },
+  {
+   "id": "5630",
+   "date": "2026-09-10",
+   "dept": "Marketing",
+   "requester": "Pap",
+   "phone": "099-256-3655",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Takashi S38",
+   "contact": "พี่ลัคกี้",
+   "contact_phone": "085-553-5662\n061-172-2598",
+   "notes": "ส่งเมนู และใบเสร็จ",
+   "shift": "บ่าย",
+   "submitted": "46274.487962963"
   }
  ]
 }
