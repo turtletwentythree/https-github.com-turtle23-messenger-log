@@ -1,6 +1,6 @@
 {
- "generated_at": "10/09/2026 13:52 น.",
- "count": 5502,
+ "generated_at": "10/09/2026 14:29 น.",
+ "count": 5503,
  "records": [
   {
    "id": "1",
@@ -77029,6 +77029,20 @@
    "notes": "เอกสารลงนามพี่จี้ส่งคืน",
    "shift": "บ่าย",
    "submitted": "46275.5740625"
+  },
+  {
+   "id": "5653",
+   "date": "2026-09-10",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 #2287",
+   "notes": "Petty Cash KIN1",
+   "shift": "บ่าย",
+   "submitted": "46275.5906944444"
   }
  ]
 }
