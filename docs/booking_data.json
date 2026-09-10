@@ -1,6 +1,6 @@
 {
- "generated_at": "10/09/2026 16:06 น.",
- "count": 5504,
+ "generated_at": "10/09/2026 20:32 น.",
+ "count": 5507,
  "records": [
   {
    "id": "1",
@@ -77057,6 +77057,48 @@
    "notes": "เอกสารลงนามคุณสรสิช (คุณสรสิชเเจ้งรอชั้น 1 ช่วง 10.00-12.00 น.)",
    "shift": "เช้า",
    "submitted": "46275.5749537037"
+  },
+  {
+   "id": "5655",
+   "date": "2026-09-11",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "02 1808984",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารเบิก",
+   "shift": "เช้า",
+   "submitted": "46275.6345833333"
+  },
+  {
+   "id": "5656",
+   "date": "2026-09-11",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46275.6343171296"
+  },
+  {
+   "id": "5658",
+   "date": "2026-09-11",
+   "dept": "Operation",
+   "requester": "wassana",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.จุ๋ม",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "เช้า",
+   "submitted": "46275.7332986111"
   }
  ]
 }
