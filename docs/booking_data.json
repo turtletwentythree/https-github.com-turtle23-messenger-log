@@ -1,6 +1,6 @@
 {
- "generated_at": "11/09/2026 10:30 น.",
- "count": 5507,
+ "generated_at": "11/09/2026 11:16 น.",
+ "count": 5513,
  "records": [
   {
    "id": "1",
@@ -77099,6 +77099,90 @@
    "notes": "เอกสารลงนาม",
    "shift": "เช้า",
    "submitted": "46275.7332986111"
+  },
+  {
+   "id": "5659",
+   "date": "2026-09-11",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P GoB hr",
+   "contact_phone": "-",
+   "notes": "เอกสารอนุมัตการเดินทางของคุณเว้งคุณเฮนรี่",
+   "shift": "เช้า",
+   "submitted": "46275.7337037037"
+  },
+  {
+   "id": "5660",
+   "date": "2026-09-11",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ โก้",
+   "contact_phone": "02-080 1000 # 2255",
+   "notes": "Non-PO kluaynamthai-MPZ / Win Win -T23",
+   "shift": "เช้า",
+   "submitted": "46276.3620138889"
+  },
+  {
+   "id": "5661",
+   "date": "2026-09-11",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "ใบสรุปใบสั่งซื้อ และ Inv.ตัวจริงที่ขาดลายเซ็น",
+   "shift": "เช้า",
+   "submitted": "46276.3847685185"
+  },
+  {
+   "id": "5662",
+   "date": "2026-09-11",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ปาล์ม",
+   "contact_phone": "092-925 4944",
+   "notes": "เอกสารบริษัทเพื่อการลงนาม",
+   "shift": "เช้า",
+   "submitted": "46276.3947569444"
+  },
+  {
+   "id": "5663",
+   "date": "2026-09-11",
+   "dept": "Marketing",
+   "requester": "mind",
+   "phone": "0985694192",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "May Juristic",
+   "contact_phone": "0948622111",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46276.4134837963"
+  },
+  {
+   "id": "5664",
+   "date": "2026-09-11",
+   "dept": "Operation",
+   "requester": "Rawisara",
+   "phone": "-",
+   "task": "รับเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณนุ๊ก PD",
+   "contact_phone": "093 319 7878",
+   "notes": "ึถึงแล้วติดต่อพี่นุ๊ก ให้ลงมาส่งเอกสาร",
+   "shift": "บ่าย",
+   "submitted": "46276.4247453704"
   }
  ]
 }
