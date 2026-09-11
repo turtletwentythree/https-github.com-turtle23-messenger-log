@@ -1,6 +1,6 @@
 {
- "generated_at": "11/09/2026 13:23 น.",
- "count": 5513,
+ "generated_at": "11/09/2026 14:37 น.",
+ "count": 5516,
  "records": [
   {
    "id": "1",
@@ -77183,6 +77183,48 @@
    "notes": "ึถึงแล้วติดต่อพี่นุ๊ก ให้ลงมาส่งเอกสาร",
    "shift": "บ่าย",
    "submitted": "46276.4247453704"
+  },
+  {
+   "id": "5665",
+   "date": "2026-09-11",
+   "dept": "IT",
+   "requester": "บอส",
+   "phone": "-",
+   "task": "รับของมาที่ออฟฟิศ",
+   "loc": "FORTUNE Town",
+   "contact": "ร้าน Jedi",
+   "contact_phone": "086-300-8537, 085-225-4114",
+   "notes": "รับของ",
+   "shift": "บ่าย",
+   "submitted": "46276.5583564815"
+  },
+  {
+   "id": "5666",
+   "date": "2026-09-11",
+   "dept": "Project Development",
+   "requester": "Supakron",
+   "phone": "088-2670514",
+   "task": "อื่นๆ",
+   "loc": "11/25 Ratchadaphisek Rd, Khwaeng Chong Nonsi, Khet Yan Nawa, Bangkok 10120",
+   "contact": "แม๊ก",
+   "contact_phone": "0661328245",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46276.5771180556"
+  },
+  {
+   "id": "5667",
+   "date": "2026-09-11",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46276.5911921296"
   }
  ]
 }
