@@ -1,6 +1,6 @@
 {
- "generated_at": "14/09/2026 09:59 น.",
- "count": 5528,
+ "generated_at": "14/09/2026 10:01 น.",
+ "count": 5529,
  "records": [
   {
    "id": "1",
@@ -77393,6 +77393,20 @@
    "notes": "เอกสารลงนามส่งคืน",
    "shift": "เช้า",
    "submitted": "46279.4041666667"
+  },
+  {
+   "id": "5680",
+   "date": "2026-09-14",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "petty cash casual",
+   "shift": "เช้า",
+   "submitted": "46279.4147800926"
   }
  ]
 }
