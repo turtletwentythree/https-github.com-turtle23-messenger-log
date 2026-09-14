@@ -1,6 +1,6 @@
 {
- "generated_at": "14/09/2026 09:53 น.",
- "count": 5527,
+ "generated_at": "14/09/2026 09:57 น.",
+ "count": 5528,
  "records": [
   {
    "id": "1",
@@ -77379,6 +77379,20 @@
    "notes": "cash advance",
    "shift": "เช้า",
    "submitted": "46279.4036574074"
+  },
+  {
+   "id": "5679",
+   "date": "2026-09-14",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ฟิวส์",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46279.4041666667"
   }
  ]
 }
