@@ -1,6 +1,6 @@
 {
- "generated_at": "14/09/2026 11:27 น.",
- "count": 5530,
+ "generated_at": "14/09/2026 12:13 น.",
+ "count": 5532,
  "records": [
   {
    "id": "1",
@@ -77421,6 +77421,34 @@
    "notes": "CHQ RCS",
    "shift": "เช้า",
    "submitted": "46279.4242824074"
+  },
+  {
+   "id": "5682",
+   "date": "2026-09-14",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารเซ็นต์",
+   "shift": "บ่าย",
+   "submitted": "46279.4280324074"
+  },
+  {
+   "id": "5683",
+   "date": "2026-09-14",
+   "dept": "Project Development",
+   "requester": "PJ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ลักษณ์",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46279.474224537"
   }
  ]
 }
