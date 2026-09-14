@@ -1,6 +1,6 @@
 {
- "generated_at": "14/09/2026 14:02 น.",
- "count": 5539,
+ "generated_at": "14/09/2026 14:17 น.",
+ "count": 5541,
  "records": [
   {
    "id": "1",
@@ -77547,6 +77547,34 @@
    "notes": "เอกสารลงนามส่งคืน",
    "shift": "บ่าย",
    "submitted": "46279.582962963"
+  },
+  {
+   "id": "5691",
+   "date": "2026-09-14",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "HR som-o",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามสบ่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46279.5834143519"
+  },
+  {
+   "id": "5692",
+   "date": "2026-09-14",
+   "dept": "Executive",
+   "requester": "Beeb",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.จุ๋ม",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46279.5913657407"
   }
  ]
 }
