@@ -1,6 +1,6 @@
 {
- "generated_at": "14/09/2026 12:14 น.",
- "count": 5532,
+ "generated_at": "14/09/2026 13:53 น.",
+ "count": 5537,
  "records": [
   {
    "id": "1",
@@ -77449,6 +77449,76 @@
    "notes": "เอกสารลงนาม",
    "shift": "บ่าย",
    "submitted": "46279.474224537"
+  },
+  {
+   "id": "5684",
+   "date": "2026-09-14",
+   "dept": "Finance",
+   "requester": "คุณธีรพงศ์ T23",
+   "phone": "084-155-5758",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณพอล Finance BTS",
+   "contact_phone": "084-155-5758",
+   "notes": "ฝากซองเอกสารให้คุณอชิ BCAF เอาขึ้นไปให้คุณพอล",
+   "shift": "บ่าย",
+   "submitted": "46279.5236111111"
+  },
+  {
+   "id": "5685",
+   "date": "2026-09-14",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "payment",
+   "shift": "บ่าย",
+   "submitted": "46279.4829976852"
+  },
+  {
+   "id": "5686",
+   "date": "2026-09-14",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ T23",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46279.5682175926"
+  },
+  {
+   "id": "5687",
+   "date": "2026-09-14",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV KTT",
+   "shift": "บ่าย",
+   "submitted": "46279.5700925926"
+  },
+  {
+   "id": "5688",
+   "date": "2026-09-14",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "0863593825",
+   "task": "ส่งเอกสารและรอรับกลับ",
+   "loc": "อาคาร ลุมพินีทาวเวอร์ ชั้น 17 เลขที่ 1168/8 ถนนพระราม 4 แขวงทุ่งมหาเมฆ เขตสาทร กรุงเทพมหานคร 10120",
+   "contact": "คุณกิ๊ก บริษัท มิตรเทคนิคัล",
+   "contact_phone": "062-886-9558",
+   "notes": "ให้บริษัทมิตรฯ ประทับตราบริษัทหน้าลงนามทั้ง 2 ฉบับ และรอรับกลับ",
+   "shift": "บ่าย",
+   "submitted": "46279.5757407407"
   }
  ]
 }
