@@ -1,6 +1,6 @@
 {
- "generated_at": "15/09/2026 14:07 น.",
- "count": 5559,
+ "generated_at": "15/09/2026 14:10 น.",
+ "count": 5558,
  "records": [
   {
    "id": "1",
@@ -77771,20 +77771,6 @@
    "notes": "เอกสารคืน",
    "shift": "บ่าย",
    "submitted": "46280.4081134259"
-  },
-  {
-   "id": "5708",
-   "date": "2026-09-15",
-   "dept": "Human Resources",
-   "requester": "ส้มโอ",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "Kappo Takashi S38",
-   "contact": "P lucky",
-   "contact_phone": "-",
-   "notes": "ฝากใบเสร็จ และ passport",
-   "shift": "บ่าย",
-   "submitted": "46280.5670023148"
   },
   {
    "id": "5709",
