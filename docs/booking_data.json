@@ -1,6 +1,6 @@
 {
- "generated_at": "15/09/2026 09:48 น.",
- "count": 5547,
+ "generated_at": "15/09/2026 09:51 น.",
+ "count": 5552,
  "records": [
   {
    "id": "1",
@@ -77583,10 +77583,10 @@
    "requester": "Ky",
    "phone": "0659657846",
    "task": "รับของและส่งต่อ",
-   "loc": "Others",
-   "contact": "-",
-   "contact_phone": "-",
-   "notes": "-",
+   "loc": "SVP",
+   "contact": "k.cat",
+   "contact_phone": "0852438117",
+   "notes": "ส่งของให้ SVP และรับเอกสาร (ใบแจ้งหนี้) กลับมาให้กี้ที่ออฟฟิศค่ะ",
    "shift": "เช้า",
    "submitted": "46274.6416550926"
   },
@@ -77619,20 +77619,6 @@
    "submitted": "46279.7236574074"
   },
   {
-   "id": "5696",
-   "date": "2026-09-15",
-   "dept": "Executive",
-   "requester": "โอม",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.G",
-   "contact": "K.ปาลืม",
-   "contact_phone": "-",
-   "notes": "เอกสารลงนามคุณโชติ",
-   "shift": "บ่าย",
-   "submitted": "46279.7239699074"
-  },
-  {
    "id": "5697",
    "date": "2026-09-15",
    "dept": "Operation",
@@ -77659,6 +77645,90 @@
    "notes": "เอกสารลงนามส่งคื น",
    "shift": "เช้า",
    "submitted": "46279.7561111111"
+  },
+  {
+   "id": "5699",
+   "date": "2026-09-15",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "Inv. ตัวจริง RCS",
+   "shift": "เช้า",
+   "submitted": "46280.3395601852"
+  },
+  {
+   "id": "5700",
+   "date": "2026-09-15",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Inv. RCS",
+   "shift": "เช้า",
+   "submitted": "46280.3402083333"
+  },
+  {
+   "id": "5702",
+   "date": "2026-09-15",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2264",
+   "notes": "Inv. แก้ไข กิจวรา-Alpea",
+   "shift": "เช้า",
+   "submitted": "46280.3581944444"
+  },
+  {
+   "id": "5703",
+   "date": "2026-09-15",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.22",
+   "contact": "คุณ แพร์ HR",
+   "contact_phone": "02-080 1000 #1117",
+   "notes": "เอกสารส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46280.3590046296"
+  },
+  {
+   "id": "5704",
+   "date": "2026-09-15",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 # 2287",
+   "notes": "Inv. กิจวรา แก้ไข",
+   "shift": "เช้า",
+   "submitted": "46280.3641550926"
+  },
+  {
+   "id": "5701",
+   "date": "2026-09-15",
+   "dept": "Human Resources",
+   "requester": "ส้มโอ",
+   "phone": "082-3936914",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Takashi S38",
+   "contact": "พี่ลัคกี้",
+   "contact_phone": "085-5535662",
+   "notes": "ฝากใบเสร็จและpassport+Work permit คืนเชฟทาคาชิ",
+   "shift": "บ่าย",
+   "submitted": "46280.327650463"
   }
  ]
 }
