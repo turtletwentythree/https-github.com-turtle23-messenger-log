@@ -1,6 +1,6 @@
 {
- "generated_at": "16/09/2026 13:50 น.",
- "count": 5580,
+ "generated_at": "16/09/2026 14:04 น.",
+ "count": 5588,
  "records": [
   {
    "id": "1",
@@ -78121,6 +78121,118 @@
    "notes": "แจ้งว่าฝ่้ายเอาของมาให้สำหรับวันงาน 19-20Sep",
    "shift": "บ่าย",
    "submitted": "46281.5252430556"
+  },
+  {
+   "id": "5734",
+   "date": "2026-09-16",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 # 2264",
+   "notes": "Reimbursement KTT",
+   "shift": "บ่าย",
+   "submitted": "46281.5532523148"
+  },
+  {
+   "id": "5735",
+   "date": "2026-09-16",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "Petty Cash Alpea",
+   "shift": "บ่าย",
+   "submitted": "46281.5537847222"
+  },
+  {
+   "id": "5736",
+   "date": "2026-09-16",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "P/O ธรรมชาติหลากหลาย-RCS (แก้ไข)",
+   "shift": "บ่าย",
+   "submitted": "46281.5543402778"
+  },
+  {
+   "id": "5737",
+   "date": "2026-09-16",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 # 2264",
+   "notes": "Inv. KTT",
+   "shift": "บ่าย",
+   "submitted": "46281.5550347222"
+  },
+  {
+   "id": "5738",
+   "date": "2026-09-16",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "รับเอกสาร",
+   "loc": "เร็นโทคิล เอกมัย",
+   "contact": "คุณ เมย์",
+   "contact_phone": "0851599829",
+   "notes": "รับเอกสารสัญญา",
+   "shift": "บ่าย",
+   "submitted": "46281.5710532407"
+  },
+  {
+   "id": "5739",
+   "date": "2026-09-16",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "HR som-0",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามพี่จี้ส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46281.4976388889"
+  },
+  {
+   "id": "5740",
+   "date": "2026-09-16",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "เพือ่น",
+   "contact_phone": "-",
+   "notes": "รายงานการประชุม",
+   "shift": "บ่าย",
+   "submitted": "46281.5796412037"
+  },
+  {
+   "id": "5741",
+   "date": "2026-09-16",
+   "dept": "Accounting",
+   "requester": "Mee",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Beam",
+   "contact_phone": "-",
+   "notes": "ิbill food truck 12-13/9/69",
+   "shift": "บ่าย",
+   "submitted": "46281.5810763889"
   }
  ]
 }
