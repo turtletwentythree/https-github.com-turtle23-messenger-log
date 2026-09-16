@@ -1,6 +1,6 @@
 {
- "generated_at": "16/09/2026 14:16 น.",
- "count": 5588,
+ "generated_at": "16/09/2026 14:18 น.",
+ "count": 5590,
  "records": [
   {
    "id": "1",
@@ -78233,6 +78233,34 @@
    "notes": "ิbill food truck 12-13/9/69",
    "shift": "บ่าย",
    "submitted": "46281.5810763889"
+  },
+  {
+   "id": "5742",
+   "date": "2026-09-16",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46281.586400463"
+  },
+  {
+   "id": "5743",
+   "date": "2026-09-16",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ละห์",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46281.5933101852"
   }
  ]
 }
