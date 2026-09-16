@@ -1,6 +1,6 @@
 {
- "generated_at": "16/09/2026 08:45 น.",
- "count": 5567,
+ "generated_at": "16/09/2026 10:07 น.",
+ "count": 5573,
  "records": [
   {
    "id": "1",
@@ -77885,20 +77885,6 @@
    "submitted": "46280.6836689815"
   },
   {
-   "id": "5718",
-   "date": "2026-09-16",
-   "dept": "Finance",
-   "requester": "AB",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "ธนาคารกรุงเทพสำนักงานใหญ่สีลม",
-   "contact": "K.Tussaya",
-   "contact_phone": "022301959",
-   "notes": "เอกสาร",
-   "shift": "เช้า",
-   "submitted": "46280.7181018519"
-  },
-  {
    "id": "5719",
    "date": "2026-09-16",
    "dept": "Marketing",
@@ -77939,6 +77925,104 @@
    "notes": "เอกสารลงนาม",
    "shift": "เช้า",
    "submitted": "46280.7356828704"
+  },
+  {
+   "id": "5721",
+   "date": "2026-09-16",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 #2264",
+   "notes": "ใบวางบิลโพล่าแบร์ และ ใบเสร็จรับเงิน VJ Euro",
+   "shift": "เช้า",
+   "submitted": "46281.335150463"
+  },
+  {
+   "id": "5723",
+   "date": "2026-09-16",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "วางบิล Ycube",
+   "shift": "เช้า",
+   "submitted": "46281.3457523148"
+  },
+  {
+   "id": "5724",
+   "date": "2026-09-16",
+   "dept": "Marketing",
+   "requester": "Fai",
+   "phone": "0613981775",
+   "task": "อื่นๆ",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "P'Nil",
+   "contact_phone": "0658539336",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46281.3847453704"
+  },
+  {
+   "id": "5725",
+   "date": "2026-09-16",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "-",
+   "shift": "เช้า",
+   "submitted": "46281.4028935185"
+  },
+  {
+   "id": "5726",
+   "date": "2026-09-16",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46281.4034027778"
+  },
+  {
+   "id": "5718",
+   "date": "2026-09-16",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "ธนาคารกรุงเทพสำนักงานใหญ่สีลม",
+   "contact": "K.Tussaya",
+   "contact_phone": "022301959",
+   "notes": "เอกสาร",
+   "shift": "บ่าย",
+   "submitted": "46280.7181018519"
+  },
+  {
+   "id": "5722",
+   "date": "2026-09-16",
+   "dept": "Human Resources",
+   "requester": "Pattiya H.",
+   "phone": "020801000",
+   "task": "รับเอกสาร",
+   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "contact": "Khun Alois",
+   "contact_phone": "090-2562187",
+   "notes": "รับเอกสารจากคุณอาลัว แล้วเสนอเอกสารให้ Passport และ Work permit ให้เขาลงนาม *เขาเข้าร้านตอน 15.00 น.",
+   "shift": "บ่าย",
+   "submitted": "46281.3397685185"
   }
  ]
 }
