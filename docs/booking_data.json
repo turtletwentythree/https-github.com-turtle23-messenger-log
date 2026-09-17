@@ -1,6 +1,6 @@
 {
- "generated_at": "17/09/2026 09:58 น.",
- "count": 5597,
+ "generated_at": "17/09/2026 10:00 น.",
+ "count": 5598,
  "records": [
   {
    "id": "1",
@@ -78359,6 +78359,20 @@
    "notes": "",
    "shift": "เช้า",
    "submitted": "46282.4147106481"
+  },
+  {
+   "id": "5751",
+   "date": "2026-09-17",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46282.4147222222"
   }
  ]
 }
