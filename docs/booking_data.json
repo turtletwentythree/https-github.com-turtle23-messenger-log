@@ -1,6 +1,6 @@
 {
- "generated_at": "17/09/2026 07:54 น.",
- "count": 5591,
+ "generated_at": "17/09/2026 09:58 น.",
+ "count": 5597,
  "records": [
   {
    "id": "1",
@@ -78275,6 +78275,90 @@
    "notes": "ประทับตรา ร้อยชักสาม",
    "shift": "บ่าย",
    "submitted": "46281.5936226852"
+  },
+  {
+   "id": "5745",
+   "date": "2026-09-16",
+   "dept": "IT",
+   "requester": "Boss",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Takashi S38",
+   "contact": "K.lucky",
+   "contact_phone": "-",
+   "notes": "ใบอนุญาตใช้เพลง",
+   "shift": "บ่าย",
+   "submitted": "46281.611712963"
+  },
+  {
+   "id": "5746",
+   "date": "2026-09-17",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 # 2286",
+   "notes": "ใบวางบิลงอกงาม - KTT",
+   "shift": "เช้า",
+   "submitted": "46282.3815625"
+  },
+  {
+   "id": "5747",
+   "date": "2026-09-17",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Inv. Alpea",
+   "shift": "เช้า",
+   "submitted": "46282.3897337963"
+  },
+  {
+   "id": "5748",
+   "date": "2026-09-17",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "คุณ ณัชชา",
+   "contact_phone": "02-180 8974",
+   "notes": "เอกสารเพื่อการขอลายเซ็น / ส่งวันนี้ หรือ วันศุกร์",
+   "shift": "บ่าย",
+   "submitted": "46282.3903587963"
+  },
+  {
+   "id": "5749",
+   "date": "2026-09-17",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46282.4138657407"
+  },
+  {
+   "id": "5750",
+   "date": "2026-09-17",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณละห์",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46282.4147106481"
   }
  ]
 }
