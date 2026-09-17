@@ -1,6 +1,6 @@
 {
- "generated_at": "17/09/2026 14:00 น.",
- "count": 5602,
+ "generated_at": "17/09/2026 14:06 น.",
+ "count": 5603,
  "records": [
   {
    "id": "1",
@@ -78429,6 +78429,20 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46282.575787037"
+  },
+  {
+   "id": "5756",
+   "date": "2026-09-17",
+   "dept": "Marketing",
+   "requester": "ฝ้าย",
+   "phone": "061 398 1775",
+   "task": "รับเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "ฟิวส์ บัญชี",
+   "contact_phone": "064-0078670",
+   "notes": "แจ้งว่ามารับใบเสร็จของAlpea",
+   "shift": "บ่าย",
+   "submitted": "46282.5847337963"
   }
  ]
 }
