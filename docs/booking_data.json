@@ -1,6 +1,6 @@
 {
- "generated_at": "17/09/2026 13:55 น.",
- "count": 5600,
+ "generated_at": "17/09/2026 14:00 น.",
+ "count": 5602,
  "records": [
   {
    "id": "1",
@@ -78401,6 +78401,34 @@
    "notes": "ส่งเมนู",
    "shift": "บ่าย",
    "submitted": "46282.4340277778"
+  },
+  {
+   "id": "5754",
+   "date": "2026-09-17",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46282.5753356481"
+  },
+  {
+   "id": "5755",
+   "date": "2026-09-17",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณละห์",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46282.575787037"
   }
  ]
 }
