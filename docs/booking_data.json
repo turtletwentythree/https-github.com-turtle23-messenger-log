@@ -1,5 +1,5 @@
 {
- "generated_at": "18/09/2026 14:27 น.",
+ "generated_at": "18/09/2026 14:29 น.",
  "count": 5624,
  "records": [
   {
@@ -78025,20 +78025,6 @@
    "submitted": "46281.4044097222"
   },
   {
-   "id": "5722",
-   "date": "2026-09-16",
-   "dept": "Human Resources",
-   "requester": "Pattiya H.",
-   "phone": "020801000",
-   "task": "รับเอกสาร",
-   "loc": "หลานยายนุสรา (Baan Turtle)",
-   "contact": "Khun Alois",
-   "contact_phone": "090-2562187",
-   "notes": "รับเอกสารจากคุณอาลัว แล้วเสนอเอกสารให้ Passport และ Work permit ให้เขาลงนาม *เขาเข้าร้านตอน 15.00 น.",
-   "shift": "บ่าย",
-   "submitted": "46281.3397685185"
-  },
-  {
    "id": "5718",
    "date": "2026-09-16",
    "dept": "Finance",
@@ -78737,6 +78723,20 @@
    "notes": "เอกสารลงนามส่งคืน 1 ถุง",
    "shift": "บ่าย",
    "submitted": "46283.5984375"
+  },
+  {
+   "id": "5722",
+   "date": "2026-09-16",
+   "dept": "Human Resources",
+   "requester": "Pattiya H.",
+   "phone": "020801000",
+   "task": "รับเอกสาร",
+   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "contact": "Khun Alois",
+   "contact_phone": "090-2562187",
+   "notes": "รับเอกสารจากคุณอาลัว แล้วเสนอเอกสารให้ Passport และ Work permit ให้เขาลงนาม *เขาเข้าร้านตอน 15.00 น.",
+   "shift": "บ่าย",
+   "submitted": "46281.3397685185"
   }
  ]
 }
