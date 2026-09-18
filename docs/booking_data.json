@@ -1,6 +1,6 @@
 {
- "generated_at": "18/09/2026 11:39 น.",
- "count": 5618,
+ "generated_at": "18/09/2026 14:27 น.",
+ "count": 5624,
  "records": [
   {
    "id": "1",
@@ -78515,34 +78515,6 @@
    "submitted": "46283.3919560185"
   },
   {
-   "id": "5762",
-   "date": "2026-09-18",
-   "dept": "Human Resources",
-   "requester": "Pattiya H.",
-   "phone": "020801000",
-   "task": "ส่งเอกสาร",
-   "loc": "ร้าน นุสรา",
-   "contact": "Khun Alois",
-   "contact_phone": "090-2562187",
-   "notes": "รับเอกสาร และเสนอเอกสารส่วนตัวให้เขาลงนาม (เขาเข้าร้านตอน 15.00 เป็นต้นไป)",
-   "shift": "บ่าย",
-   "submitted": "46283.3943055556"
-  },
-  {
-   "id": "5763",
-   "date": "2026-09-18",
-   "dept": "Marketing",
-   "requester": "โบ",
-   "phone": "0624292244",
-   "task": "ส่งเอกสาร",
-   "loc": "Capricci เย็นอากาศ 1",
-   "contact": "-",
-   "contact_phone": "-",
-   "notes": "ส่งเมนูไวน์",
-   "shift": "บ่าย",
-   "submitted": "46283.3972106482"
-  },
-  {
    "id": "5764",
    "date": "2026-09-18",
    "dept": "Marketing",
@@ -78653,6 +78625,118 @@
    "notes": "Inv. แก้ไขบริษัท โชติชา",
    "shift": "เช้า",
    "submitted": "46283.417349537"
+  },
+  {
+   "id": "5772",
+   "date": "2026-09-18",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "สรุปใบสั่งซื้อ และ ใบลดหนี้ เดลิชฟู้ด",
+   "shift": "บ่าย",
+   "submitted": "46283.5559143518"
+  },
+  {
+   "id": "5773",
+   "date": "2026-09-18",
+   "dept": "Accounting",
+   "requester": "ying Bcaf",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BK Salon สาธุประดิษฐ์",
+   "contact": "K.maysa",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46283.4131134259"
+  },
+  {
+   "id": "5763",
+   "date": "2026-09-18",
+   "dept": "Marketing",
+   "requester": "โบ",
+   "phone": "0624292244",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "-",
+   "contact_phone": "-",
+   "notes": "ส่งเมนูไวน์",
+   "shift": "บ่าย",
+   "submitted": "46283.3972106482"
+  },
+  {
+   "id": "5762",
+   "date": "2026-09-18",
+   "dept": "Human Resources",
+   "requester": "Pattiya H.",
+   "phone": "020801000",
+   "task": "ส่งเอกสาร",
+   "loc": "ร้าน นุสรา",
+   "contact": "ร้าน นุสรา",
+   "contact_phone": "090-2562187",
+   "notes": "รับเอกสาร และเสนอเอกสารส่วนตัวให้เขาลงนาม (เขาเข้าร้านตอน 15.00 เป็นต้นไป)",
+   "shift": "บ่าย",
+   "submitted": "46283.3943055556"
+  },
+  {
+   "id": "5774",
+   "date": "2026-09-18",
+   "dept": "Human Resources",
+   "requester": "Pare Hr",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "K.นิล",
+   "contact_phone": "-",
+   "notes": "บัตรประกันกลุ่ม",
+   "shift": "บ่าย",
+   "submitted": "46283.5758564815"
+  },
+  {
+   "id": "5776",
+   "date": "2026-09-18",
+   "dept": "Executive",
+   "requester": "PJ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "cash advance",
+   "shift": "บ่าย",
+   "submitted": "46283.5880787037"
+  },
+  {
+   "id": "5775",
+   "date": "2026-09-21",
+   "dept": "Accounting",
+   "requester": "ACHI",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "contact": "บัญชี",
+   "contact_phone": "-",
+   "notes": "WHT สาธร",
+   "shift": "บ่าย",
+   "submitted": "46283.5776967593"
+  },
+  {
+   "id": "5777",
+   "date": "2026-09-18",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน 1 ถุง",
+   "shift": "บ่าย",
+   "submitted": "46283.5984375"
   }
  ]
 }
