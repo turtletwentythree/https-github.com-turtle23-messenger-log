@@ -1,5 +1,5 @@
 {
- "generated_at": "18/09/2026 14:29 น.",
+ "generated_at": "18/09/2026 14:33 น.",
  "count": 5624,
  "records": [
   {
@@ -78697,20 +78697,6 @@
    "submitted": "46283.5880787037"
   },
   {
-   "id": "5775",
-   "date": "2026-09-21",
-   "dept": "Accounting",
-   "requester": "ACHI",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "หลานยายนุสรา (Baan Turtle)",
-   "contact": "บัญชี",
-   "contact_phone": "-",
-   "notes": "WHT สาธร",
-   "shift": "บ่าย",
-   "submitted": "46283.5776967593"
-  },
-  {
    "id": "5777",
    "date": "2026-09-18",
    "dept": "Executive",
@@ -78726,17 +78712,31 @@
   },
   {
    "id": "5722",
-   "date": "2026-09-16",
+   "date": "2026-09-18",
    "dept": "Human Resources",
    "requester": "Pattiya H.",
    "phone": "020801000",
    "task": "รับเอกสาร",
-   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "loc": "คอลงถม",
    "contact": "Khun Alois",
    "contact_phone": "090-2562187",
-   "notes": "รับเอกสารจากคุณอาลัว แล้วเสนอเอกสารให้ Passport และ Work permit ให้เขาลงนาม *เขาเข้าร้านตอน 15.00 น.",
+   "notes": "เอกสารลงนามเชฟ",
    "shift": "บ่าย",
    "submitted": "46281.3397685185"
+  },
+  {
+   "id": "5775",
+   "date": "2026-09-21",
+   "dept": "Accounting",
+   "requester": "ACHI",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "contact": "บัญชี",
+   "contact_phone": "-",
+   "notes": "WHT สาธร",
+   "shift": "บ่าย",
+   "submitted": "46283.5776967593"
   }
  ]
 }
