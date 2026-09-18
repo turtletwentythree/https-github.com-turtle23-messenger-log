@@ -1,6 +1,6 @@
 {
- "generated_at": "18/09/2026 09:57 น.",
- "count": 5617,
+ "generated_at": "18/09/2026 10:24 น.",
+ "count": 5618,
  "records": [
   {
    "id": "1",
@@ -78639,6 +78639,20 @@
    "notes": "INV GR",
    "shift": "เช้า",
    "submitted": "46283.411087963"
+  },
+  {
+   "id": "5771",
+   "date": "2026-09-18",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 # 2260",
+   "notes": "Inv. แก้ไขบริษัท โชติชา",
+   "shift": "เช้า",
+   "submitted": "46283.417349537"
   }
  ]
 }
