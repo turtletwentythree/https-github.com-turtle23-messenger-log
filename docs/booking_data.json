@@ -1,6 +1,6 @@
 {
- "generated_at": "21/09/2026 10:31 น.",
- "count": 5638,
+ "generated_at": "21/09/2026 10:37 น.",
+ "count": 5639,
  "records": [
   {
    "id": "1",
@@ -78882,7 +78882,7 @@
    "id": "5788",
    "date": "2026-09-21",
    "dept": "Executive",
-   "requester": "โอม",
+   "requester": "AB",
    "phone": "-",
    "task": "ส่งเอกสาร",
    "loc": "BTSV Fl.G",
@@ -78907,20 +78907,6 @@
    "submitted": "46286.4376041667"
   },
   {
-   "id": "5790",
-   "date": "2026-09-22",
-   "dept": "Human Resources",
-   "requester": "ส้มโอ",
-   "phone": "082-3936914",
-   "task": "ส่งเอกสาร",
-   "loc": "Capricci เย็นอากาศ 1",
-   "contact": "นิล",
-   "contact_phone": "083-8208984",
-   "notes": "ฝากเอกสารให้พนักงาน",
-   "shift": "บ่าย",
-   "submitted": "46286.420474537"
-  },
-  {
    "id": "5789",
    "date": "2026-09-21",
    "dept": "Human Resources",
@@ -78933,6 +78919,34 @@
    "notes": "ฝากหนังสือรับรองให้พี่ณัชชา",
    "shift": "บ่าย",
    "submitted": "46286.4200462963"
+  },
+  {
+   "id": "5792",
+   "date": "2026-09-21",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K. YIng Bcaf",
+   "contact_phone": "-",
+   "notes": "petty cash KIT",
+   "shift": "เช้า",
+   "submitted": "46286.4419560185"
+  },
+  {
+   "id": "5790",
+   "date": "2026-09-22",
+   "dept": "Human Resources",
+   "requester": "ส้มโอ",
+   "phone": "082-3936914",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "นิล",
+   "contact_phone": "083-8208984",
+   "notes": "ฝากเอกสารให้พนักงาน",
+   "shift": "บ่าย",
+   "submitted": "46286.420474537"
   }
  ]
 }
