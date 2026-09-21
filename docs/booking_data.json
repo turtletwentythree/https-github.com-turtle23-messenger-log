@@ -1,6 +1,6 @@
 {
- "generated_at": "21/09/2026 10:25 น.",
- "count": 5635,
+ "generated_at": "21/09/2026 10:31 น.",
+ "count": 5638,
  "records": [
   {
    "id": "1",
@@ -78627,20 +78627,6 @@
    "submitted": "46283.5559143518"
   },
   {
-   "id": "5773",
-   "date": "2026-09-21",
-   "dept": "Accounting",
-   "requester": "ying Bcaf",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BK Salon สาธุประดิษฐ์",
-   "contact": "K.maysa",
-   "contact_phone": "-",
-   "notes": "เอกสารลงนาม",
-   "shift": "บ่าย",
-   "submitted": "46283.4131134259"
-  },
-  {
    "id": "5763",
    "date": "2026-09-18",
    "dept": "Marketing",
@@ -78737,6 +78723,20 @@
    "notes": "WHT สาธร",
    "shift": "บ่าย",
    "submitted": "46283.5776967593"
+  },
+  {
+   "id": "5773",
+   "date": "2026-09-21",
+   "dept": "Accounting",
+   "requester": "ying Bcaf",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BK Salon สาธุประดิษฐ์",
+   "contact": "K.maysa",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46283.4131134259"
   },
   {
    "id": "5778",
@@ -78852,7 +78852,7 @@
   },
   {
    "id": "5786",
-   "date": "2026-09-14",
+   "date": "2026-09-21",
    "dept": "Operation",
    "requester": "K.nan t23",
    "phone": "-",
@@ -78891,6 +78891,48 @@
    "notes": "VGI Cash Voucher",
    "shift": "เช้า",
    "submitted": "46286.4163541667"
+  },
+  {
+   "id": "5791",
+   "date": "2026-09-21",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "เช้า",
+   "submitted": "46286.4376041667"
+  },
+  {
+   "id": "5790",
+   "date": "2026-09-22",
+   "dept": "Human Resources",
+   "requester": "ส้มโอ",
+   "phone": "082-3936914",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "นิล",
+   "contact_phone": "083-8208984",
+   "notes": "ฝากเอกสารให้พนักงาน",
+   "shift": "บ่าย",
+   "submitted": "46286.420474537"
+  },
+  {
+   "id": "5789",
+   "date": "2026-09-21",
+   "dept": "Human Resources",
+   "requester": "ส้มโอ",
+   "phone": "082-3936914",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "พี่ณัชชา",
+   "contact_phone": "095-4644539",
+   "notes": "ฝากหนังสือรับรองให้พี่ณัชชา",
+   "shift": "บ่าย",
+   "submitted": "46286.4200462963"
   }
  ]
 }
