@@ -1,6 +1,6 @@
 {
- "generated_at": "21/09/2026 12:27 น.",
- "count": 5639,
+ "generated_at": "21/09/2026 14:06 น.",
+ "count": 5645,
  "records": [
   {
    "id": "1",
@@ -78935,6 +78935,34 @@
    "submitted": "46286.4419560185"
   },
   {
+   "id": "5793",
+   "date": "2026-09-21",
+   "dept": "Human Resources",
+   "requester": "ส้มโอ",
+   "phone": "082-3936914",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "พี่ใหม่",
+   "contact_phone": "093-1316688",
+   "notes": "ฝากหนังสือรับรองให้คุณ Butsakorn",
+   "shift": "บ่าย",
+   "submitted": "46286.4490393518"
+  },
+  {
+   "id": "5794",
+   "date": "2026-09-21",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46286.4424189815"
+  },
+  {
    "id": "5790",
    "date": "2026-09-22",
    "dept": "Human Resources",
@@ -78947,6 +78975,62 @@
    "notes": "ฝากเอกสารให้พนักงาน",
    "shift": "บ่าย",
    "submitted": "46286.420474537"
+  },
+  {
+   "id": "5795",
+   "date": "2026-09-21",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "บ่าย",
+   "submitted": "46286.581400463"
+  },
+  {
+   "id": "5796",
+   "date": "2026-09-21",
+   "dept": "Accounting",
+   "requester": "Yinf Bcaf",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BK Salon สาธุประดิษฐ์",
+   "contact": "K.maysa",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46286.5820486111"
+  },
+  {
+   "id": "5797",
+   "date": "2026-09-21",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "-",
+   "task": "รับเอกสาร",
+   "loc": "ร้าน illy cafe",
+   "contact": "K.เจี๊ยบ",
+   "contact_phone": "0638312882",
+   "notes": "รับบิลแก้ไข",
+   "shift": "บ่าย",
+   "submitted": "46286.5843171296"
+  },
+  {
+   "id": "5798",
+   "date": "2026-09-21",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "-",
+   "task": "ประทับตราบริษัท",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal Admin",
+   "contact_phone": "-",
+   "notes": "ลงประทับบริษัท Turtle23",
+   "shift": "บ่าย",
+   "submitted": "46286.5860532407"
   }
  ]
 }
