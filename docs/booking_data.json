@@ -1,6 +1,6 @@
 {
- "generated_at": "22/09/2026 14:54 น.",
- "count": 5657,
+ "generated_at": "22/09/2026 14:57 น.",
+ "count": 5660,
  "records": [
   {
    "id": "1",
@@ -79199,6 +79199,48 @@
    "notes": "รับ passport + Work permit ตัวจริงมาให้ส้ม ไปถึงแล้วโทรหาส้มได้เลย ส้มจะช่วยคุย",
    "shift": "บ่าย",
    "submitted": "46287.4196759259"
+  },
+  {
+   "id": "5811",
+   "date": "2026-09-22",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "0823557542",
+   "task": "รับเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณมน",
+   "contact_phone": "081-562-9497",
+   "notes": "รับเอกสารคืน BTSV ชั้น 5",
+   "shift": "บ่าย",
+   "submitted": "46287.5603240741"
+  },
+  {
+   "id": "5812",
+   "date": "2026-09-22",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46287.5820833333"
+  },
+  {
+   "id": "5813",
+   "date": "2026-09-22",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณละห์",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46287.5824884259"
   }
  ]
 }
