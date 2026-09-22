@@ -1,6 +1,6 @@
 {
- "generated_at": "22/09/2026 10:28 น.",
- "count": 5656,
+ "generated_at": "22/09/2026 10:53 น.",
+ "count": 5657,
  "records": [
   {
    "id": "1",
@@ -79185,6 +79185,20 @@
    "notes": "",
    "shift": "เช้า",
    "submitted": "46287.4300694444"
+  },
+  {
+   "id": "5810",
+   "date": "2026-09-22",
+   "dept": "Human Resources",
+   "requester": "ส้มโอ",
+   "phone": "082-3936914",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Tomo S47",
+   "contact": "Chef Tomohide",
+   "contact_phone": "080-9049620",
+   "notes": "รับ passport + Work permit ตัวจริงมาให้ส้ม ไปถึงแล้วโทรหาส้มได้เลย ส้มจะช่วยคุย",
+   "shift": "บ่าย",
+   "submitted": "46287.4196759259"
   }
  ]
 }
