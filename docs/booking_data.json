@@ -1,6 +1,6 @@
 {
- "generated_at": "23/09/2026 10:13 น.",
- "count": 5670,
+ "generated_at": "23/09/2026 10:26 น.",
+ "count": 5671,
  "records": [
   {
    "id": "1",
@@ -79381,6 +79381,20 @@
    "notes": "inv gr",
    "shift": "เช้า",
    "submitted": "46288.4024652778"
+  },
+  {
+   "id": "5825",
+   "date": "2026-09-23",
+   "dept": "Marketing",
+   "requester": "โบ",
+   "phone": "0624292244",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "-",
+   "contact_phone": "-",
+   "notes": "เมนูเก่า",
+   "shift": "บ่าย",
+   "submitted": "46288.4289467593"
   }
  ]
 }
