@@ -1,6 +1,6 @@
 {
- "generated_at": "23/09/2026 09:39 น.",
- "count": 5666,
+ "generated_at": "23/09/2026 10:01 น.",
+ "count": 5669,
  "records": [
   {
    "id": "1",
@@ -79325,6 +79325,48 @@
    "notes": "เอกสารเซ็นต์",
    "shift": "เช้า",
    "submitted": "46288.4013310185"
+  },
+  {
+   "id": "5820",
+   "date": "2026-09-23",
+   "dept": "Accounting",
+   "requester": "P เเต๋น",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "HR som-o",
+   "contact_phone": "-",
+   "notes": "work permit tomohidesan",
+   "shift": "เช้า",
+   "submitted": "46288.4018171296"
+  },
+  {
+   "id": "5821",
+   "date": "2026-09-23",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46288.4043634259"
+  },
+  {
+   "id": "5822",
+   "date": "2026-09-23",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณอ้อม",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46288.4047685185"
   }
  ]
 }
