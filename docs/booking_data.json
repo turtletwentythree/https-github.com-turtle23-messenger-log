@@ -1,6 +1,6 @@
 {
- "generated_at": "23/09/2026 14:46 น.",
- "count": 5682,
+ "generated_at": "23/09/2026 18:26 น.",
+ "count": 5686,
  "records": [
   {
    "id": "1",
@@ -79476,7 +79476,7 @@
    "loc": "BTSV Fl.G",
    "contact": "K.ฟิวส์",
    "contact_phone": "-",
-   "notes": "เอกสารลงนามส่งคืน 2 ซอง พี่จี้ 1 ซอง เชฟกับพี่จี้ 1 ซอง",
+   "notes": "เอกสารลงนามส่งคืน 2 ซอง 1 ถุง  พี่จี้ 1 ซอง เชฟกับพี่จี้ 1 ซอง เเละ 1 ถุง",
    "shift": "บ่าย",
    "submitted": "46288.5966898148"
   },
@@ -79538,7 +79538,7 @@
   },
   {
    "id": "5836",
-   "date": "2026-09-23",
+   "date": "2026-09-24",
    "dept": "Project Development",
    "requester": "PJ",
    "phone": "-",
@@ -79549,6 +79549,62 @@
    "notes": "ประทับตรา T5",
    "shift": "บ่าย",
    "submitted": "46288.6073726852"
+  },
+  {
+   "id": "5837",
+   "date": "2026-09-24",
+   "dept": "Project Development",
+   "requester": "Pavarit Imem",
+   "phone": "0629352466",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี๋โก้ BCAF",
+   "contact_phone": "-",
+   "notes": "แก้ NON PO Food testing ร้าน Coppoer (Turtle23)",
+   "shift": "เช้า",
+   "submitted": "46288.6794907407"
+  },
+  {
+   "id": "5838",
+   "date": "2026-09-24",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ACHI",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46288.6149421296"
+  },
+  {
+   "id": "5839",
+   "date": "2026-09-24",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46288.7015393519"
+  },
+  {
+   "id": "5840",
+   "date": "2026-09-24",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "0863593825",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko",
+   "contact_phone": "-",
+   "notes": "วางบิล Bo Stiber",
+   "shift": "เช้า",
+   "submitted": "46288.7043402778"
   }
  ]
 }
