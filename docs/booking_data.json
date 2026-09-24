@@ -1,6 +1,6 @@
 {
- "generated_at": "24/09/2026 14:15 น.",
- "count": 5695,
+ "generated_at": "24/09/2026 14:17 น.",
+ "count": 5696,
  "records": [
   {
    "id": "1",
@@ -79731,6 +79731,20 @@
    "notes": "เอกสาร BBL",
    "shift": "บ่าย",
    "submitted": "46289.5920486111"
+  },
+  {
+   "id": "5850",
+   "date": "2026-09-24",
+   "dept": "Operation",
+   "requester": "K.koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "N mint",
+   "contact_phone": "-",
+   "notes": "ส่งคืนเอกสาร",
+   "shift": "บ่าย",
+   "submitted": "46289.5936689815"
   }
  ]
 }
