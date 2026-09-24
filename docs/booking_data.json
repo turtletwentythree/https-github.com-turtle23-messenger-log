@@ -1,6 +1,6 @@
 {
- "generated_at": "24/09/2026 09:39 น.",
- "count": 5686,
+ "generated_at": "24/09/2026 09:41 น.",
+ "count": 5691,
  "records": [
   {
    "id": "1",
@@ -79605,6 +79605,76 @@
    "notes": "วางบิล Bo Stiber",
    "shift": "เช้า",
    "submitted": "46288.7043402778"
+  },
+  {
+   "id": "5841",
+   "date": "2026-09-24",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ละห์",
+   "contact_phone": "02-080 1000 # 2296",
+   "notes": "Non-PO นาย พิพัฒน์, การประปานครหลวง, Iceland Eqp",
+   "shift": "เช้า",
+   "submitted": "46289.3561226852"
+  },
+  {
+   "id": "5842",
+   "date": "2026-09-24",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "สรุปใบสั่งซื้อ",
+   "shift": "เช้า",
+   "submitted": "46289.3573032407"
+  },
+  {
+   "id": "5843",
+   "date": "2026-09-24",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ โก้",
+   "contact_phone": "02- 080 1000 # 2255",
+   "notes": "์Non-PO แอ๊ปป์เซอร์เวชั่น, การไฟฟ้าภูเก็ต, สาทร ปาร์ค",
+   "shift": "เช้า",
+   "submitted": "46289.3581597222"
+  },
+  {
+   "id": "5844",
+   "date": "2026-09-24",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อ้อม",
+   "contact_phone": "02-080 1000 # 2238",
+   "notes": "Non-PO การประปานครหลวง",
+   "shift": "เช้า",
+   "submitted": "46289.3589699074"
+  },
+  {
+   "id": "5845",
+   "date": "2026-09-24",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 9874",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 # 2260",
+   "notes": "Inv. RCS",
+   "shift": "เช้า",
+   "submitted": "46289.3906597222"
   }
  ]
 }
