@@ -1,6 +1,6 @@
 {
- "generated_at": "24/09/2026 12:18 น.",
- "count": 5691,
+ "generated_at": "24/09/2026 14:15 น.",
+ "count": 5695,
  "records": [
   {
    "id": "1",
@@ -79675,6 +79675,62 @@
    "notes": "Inv. RCS",
    "shift": "เช้า",
    "submitted": "46289.3906597222"
+  },
+  {
+   "id": "5846",
+   "date": "2026-09-24",
+   "dept": "Marketing",
+   "requester": "โบ",
+   "phone": "0624292244",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "-",
+   "contact_phone": "-",
+   "notes": "เมนูไวน์ 20 แผ่น",
+   "shift": "บ่าย",
+   "submitted": "46289.4439814815"
+  },
+  {
+   "id": "5847",
+   "date": "2026-09-24",
+   "dept": "Marketing",
+   "requester": "Pap",
+   "phone": "099-256-3655",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Takashi S38",
+   "contact": "พี่ลัคกี้",
+   "contact_phone": "085-553-5662",
+   "notes": "ส่งเมนู",
+   "shift": "บ่าย",
+   "submitted": "46289.5055902778"
+  },
+  {
+   "id": "5848",
+   "date": "2026-09-24",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "บ่าย",
+   "submitted": "46289.4007175926"
+  },
+  {
+   "id": "5849",
+   "date": "2026-09-24",
+   "dept": "Executive",
+   "requester": "K.nan t23",
+   "phone": "=-",
+   "task": "ส่งเอกสาร",
+   "loc": "BBL ชั้น 12",
+   "contact": "K.นนท์",
+   "contact_phone": "022301067",
+   "notes": "เอกสาร BBL",
+   "shift": "บ่าย",
+   "submitted": "46289.5920486111"
   }
  ]
 }
