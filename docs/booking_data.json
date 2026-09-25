@@ -1,6 +1,6 @@
 {
- "generated_at": "25/09/2026 11:02 น.",
- "count": 5702,
+ "generated_at": "25/09/2026 11:09 น.",
+ "count": 5706,
  "records": [
   {
    "id": "1",
@@ -79829,6 +79829,62 @@
    "notes": "ใบเสร็จ",
    "shift": "บ่าย",
    "submitted": "46290.4180092593"
+  },
+  {
+   "id": "5857",
+   "date": "2026-09-25",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46290.4356134259"
+  },
+  {
+   "id": "5858",
+   "date": "2026-09-25",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "0863593825",
+   "task": "ส่งเอกสาร",
+   "loc": "บริษัท พี.เอ.ซี.อาร์คิเต็ค จำกัด สำนักงานใหญ่ตั้งอยู่เลขที่ 20/220 ซอยเสือใหญ่อุทิศ แขวงจันทรเกษม             เขตจตุจักร",
+   "contact": "คุณอู๋ PAC",
+   "contact_phone": "0855692226",
+   "notes": "ส่งเอกสาร LOA",
+   "shift": "เช้า",
+   "submitted": "46290.4418865741"
+  },
+  {
+   "id": "5859",
+   "date": "2026-09-25",
+   "dept": "Procurement",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "reim",
+   "shift": "เช้า",
+   "submitted": "46290.4362268519"
+  },
+  {
+   "id": "5860",
+   "date": "2026-09-25",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "0863593835",
+   "task": "ส่งเอกสาร",
+   "loc": "บริษัท เทอร์มีเดซ จำกัด ศูนย์การค้า พาราไดซ์ เพลส ออฟฟิต ชั้น 4 \nเลขที่ 59/5 ถนน ศรีนครินทร์ แขวงหนองบอน เขตประเวศ กรุงเทพ 10250",
+   "contact": "คุณเกรซ",
+   "contact_phone": "098-3982414",
+   "notes": "ส่งเอกสาร LOA",
+   "shift": "บ่าย",
+   "submitted": "46290.442962963"
   }
  ]
 }
