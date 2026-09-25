@@ -1,6 +1,6 @@
 {
- "generated_at": "25/09/2026 12:21 น.",
- "count": 5707,
+ "generated_at": "25/09/2026 14:21 น.",
+ "count": 5708,
  "records": [
   {
    "id": "1",
@@ -79803,34 +79803,6 @@
    "submitted": "46290.4156481481"
   },
   {
-   "id": "5855",
-   "date": "2026-09-25",
-   "dept": "Accounting",
-   "requester": "ฟิวส์",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "Alpea",
-   "contact": "K.natcha",
-   "contact_phone": "-",
-   "notes": "เอกสารลงนามเชฟ",
-   "shift": "บ่าย",
-   "submitted": "46290.4170717593"
-  },
-  {
-   "id": "5856",
-   "date": "2026-09-25",
-   "dept": "Accounting",
-   "requester": "Ying Bcaf",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "Lawoi",
-   "contact": "K.pop",
-   "contact_phone": "-",
-   "notes": "ใบเสร็จ",
-   "shift": "บ่าย",
-   "submitted": "46290.4180092593"
-  },
-  {
    "id": "5857",
    "date": "2026-09-25",
    "dept": "Procurement",
@@ -79873,20 +79845,6 @@
    "submitted": "46290.4362268519"
   },
   {
-   "id": "5860",
-   "date": "2026-09-25",
-   "dept": "Operation",
-   "requester": "Wassana",
-   "phone": "0863593835",
-   "task": "ส่งเอกสาร",
-   "loc": "บริษัท เทอร์มีเดซ จำกัด ศูนย์การค้า พาราไดซ์ เพลส ออฟฟิต ชั้น 4 \nเลขที่ 59/5 ถนน ศรีนครินทร์ แขวงหนองบอน เขตประเวศ กรุงเทพ 10250",
-   "contact": "คุณเกรซ",
-   "contact_phone": "098-3982414",
-   "notes": "ส่งเอกสาร LOA",
-   "shift": "บ่าย",
-   "submitted": "46290.442962963"
-  },
-  {
    "id": "5861",
    "date": "2026-09-25",
    "dept": "Procurement",
@@ -79899,6 +79857,62 @@
    "notes": "เอกสาร",
    "shift": "เช้า",
    "submitted": "46290.4597453704"
+  },
+  {
+   "id": "5862",
+   "date": "2026-09-25",
+   "dept": "Operation",
+   "requester": "Pap",
+   "phone": "099-256-3655",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Takashi S38",
+   "contact": "พี่ลัคกี้",
+   "contact_phone": "085-553-5662",
+   "notes": "ส่งเมนู",
+   "shift": "บ่าย",
+   "submitted": "46290.4979166667"
+  },
+  {
+   "id": "5855",
+   "date": "2026-09-25",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามเชฟ 2 ซอง",
+   "shift": "บ่าย",
+   "submitted": "46290.4170717593"
+  },
+  {
+   "id": "5856",
+   "date": "2026-09-25",
+   "dept": "Accounting",
+   "requester": "Ying Bcaf",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "K.pop",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จ",
+   "shift": "บ่าย",
+   "submitted": "46290.4180092593"
+  },
+  {
+   "id": "5860",
+   "date": "2026-09-25",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "0863593835",
+   "task": "ส่งเอกสาร",
+   "loc": "บริษัท เทอร์มีเดซ จำกัด ศูนย์การค้า พาราไดซ์ เพลส ออฟฟิต ชั้น 4 \nเลขที่ 59/5 ถนน ศรีนครินทร์ แขวงหนองบอน เขตประเวศ กรุงเทพ 10250",
+   "contact": "คุณเกรซ",
+   "contact_phone": "098-3982414",
+   "notes": "ส่งเอกสาร LOA",
+   "shift": "บ่าย",
+   "submitted": "46290.442962963"
   }
  ]
 }
