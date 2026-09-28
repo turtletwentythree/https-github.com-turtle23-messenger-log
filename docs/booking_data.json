@@ -1,6 +1,6 @@
 {
- "generated_at": "28/09/2026 10:09 น.",
- "count": 5711,
+ "generated_at": "28/09/2026 10:19 น.",
+ "count": 5712,
  "records": [
   {
    "id": "1",
@@ -79955,6 +79955,20 @@
    "notes": "INV GR",
    "shift": "เช้า",
    "submitted": "46293.4214583333"
+  },
+  {
+   "id": "5867",
+   "date": "2026-09-28",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P เฟิร์ส BCAF",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "เช้า",
+   "submitted": "46293.422962963"
   }
  ]
 }
