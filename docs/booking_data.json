@@ -1,6 +1,6 @@
 {
- "generated_at": "28/09/2026 08:33 น.",
- "count": 5707,
+ "generated_at": "28/09/2026 10:09 น.",
+ "count": 5711,
  "records": [
   {
    "id": "1",
@@ -79899,6 +79899,62 @@
    "notes": "ใบเสร็จ",
    "shift": "บ่าย",
    "submitted": "46290.4180092593"
+  },
+  {
+   "id": "5863",
+   "date": "2026-09-28",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Inv. Alpea",
+   "shift": "เช้า",
+   "submitted": "46293.3514930556"
+  },
+  {
+   "id": "5864",
+   "date": "2026-09-28",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 # 2286",
+   "notes": "ใบเสร็จรับเงิน โทโดเครุ",
+   "shift": "เช้า",
+   "submitted": "46293.3644675926"
+  },
+  {
+   "id": "5865",
+   "date": "2026-09-28",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P โก้",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46293.4200925926"
+  },
+  {
+   "id": "5866",
+   "date": "2026-09-28",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P อ้อม",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46293.4214583333"
   }
  ]
 }
