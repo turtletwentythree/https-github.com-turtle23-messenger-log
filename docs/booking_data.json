@@ -1,6 +1,6 @@
 {
- "generated_at": "28/09/2026 18:48 น.",
- "count": 5714,
+ "generated_at": "28/09/2026 22:52 น.",
+ "count": 5718,
  "records": [
   {
    "id": "1",
@@ -79997,6 +79997,62 @@
    "notes": "เอกสารเพื่อการเซ็นรับสินค้า และ อนุมัติ",
    "shift": "บ่าย",
    "submitted": "46293.5591550926"
+  },
+  {
+   "id": "5871",
+   "date": "2026-09-29",
+   "dept": "Project Development",
+   "requester": "Ky",
+   "phone": "0659657846",
+   "task": "รับของมาที่ออฟฟิศ",
+   "loc": "Yellow Stuff head quarter",
+   "contact": "คุณป๊อป",
+   "contact_phone": "063-99395555",
+   "notes": "รับของมาให้กี้ที่ office ค่ะ",
+   "shift": "เช้า",
+   "submitted": "46286.4202314815"
+  },
+  {
+   "id": "5872",
+   "date": "2026-09-29",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ T23",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46293.6935185185"
+  },
+  {
+   "id": "5873",
+   "date": "2026-09-29",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ฟิวส์",
+   "contact_phone": "-",
+   "notes": "เอกสารส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46293.578599537"
+  },
+  {
+   "id": "5874",
+   "date": "2026-09-29",
+   "dept": "Accounting",
+   "requester": "chef mai",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ying Bcaf",
+   "contact_phone": "-",
+   "notes": "ใบกำกับภาษี ใบเสร็จ",
+   "shift": "เช้า",
+   "submitted": "46293.7085300926"
   }
  ]
 }
