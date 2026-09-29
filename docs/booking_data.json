@@ -1,6 +1,6 @@
 {
- "generated_at": "29/09/2026 14:09 น.",
- "count": 5734,
+ "generated_at": "29/09/2026 20:31 น.",
+ "count": 5735,
  "records": [
   {
    "id": "1",
@@ -80097,20 +80097,6 @@
    "submitted": "46286.4202314815"
   },
   {
-   "id": "5878",
-   "date": "2026-09-29",
-   "dept": "Procurement",
-   "requester": "JC",
-   "phone": "02-180 8974",
-   "task": "ส่งเอกสาร",
-   "loc": "Lawoi",
-   "contact": "เชฟใหม่",
-   "contact_phone": "02-180 8974",
-   "notes": "เอกสารส่งคืน",
-   "shift": "บ่าย",
-   "submitted": "46294.4006828704"
-  },
-  {
    "id": "5879",
    "date": "2026-09-29",
    "dept": "Project Development",
@@ -80263,6 +80249,34 @@
    "notes": "INV GR ไทยสจว็ต",
    "shift": "บ่าย",
    "submitted": "46294.5774768519"
+  },
+  {
+   "id": "5891",
+   "date": "2026-09-29",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อ้อม",
+   "contact_phone": "02-080 1000 # 2238",
+   "notes": "Non-PO Prime Holding",
+   "shift": "บ่าย",
+   "submitted": "46294.5910300926"
+  },
+  {
+   "id": "5878",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "เชฟใหม่",
+   "contact_phone": "02-180 8974",
+   "notes": "เอกสารส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46294.4006828704"
   },
   {
    "id": "5885",
