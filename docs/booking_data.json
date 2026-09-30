@@ -1,6 +1,6 @@
 {
- "generated_at": "30/09/2026 08:36 น.",
- "count": 5735,
+ "generated_at": "30/09/2026 10:07 น.",
+ "count": 5744,
  "records": [
   {
    "id": "1",
@@ -80265,18 +80265,18 @@
    "submitted": "46294.5910300926"
   },
   {
-   "id": "5878",
-   "date": "2026-09-30",
+   "id": "5893",
+   "date": "2026-09-29",
    "dept": "Procurement",
    "requester": "JC",
    "phone": "02-180 8974",
    "task": "ส่งเอกสาร",
-   "loc": "Lawoi",
-   "contact": "เชฟใหม่",
-   "contact_phone": "02-180 8974",
-   "notes": "เอกสารส่งคืน",
-   "shift": "บ่าย",
-   "submitted": "46294.4006828704"
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 # 2286",
+   "notes": "Petty Cash KTT",
+   "shift": "เช้า",
+   "submitted": "46294.7442592593"
   },
   {
    "id": "5885",
@@ -80291,6 +80291,132 @@
    "notes": "เอกสารลงนามเชฟ",
    "shift": "บ่าย",
    "submitted": "46294.4532291667"
+  },
+  {
+   "id": "5892",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 # 2287",
+   "notes": "Petty Cash Kinn 1",
+   "shift": "เช้า",
+   "submitted": "46294.7435416667"
+  },
+  {
+   "id": "5894",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 # 2287",
+   "notes": "Inv. KIN1",
+   "shift": "เช้า",
+   "submitted": "46295.3491666667"
+  },
+  {
+   "id": "5895",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "คุณ ณัชชา",
+   "contact_phone": "02-180 8974",
+   "notes": "สรุปใบสั่งซื้อเพื่อการเซ็น",
+   "shift": "บ่าย",
+   "submitted": "46295.3503356482"
+  },
+  {
+   "id": "5896",
+   "date": "2026-09-30",
+   "dept": "Marketing",
+   "requester": "Fai",
+   "phone": "0613981775",
+   "task": "ส่งเอกสาร",
+   "loc": "ที่สำนักงาน FYI (บริเวณสี่แยกคลองเตย)  ชั้น 12  ตึก 1  \n\n2525 อาคาร เอฟวายไอ เซ็นเตอร์ บริษัท อนันดา ดีเวลลอปเม้นท์ จำกัด มหาชน (สำนักงานใหญ่)\nแขวงคลองเตย เขตคลองเตย กรุงเทพ 10110\nใส่ซองจ่าหน้าซองถึง จารุทัศน์ จินดาแดง ใส่ไว้ในเมลบล็อก",
+   "contact": "คุณหญิง",
+   "contact_phone": "K.Ying M: (66) [95-239-8924]",
+   "notes": "รบกวนนำเอกสารนี้  ใส่ไว้ในเมลบล็อก ค่ะตามลิงก์รูปภาพนี้ data:image/png;base64,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",
+   "shift": "เช้า",
+   "submitted": "46295.3840277778"
+  },
+  {
+   "id": "5878",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "เชฟใหม่",
+   "contact_phone": "02-180 8974",
+   "notes": "เอกสารส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46294.4006828704"
+  },
+  {
+   "id": "5897",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "เช้า",
+   "submitted": "46295.4089814815"
+  },
+  {
+   "id": "5898",
+   "date": "2026-09-30",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ฟิวส์",
+   "contact_phone": "-",
+   "notes": "เอกสารคุณดวงใจส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46295.415474537"
+  },
+  {
+   "id": "5899",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46295.4158912037"
+  },
+  {
+   "id": "5900",
+   "date": "2026-09-30",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "เช้า",
+   "submitted": "46295.4178009259"
   }
  ]
 }
