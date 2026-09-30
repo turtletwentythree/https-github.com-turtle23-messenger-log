@@ -1,6 +1,6 @@
 {
- "generated_at": "30/09/2026 14:23 น.",
- "count": 5748,
+ "generated_at": "30/09/2026 14:34 น.",
+ "count": 5753,
  "records": [
   {
    "id": "1",
@@ -80473,6 +80473,76 @@
    "notes": "เอกสารลงนาม",
    "shift": "บ่าย",
    "submitted": "46295.4992476852"
+  },
+  {
+   "id": "5905",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 # 2286",
+   "notes": "Inv. KTT",
+   "shift": "บ่าย",
+   "submitted": "46295.5493402778"
+  },
+  {
+   "id": "5906",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46295.5693865741"
+  },
+  {
+   "id": "5907",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Inv. EGS",
+   "shift": "บ่าย",
+   "submitted": "46295.5719444444"
+  },
+  {
+   "id": "5908",
+   "date": "2026-09-30",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "cash advance",
+   "shift": "บ่าย",
+   "submitted": "46295.5715046296"
+  },
+  {
+   "id": "5909",
+   "date": "2026-09-30",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณละห์",
+   "contact_phone": "-",
+   "notes": "-",
+   "shift": "บ่าย",
+   "submitted": "46295.5984837963"
   }
  ]
 }
