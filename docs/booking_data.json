@@ -1,6 +1,6 @@
 {
- "generated_at": "30/09/2026 14:34 น.",
- "count": 5753,
+ "generated_at": "30/09/2026 14:36 น.",
+ "count": 5754,
  "records": [
   {
    "id": "1",
@@ -80543,6 +80543,20 @@
    "notes": "-",
    "shift": "บ่าย",
    "submitted": "46295.5984837963"
+  },
+  {
+   "id": "5910",
+   "date": "2026-09-30",
+   "dept": "Operation",
+   "requester": "K.koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.new",
+   "contact_phone": "-",
+   "notes": "win win",
+   "shift": "บ่าย",
+   "submitted": "46295.6030787037"
   }
  ]
 }
