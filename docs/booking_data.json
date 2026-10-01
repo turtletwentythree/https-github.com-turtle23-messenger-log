@@ -1,6 +1,6 @@
 {
- "generated_at": "01/10/2026 08:50 น.",
- "count": 5754,
+ "generated_at": "01/10/2026 10:23 น.",
+ "count": 5761,
  "records": [
   {
    "id": "1",
@@ -80557,6 +80557,104 @@
    "notes": "win win",
    "shift": "บ่าย",
    "submitted": "46295.6030787037"
+  },
+  {
+   "id": "5911",
+   "date": "2026-10-01",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ying",
+   "contact_phone": "-",
+   "notes": "SCB",
+   "shift": "เช้า",
+   "submitted": "46295.6345601852"
+  },
+  {
+   "id": "5912",
+   "date": "2026-10-01",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46296.4197106481"
+  },
+  {
+   "id": "5913",
+   "date": "2026-10-01",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ple",
+   "contact_phone": "-",
+   "notes": "cash voucher",
+   "shift": "เช้า",
+   "submitted": "46296.42"
+  },
+  {
+   "id": "5914",
+   "date": "2026-10-01",
+   "dept": "Marketing",
+   "requester": "โบ",
+   "phone": "0624292244",
+   "task": "รับเอกสาร",
+   "loc": "Logo DD",
+   "contact": "พลอย",
+   "contact_phone": "0971217947",
+   "notes": "ขอเอากลับมาดูก่อนนะคะ",
+   "shift": "เช้า",
+   "submitted": "46296.4229166667"
+  },
+  {
+   "id": "5915",
+   "date": "2026-10-01",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Plam Bcaf",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46296.4217013889"
+  },
+  {
+   "id": "5916",
+   "date": "2026-10-01",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46296.4258796296"
+  },
+  {
+   "id": "5917",
+   "date": "2026-10-01",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P achi",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46296.4266898148"
   }
  ]
 }
