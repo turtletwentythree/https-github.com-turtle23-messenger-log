@@ -1,6 +1,6 @@
 {
- "generated_at": "01/10/2026 13:43 น.",
- "count": 5768,
+ "generated_at": "01/10/2026 14:26 น.",
+ "count": 5775,
  "records": [
   {
    "id": "1",
@@ -80713,20 +80713,6 @@
    "submitted": "46296.4599189815"
   },
   {
-   "id": "5923",
-   "date": "2026-10-01",
-   "dept": "Procurement",
-   "requester": "JC",
-   "phone": "02-180 8974",
-   "task": "ส่งเอกสาร",
-   "loc": "1749 ถ.จันทร์เก่า",
-   "contact": "เชฟ อิท",
-   "contact_phone": "0880099763",
-   "notes": "เอกสารที่ขาดลายเซ็น เพื่อขอลายเซ็น",
-   "shift": "บ่าย",
-   "submitted": "46296.4784490741"
-  },
-  {
    "id": "5917",
    "date": "2026-10-01",
    "dept": "Executive",
@@ -80753,6 +80739,118 @@
    "notes": "เอกสารลงนาม",
    "shift": "บ่าย",
    "submitted": "46296.4564930556"
+  },
+  {
+   "id": "5925",
+   "date": "2026-10-01",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46296.4987037037"
+  },
+  {
+   "id": "5926",
+   "date": "2026-10-01",
+   "dept": "Project Development",
+   "requester": "PJ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "clear advance",
+   "shift": "บ่าย",
+   "submitted": "46296.5657986111"
+  },
+  {
+   "id": "5927",
+   "date": "2026-10-01",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "ตั้งฮั้วปัก",
+   "contact": "K.ดวงใจ",
+   "contact_phone": "-",
+   "notes": "เอกสารเช็ค",
+   "shift": "บ่าย",
+   "submitted": "46296.5687847222"
+  },
+  {
+   "id": "5923",
+   "date": "2026-10-01",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "1749 ถ.จันทร์เก่า",
+   "contact": "เชฟ อิท",
+   "contact_phone": "0880099763",
+   "notes": "เอกสารที่ขาดลายเซ็น เพื่อขอลายเซ็น",
+   "shift": "บ่าย",
+   "submitted": "46296.4784490741"
+  },
+  {
+   "id": "5928",
+   "date": "2026-10-01",
+   "dept": "Accounting",
+   "requester": "k.maysa",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ying Bcaf",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน 2 ซอง",
+   "shift": "บ่าย",
+   "submitted": "46296.594837963"
+  },
+  {
+   "id": "5929",
+   "date": "2026-10-01",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "บ่าย",
+   "submitted": "46296.5960416667"
+  },
+  {
+   "id": "5930",
+   "date": "2026-10-01",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46296.5966435185"
+  },
+  {
+   "id": "5931",
+   "date": "2026-10-01",
+   "dept": "Operation",
+   "requester": "K.koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามเชฟ",
+   "shift": "บ่าย",
+   "submitted": "46296.5973611111"
   }
  ]
 }
