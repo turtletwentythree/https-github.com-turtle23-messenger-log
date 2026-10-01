@@ -1,6 +1,6 @@
 {
- "generated_at": "01/10/2026 10:32 น.",
- "count": 5762,
+ "generated_at": "01/10/2026 11:58 น.",
+ "count": 5768,
  "records": [
   {
    "id": "1",
@@ -80643,6 +80643,90 @@
    "submitted": "46296.4258796296"
   },
   {
+   "id": "5918",
+   "date": "2026-10-01",
+   "dept": "Project Development",
+   "requester": "wassana",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ปาล์ม",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "เช้า",
+   "submitted": "46296.427974537"
+  },
+  {
+   "id": "5919",
+   "date": "2026-10-01",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "0863593825",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'KOKO BCAF",
+   "contact_phone": "-",
+   "notes": "Clear Cash Advanced + Reimbursement Baan Turtle Phuket",
+   "shift": "บ่าย",
+   "submitted": "46296.4431134259"
+  },
+  {
+   "id": "5920",
+   "date": "2026-10-01",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "0863593825",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Khun Ying BCAF",
+   "contact_phone": "-",
+   "notes": "Clear Cash Advance RCS Project",
+   "shift": "บ่าย",
+   "submitted": "46296.4450115741"
+  },
+  {
+   "id": "5921",
+   "date": "2026-10-01",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 # 2260",
+   "notes": "ใบวางบิล งอกงาม",
+   "shift": "บ่าย",
+   "submitted": "46296.4591087963"
+  },
+  {
+   "id": "5922",
+   "date": "2026-10-01",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 # 2260",
+   "notes": "Inv. RCS",
+   "shift": "บ่าย",
+   "submitted": "46296.4599189815"
+  },
+  {
+   "id": "5923",
+   "date": "2026-10-01",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "1749 ถ.จันทร์เก่า",
+   "contact": "เชฟ อิท",
+   "contact_phone": "0880099763",
+   "notes": "เอกสารที่ขาดลายเซ็น เพื่อขอลายเซ็น",
+   "shift": "บ่าย",
+   "submitted": "46296.4784490741"
+  },
+  {
    "id": "5917",
    "date": "2026-10-01",
    "dept": "Executive",
@@ -80657,18 +80741,18 @@
    "submitted": "46296.4266898148"
   },
   {
-   "id": "5918",
+   "id": "5924",
    "date": "2026-10-01",
-   "dept": "Project Development",
-   "requester": "wassana",
+   "dept": "Operation",
+   "requester": "K.nan t23",
    "phone": "-",
    "task": "ส่งเอกสาร",
    "loc": "BTSV Fl.G",
-   "contact": "K.ปาล์ม",
+   "contact": "K.เกศ",
    "contact_phone": "-",
    "notes": "เอกสารลงนาม",
-   "shift": "เช้า",
-   "submitted": "46296.427974537"
+   "shift": "บ่าย",
+   "submitted": "46296.4564930556"
   }
  ]
 }
