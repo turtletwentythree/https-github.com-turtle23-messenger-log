@@ -1,6 +1,6 @@
 {
- "generated_at": "05/10/2026 07:07 น.",
- "count": 5810,
+ "generated_at": "05/10/2026 10:07 น.",
+ "count": 5817,
  "records": [
   {
    "id": "1",
@@ -81341,6 +81341,104 @@
    "notes": "INV GR",
    "shift": "บ่าย",
    "submitted": "46297.5975"
+  },
+  {
+   "id": "5967",
+   "date": "2026-10-02",
+   "dept": "Accounting",
+   "requester": "Achi",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Kronos (Sushi Saryu)",
+   "contact": "P mook",
+   "contact_phone": "-",
+   "notes": "ต่าเช่าตึก",
+   "shift": "บ่าย",
+   "submitted": "46297.597962963"
+  },
+  {
+   "id": "5968",
+   "date": "2026-10-05",
+   "dept": "Procurement",
+   "requester": "๋๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Petty Cash Alpea",
+   "shift": "เช้า",
+   "submitted": "46297.7515856481"
+  },
+  {
+   "id": "5969",
+   "date": "2026-10-05",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 # 2260",
+   "notes": "ใบวางบิล งอกงาม",
+   "shift": "เช้า",
+   "submitted": "46297.7523032407"
+  },
+  {
+   "id": "5970",
+   "date": "2026-10-05",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หญิง",
+   "contact_phone": "02-080 1000 #2286",
+   "notes": "ใบวางบิลงอกงาม",
+   "shift": "เช้า",
+   "submitted": "46297.7529513889"
+  },
+  {
+   "id": "5971",
+   "date": "2026-10-05",
+   "dept": "Executive",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.talatat",
+   "contact_phone": "-",
+   "notes": "cash voucher",
+   "shift": "เช้า",
+   "submitted": "46300.4091435185"
+  },
+  {
+   "id": "5972",
+   "date": "2026-10-05",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "INV Alpea",
+   "shift": "เช้า",
+   "submitted": "46300.4196875"
+  },
+  {
+   "id": "5973",
+   "date": "2026-10-05",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P โก้",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46300.420775463"
   }
  ]
 }
