@@ -1,6 +1,6 @@
 {
- "generated_at": "05/10/2026 12:30 น.",
- "count": 5817,
+ "generated_at": "05/10/2026 14:10 น.",
+ "count": 5823,
  "records": [
   {
    "id": "1",
@@ -81439,6 +81439,90 @@
    "notes": "INV GR",
    "shift": "เช้า",
    "submitted": "46300.420775463"
+  },
+  {
+   "id": "5974",
+   "date": "2026-10-01",
+   "dept": "Project Development",
+   "requester": "Ky",
+   "phone": "0659657846",
+   "task": "รับของและส่งต่อ",
+   "loc": "The Unicorn",
+   "contact": "คุณป๊อป",
+   "contact_phone": "063-99395555",
+   "notes": "24/23 (โครงการดิสทริค สุขุมวิท 77) ซอยอ่อนนุช 21 แขวงสวนหลวง เขตสวนหลวง กรุงเทพมหานคร 10250 Google Maps link: https://maps.app.goo.gl/7Y7myb2nK3bFwSF76",
+   "shift": "บ่าย",
+   "submitted": "46296.4381712963"
+  },
+  {
+   "id": "5975",
+   "date": "2026-10-05",
+   "dept": "Project Development",
+   "requester": "Ky",
+   "phone": "0659657846",
+   "task": "รับของและส่งต่อ",
+   "loc": "The Unicorn",
+   "contact": "Chef Yoan",
+   "contact_phone": "-",
+   "notes": "เอาซอสไปส่งให้เชฟค่ะ @Electric Sheep Restaurant l Google maps: https://share.google/qdQ1Gd2hwSsvFjY2P",
+   "shift": "บ่าย",
+   "submitted": "46300.4386689815"
+  },
+  {
+   "id": "5976",
+   "date": "2026-10-05",
+   "dept": "Operation",
+   "requester": "K.koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "T10 (Baan Turtle)",
+   "contact": "K.nan BT",
+   "contact_phone": "-",
+   "notes": "เอกสารฝากให้พี่เเนน",
+   "shift": "บ่าย",
+   "submitted": "46300.4214699074"
+  },
+  {
+   "id": "5977",
+   "date": "2026-10-05",
+   "dept": "Finance",
+   "requester": "MR.Teerapong",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ลักษณ์",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46300.5626967593"
+  },
+  {
+   "id": "5978",
+   "date": "2026-10-05",
+   "dept": "Operation",
+   "requester": "K.koy",
+   "phone": "-",
+   "task": "รับเอกสาร",
+   "loc": "T10 (Baan Turtle)",
+   "contact": "ป้อมยาม",
+   "contact_phone": "-",
+   "notes": "รับเอกสารของคุณ koy",
+   "shift": "บ่าย",
+   "submitted": "46300.5633912037"
+  },
+  {
+   "id": "5979",
+   "date": "2026-10-05",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "พนักงาน",
+   "contact_phone": "-",
+   "notes": "รับเอกสารบิล",
+   "shift": "บ่าย",
+   "submitted": "46300.589212963"
   }
  ]
 }
