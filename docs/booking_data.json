@@ -1,6 +1,6 @@
 {
- "generated_at": "05/10/2026 14:28 น.",
- "count": 5823,
+ "generated_at": "05/10/2026 15:22 น.",
+ "count": 5824,
  "records": [
   {
    "id": "1",
@@ -81442,7 +81442,7 @@
   },
   {
    "id": "5974",
-   "date": "2026-10-01",
+   "date": "2026-10-05",
    "dept": "Project Development",
    "requester": "Ky",
    "phone": "0659657846",
@@ -81523,6 +81523,20 @@
    "notes": "รับเอกสารบิล",
    "shift": "บ่าย",
    "submitted": "46300.589212963"
+  },
+  {
+   "id": "5980",
+   "date": "2026-10-05",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณหญิง",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46300.6038194444"
   }
  ]
 }
