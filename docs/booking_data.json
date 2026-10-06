@@ -1,6 +1,6 @@
 {
- "generated_at": "06/10/2026 08:29 น.",
- "count": 5825,
+ "generated_at": "06/10/2026 10:37 น.",
+ "count": 5830,
  "records": [
   {
    "id": "1",
@@ -81551,6 +81551,76 @@
    "notes": "INV GR",
    "shift": "บ่าย",
    "submitted": "46300.5895486111"
+  },
+  {
+   "id": "5982",
+   "date": "2026-10-06",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ละห์",
+   "contact_phone": "02-080 1000 # 2296",
+   "notes": "Non-PO การไฟฟ้านครหลวง / Mr. Sakda BT/GW",
+   "shift": "เช้า",
+   "submitted": "46301.3691666667"
+  },
+  {
+   "id": "5983",
+   "date": "2026-10-06",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ โก้",
+   "contact_phone": "02-080 1000 #2255",
+   "notes": "Non-PO การไฟฟ้าภูเก็ต / Sathorn Park",
+   "shift": "เช้า",
+   "submitted": "46301.3778935185"
+  },
+  {
+   "id": "5984",
+   "date": "2026-10-06",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Petty Cash Alpea",
+   "shift": "เช้า",
+   "submitted": "46301.3788773148"
+  },
+  {
+   "id": "5985",
+   "date": "2026-10-06",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P โก้",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46301.410462963"
+  },
+  {
+   "id": "5986",
+   "date": "2026-10-06",
+   "dept": "Executive",
+   "requester": "P มิ้นต์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "ใบวางบิลเงินสด",
+   "shift": "เช้า",
+   "submitted": "46301.4114699074"
   }
  ]
 }
