@@ -1,6 +1,6 @@
 {
- "generated_at": "06/10/2026 15:02 น.",
- "count": 5845,
+ "generated_at": "06/10/2026 15:15 น.",
+ "count": 5847,
  "records": [
   {
    "id": "1",
@@ -81831,6 +81831,34 @@
    "notes": "-",
    "shift": "บ่าย",
    "submitted": "46301.6071643519"
+  },
+  {
+   "id": "6002",
+   "date": "2026-10-06",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "ยำะะั แฟห้",
+   "shift": "บ่าย",
+   "submitted": "46301.6079861111"
+  },
+  {
+   "id": "6003",
+   "date": "2026-10-06",
+   "dept": "Accounting",
+   "requester": "Lawoi",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.สมหญิง",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "บ่าย",
+   "submitted": "46301.6287268518"
   }
  ]
 }
