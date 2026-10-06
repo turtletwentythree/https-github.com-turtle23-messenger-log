@@ -1,6 +1,6 @@
 {
- "generated_at": "06/10/2026 16:16 น.",
- "count": 5848,
+ "generated_at": "06/10/2026 22:01 น.",
+ "count": 5854,
  "records": [
   {
    "id": "1",
@@ -81873,6 +81873,90 @@
    "notes": "Inv Alpea",
    "shift": "บ่าย",
    "submitted": "46301.6430439815"
+  },
+  {
+   "id": "6005",
+   "date": "2026-10-06",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.หญิง",
+   "contact_phone": "-",
+   "notes": "INV RCS",
+   "shift": "บ่าย",
+   "submitted": "46301.6291550926"
+  },
+  {
+   "id": "6006",
+   "date": "2026-10-07",
+   "dept": "Accounting",
+   "requester": "Natcha",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Few",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "เช้า",
+   "submitted": "46301.6781828704"
+  },
+  {
+   "id": "6007",
+   "date": "2026-10-07",
+   "dept": "Accounting",
+   "requester": "K.นิล",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ส้ม HR",
+   "contact_phone": "-",
+   "notes": "เอกสาร DEMI Chef",
+   "shift": "เช้า",
+   "submitted": "46301.7593287037"
+  },
+  {
+   "id": "6008",
+   "date": "2026-10-07",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "K.pop",
+   "contact_phone": "-",
+   "notes": "เอกสาร TTH",
+   "shift": "บ่าย",
+   "submitted": "46301.7597337963"
+  },
+  {
+   "id": "6009",
+   "date": "2026-10-07",
+   "dept": "Operation",
+   "requester": "K.Koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal BTSG",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามK.KV K.TK",
+   "shift": "เช้า",
+   "submitted": "46301.7612847222"
+  },
+  {
+   "id": "6010",
+   "date": "2026-10-07",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal BTSG",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามK.kvk.TK",
+   "shift": "เช้า",
+   "submitted": "46301.7742592593"
   }
  ]
 }
