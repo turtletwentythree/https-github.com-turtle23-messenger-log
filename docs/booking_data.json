@@ -1,6 +1,6 @@
 {
- "generated_at": "06/10/2026 15:15 น.",
- "count": 5847,
+ "generated_at": "06/10/2026 16:16 น.",
+ "count": 5848,
  "records": [
   {
    "id": "1",
@@ -81859,6 +81859,20 @@
    "notes": "เอกสาร",
    "shift": "บ่าย",
    "submitted": "46301.6287268518"
+  },
+  {
+   "id": "6004",
+   "date": "2026-10-06",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Inv Alpea",
+   "shift": "บ่าย",
+   "submitted": "46301.6430439815"
   }
  ]
 }
