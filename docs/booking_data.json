@@ -1,6 +1,6 @@
 {
- "generated_at": "07/10/2026 14:15 น.",
- "count": 5877,
+ "generated_at": "07/10/2026 14:30 น.",
+ "count": 5878,
  "records": [
   {
    "id": "1",
@@ -82279,6 +82279,20 @@
    "notes": "เอกสารลงนามพี่จี้ส่งคืน",
    "shift": "บ่าย",
    "submitted": "46302.5776273148"
+  },
+  {
+   "id": "6035",
+   "date": "2026-10-07",
+   "dept": "Project Development",
+   "requester": "wassana",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ลักษณ์",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46302.5897800926"
   }
  ]
 }
