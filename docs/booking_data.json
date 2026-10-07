@@ -1,6 +1,6 @@
 {
- "generated_at": "07/10/2026 09:43 น.",
- "count": 5864,
+ "generated_at": "07/10/2026 10:33 น.",
+ "count": 5868,
  "records": [
   {
    "id": "1",
@@ -81945,20 +81945,6 @@
    "submitted": "46301.7612847222"
   },
   {
-   "id": "6010",
-   "date": "2026-10-07",
-   "dept": "Operation",
-   "requester": "K.nan t23",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.G",
-   "contact": "Legal BTSG",
-   "contact_phone": "-",
-   "notes": "เอกสารลงนามK.kvk.TK",
-   "shift": "เช้า",
-   "submitted": "46301.7742592593"
-  },
-  {
    "id": "6011",
    "date": "2026-10-07",
    "dept": "Procurement",
@@ -82097,6 +82083,76 @@
    "notes": "",
    "shift": "เช้า",
    "submitted": "46302.3971990741"
+  },
+  {
+   "id": "6021",
+   "date": "2026-10-07",
+   "dept": "Operation",
+   "requester": "K.koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "cash advance MPZ",
+   "shift": "เช้า",
+   "submitted": "46302.4121990741"
+  },
+  {
+   "id": "6022",
+   "date": "2026-10-07",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "เช้า",
+   "submitted": "46302.4159027778"
+  },
+  {
+   "id": "6023",
+   "date": "2026-10-07",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณมิ้น (คุณสุรพงษ์ ร้าน GAA)",
+   "contact_phone": "026177300 ต่อ 1064",
+   "notes": "ส่งบิล F and B",
+   "shift": "เช้า",
+   "submitted": "46302.4162615741"
+  },
+  {
+   "id": "6024",
+   "date": "2026-10-07",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "เอกสาร non po",
+   "shift": "เช้า",
+   "submitted": "46302.4182291667"
+  },
+  {
+   "id": "6025",
+   "date": "2026-10-07",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 #2260",
+   "notes": "ใบวางบิลงอกงาม",
+   "shift": "เช้า",
+   "submitted": "46302.419224537"
   }
  ]
 }
