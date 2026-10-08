@@ -1,6 +1,6 @@
 {
- "generated_at": "08/10/2026 10:03 น.",
- "count": 5888,
+ "generated_at": "08/10/2026 10:07 น.",
+ "count": 5889,
  "records": [
   {
    "id": "1",
@@ -82433,6 +82433,20 @@
    "notes": "ทำะฟ ณ์ฮ",
    "shift": "เช้า",
    "submitted": "46303.4166898148"
+  },
+  {
+   "id": "6046",
+   "date": "2026-10-08",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV  GR",
+   "shift": "เช้า",
+   "submitted": "46303.4182638889"
   }
  ]
 }
