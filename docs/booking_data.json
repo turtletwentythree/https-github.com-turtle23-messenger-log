@@ -1,6 +1,6 @@
 {
- "generated_at": "08/10/2026 10:07 น.",
- "count": 5889,
+ "generated_at": "08/10/2026 14:05 น.",
+ "count": 5898,
  "records": [
   {
    "id": "1",
@@ -82403,7 +82403,7 @@
    "contact": "-",
    "contact_phone": "-",
    "notes": "ส่งเมนูเนื้อค่ะ",
-   "shift": "เช้า",
+   "shift": "บ่าย",
    "submitted": "46303.3960763889"
   },
   {
@@ -82447,6 +82447,132 @@
    "notes": "INV  GR",
    "shift": "เช้า",
    "submitted": "46303.4182638889"
+  },
+  {
+   "id": "6047",
+   "date": "2026-10-08",
+   "dept": "Finance",
+   "requester": "ตรีธนา (กอล์ฟ)",
+   "phone": "084-155-5758",
+   "task": "ส่งเอกสารและรอรับกลับ",
+   "loc": "Kappo Takashi S38",
+   "contact": "คุณแต๋น",
+   "contact_phone": "061-555-0941",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46303.5341550926"
+  },
+  {
+   "id": "6048",
+   "date": "2026-10-08",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Petty Cash Alpea",
+   "shift": "บ่าย",
+   "submitted": "46303.5591203704"
+  },
+  {
+   "id": "6049",
+   "date": "2026-10-08",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ละห์",
+   "contact_phone": "02-080 1000 #2296",
+   "notes": "์Non-PO รัชนีกุล ค่ารถ",
+   "shift": "บ่าย",
+   "submitted": "46303.5713310185"
+  },
+  {
+   "id": "6050",
+   "date": "2026-10-08",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ โก้",
+   "contact_phone": "02-080 1000 #2255",
+   "notes": "Non-PO การไฟฟ้า Ideo",
+   "shift": "บ่าย",
+   "submitted": "46303.5723263889"
+  },
+  {
+   "id": "6051",
+   "date": "2026-10-08",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จรับเงิน",
+   "shift": "บ่าย",
+   "submitted": "46303.4185648148"
+  },
+  {
+   "id": "6052",
+   "date": "2026-10-08",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม 1 ถุง",
+   "shift": "บ่าย",
+   "submitted": "46303.5740277778"
+  },
+  {
+   "id": "6053",
+   "date": "2026-10-08",
+   "dept": "Accounting",
+   "requester": "MINT",
+   "phone": "-",
+   "task": "รับเอกสาร",
+   "loc": "IDEO MOPH 38",
+   "contact": "นิติ",
+   "contact_phone": "-",
+   "notes": "รับเอกสารใบเสร็จ",
+   "shift": "บ่าย",
+   "submitted": "46303.5759722222"
+  },
+  {
+   "id": "6054",
+   "date": "2026-10-08",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "p koko",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม 3 เล่ม",
+   "shift": "บ่าย",
+   "submitted": "46303.5796527778"
+  },
+  {
+   "id": "6055",
+   "date": "2026-10-08",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46303.5857407407"
   }
  ]
 }
