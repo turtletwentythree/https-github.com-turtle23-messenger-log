@@ -1,6 +1,6 @@
 {
- "generated_at": "15/10/2026 08:44 น.",
- "count": 5951,
+ "generated_at": "15/10/2026 13:29 น.",
+ "count": 5959,
  "records": [
   {
    "id": "1",
@@ -83315,6 +83315,118 @@
    "notes": "แจ้งรับเช็คค่าเช่าเครื่องทำกาแฟ Coffee Truck - T5 (00002)",
    "shift": "บ่าย",
    "submitted": "46309.5872337963"
+  },
+  {
+   "id": "6109",
+   "date": "2026-10-15",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "ใบเสร็จรับเงิน EGS และ ใบวางบิล บริษัท ลิสลิ่ง",
+   "shift": "เช้า",
+   "submitted": "46310.3699189815"
+  },
+  {
+   "id": "6110",
+   "date": "2026-10-15",
+   "dept": "Marketing",
+   "requester": "โบ",
+   "phone": "0624292244",
+   "task": "รับเอกสาร",
+   "loc": "Logo DD",
+   "contact": "-",
+   "contact_phone": "ผู้ดูงาน 0971217947 พลอยค่ะ\nผู้งดูแลเรื่องส่งงาน 0908851606 คุณเล็ก",
+   "notes": "รับแล้วส่งต่อให้ Sushi Saryu",
+   "shift": "เช้า",
+   "submitted": "46310.3673032407"
+  },
+  {
+   "id": "6111",
+   "date": "2026-10-15",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ฟิวส์",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46310.3938310185"
+  },
+  {
+   "id": "6112",
+   "date": "2026-10-15",
+   "dept": "Finance",
+   "requester": "ตรีธนา (กอล์ฟ)",
+   "phone": "084-155-5758",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณหญิง BCAF",
+   "contact_phone": "084-155-5758",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46310.4006481481"
+  },
+  {
+   "id": "6113",
+   "date": "2026-10-15",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามพี่จี้ส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46310.3994444444"
+  },
+  {
+   "id": "6114",
+   "date": "2026-10-15",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณหมี BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารขอ cash advance สำหรับ Roi Chak Sam Project",
+   "shift": "เช้า",
+   "submitted": "46310.4071296296"
+  },
+  {
+   "id": "6115",
+   "date": "2026-10-15",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Khun Ying BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสาร clear cash advanced",
+   "shift": "เช้า",
+   "submitted": "46310.4080902778"
+  },
+  {
+   "id": "6116",
+   "date": "2026-10-15",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46310.4070833333"
   }
  ]
 }
