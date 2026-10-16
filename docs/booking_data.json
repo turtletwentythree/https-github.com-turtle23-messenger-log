@@ -1,6 +1,6 @@
 {
- "generated_at": "16/10/2026 17:09 น.",
- "count": 5982,
+ "generated_at": "16/10/2026 21:50 น.",
+ "count": 5986,
  "records": [
   {
    "id": "1",
@@ -83749,6 +83749,62 @@
    "notes": "inv gr",
    "shift": "บ่าย",
    "submitted": "46311.5600694444"
+  },
+  {
+   "id": "6140",
+   "date": "2026-10-19",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ฟิวส์",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน 2 ซอง",
+   "shift": "เช้า",
+   "submitted": "46311.5622106481"
+  },
+  {
+   "id": "6141",
+   "date": "2026-10-19",
+   "dept": "Accounting",
+   "requester": "์Natcha",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ฟิวส์",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "เช้า",
+   "submitted": "46311.7391203704"
+  },
+  {
+   "id": "6142",
+   "date": "2026-10-19",
+   "dept": "Accounting",
+   "requester": "Natcha",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Few Bcaf",
+   "contact_phone": "-",
+   "notes": "เช็ค",
+   "shift": "เช้า",
+   "submitted": "46311.7397222222"
+  },
+  {
+   "id": "6143",
+   "date": "2026-10-19",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.หญิง",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน 1 ลัง",
+   "shift": "เช้า",
+   "submitted": "46311.7416898148"
   }
  ]
 }
