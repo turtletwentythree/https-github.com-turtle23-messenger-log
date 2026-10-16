@@ -1,6 +1,6 @@
 {
- "generated_at": "16/10/2026 12:49 น.",
- "count": 5975,
+ "generated_at": "16/10/2026 17:09 น.",
+ "count": 5982,
  "records": [
   {
    "id": "1",
@@ -83651,6 +83651,104 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46311.4096296296"
+  },
+  {
+   "id": "6133",
+   "date": "2026-10-16",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "T10 (Baan Turtle)",
+   "contact": "P'ก้อย",
+   "contact_phone": "-",
+   "notes": "ฝากติดสติ๊กเกอร์ Asset",
+   "shift": "บ่าย",
+   "submitted": "46311.4513773148"
+  },
+  {
+   "id": "6134",
+   "date": "2026-10-16",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46311.4526041667"
+  },
+  {
+   "id": "6135",
+   "date": "2026-10-16",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณละห์",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46311.4529861111"
+  },
+  {
+   "id": "6136",
+   "date": "2026-10-16",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K'Mint",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46311.4533796296"
+  },
+  {
+   "id": "6137",
+   "date": "2026-10-16",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม 2 ซอง",
+   "shift": "บ่าย",
+   "submitted": "46311.4048263889"
+  },
+  {
+   "id": "6138",
+   "date": "2026-10-16",
+   "dept": "IT",
+   "requester": "Boss",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "music license",
+   "shift": "บ่าย",
+   "submitted": "46311.5582986111"
+  },
+  {
+   "id": "6139",
+   "date": "2026-10-16",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "inv gr",
+   "shift": "บ่าย",
+   "submitted": "46311.5600694444"
   }
  ]
 }
