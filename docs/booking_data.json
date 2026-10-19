@@ -1,6 +1,6 @@
 {
- "generated_at": "19/10/2026 10:38 น.",
- "count": 5993,
+ "generated_at": "19/10/2026 13:45 น.",
+ "count": 5995,
  "records": [
   {
    "id": "1",
@@ -83903,6 +83903,34 @@
    "notes": "เอกสารเพื่อขอลายเซ็นรับสินค้า",
    "shift": "บ่าย",
    "submitted": "46314.4154050926"
+  },
+  {
+   "id": "6151",
+   "date": "2026-10-19",
+   "dept": "Operation",
+   "requester": "nan",
+   "phone": "0935249451",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K. Koko",
+   "contact_phone": "xxxxx",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46314.4496875"
+  },
+  {
+   "id": "6152",
+   "date": "2026-10-19",
+   "dept": "Procurement",
+   "requester": "แนน",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่ละห์",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46314.4523958333"
   }
  ]
 }
