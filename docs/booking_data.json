@@ -1,6 +1,6 @@
 {
- "generated_at": "19/10/2026 13:45 น.",
- "count": 5995,
+ "generated_at": "19/10/2026 14:53 น.",
+ "count": 6001,
  "records": [
   {
    "id": "1",
@@ -83931,6 +83931,90 @@
    "notes": "INV GR",
    "shift": "เช้า",
    "submitted": "46314.4523958333"
+  },
+  {
+   "id": "6153",
+   "date": "2026-10-19",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสาร Reimbursement Project Baan Turtle Phuket",
+   "shift": "บ่าย",
+   "submitted": "46314.5827199074"
+  },
+  {
+   "id": "6154",
+   "date": "2026-10-20",
+   "dept": "Marketing",
+   "requester": "โบ",
+   "phone": "0624292244",
+   "task": "รับของมาที่ออฟฟิศ",
+   "loc": "Logo DD",
+   "contact": "-",
+   "contact_phone": "-",
+   "notes": "ไปรับตรายางด้วยค่ะ",
+   "shift": "เช้า",
+   "submitted": "46314.5862615741"
+  },
+  {
+   "id": "6155",
+   "date": "2026-10-19",
+   "dept": "Executive",
+   "requester": "BeeB-T23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "N'Mint-BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารคืนน้อง Mint 2 ซองค่ะ",
+   "shift": "บ่าย",
+   "submitted": "46314.6140162037"
+  },
+  {
+   "id": "6156",
+   "date": "2026-10-19",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "N'Achi-BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารเสนอลงนามคืนน้องอชิค่ะ",
+   "shift": "บ่าย",
+   "submitted": "46314.6150347222"
+  },
+  {
+   "id": "6157",
+   "date": "2026-10-19",
+   "dept": "Executive",
+   "requester": "ฺBeeB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko-BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารเบิก Cash Advance ให้พี่โก้ค่ะ",
+   "shift": "บ่าย",
+   "submitted": "46314.6155208333"
+  },
+  {
+   "id": "6158",
+   "date": "2026-10-19",
+   "dept": "Operation",
+   "requester": "Nan",
+   "phone": "0935249451",
+   "task": "ส่งเอกสาร",
+   "loc": "Lumpini Tower :1168/109 ลุมพินีทาวเวอร์ ถนนพระราม 4 แขวงทุ่งมหาเมฆ เขตสาทร กรุงเทพมหานคร 10120.",
+   "contact": "คุณสุรีรักษ์",
+   "contact_phone": "094 5365422",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46314.6169907407"
   }
  ]
 }
