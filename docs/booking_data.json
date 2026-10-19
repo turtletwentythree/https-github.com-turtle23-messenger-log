@@ -1,6 +1,6 @@
 {
- "generated_at": "19/10/2026 08:34 น.",
- "count": 5986,
+ "generated_at": "19/10/2026 10:05 น.",
+ "count": 5993,
  "records": [
   {
    "id": "1",
@@ -83805,6 +83805,104 @@
    "notes": "เอกสารลงนามส่งคืน 1 ลัง",
    "shift": "เช้า",
    "submitted": "46311.7416898148"
+  },
+  {
+   "id": "6144",
+   "date": "2026-10-19",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 # 2287",
+   "notes": "Inv. KINN1 and Petty Cash KINN 1",
+   "shift": "เช้า",
+   "submitted": "46311.7692476852"
+  },
+  {
+   "id": "6145",
+   "date": "2026-10-19",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "สรุปใบสั่งซื้อ และ Inv. Alpea",
+   "shift": "เช้า",
+   "submitted": "46314.3757175926"
+  },
+  {
+   "id": "6146",
+   "date": "2026-10-19",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "คุณ ณัชชา",
+   "contact_phone": "02-180 8974",
+   "notes": "สรุปใบสั่งซื้อเพื่อการลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46314.3773148148"
+  },
+  {
+   "id": "6147",
+   "date": "2026-10-19",
+   "dept": "Procurement",
+   "requester": "แนน",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46314.384849537"
+  },
+  {
+   "id": "6148",
+   "date": "2026-10-19",
+   "dept": "Procurement",
+   "requester": "แนน",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่มิ้น",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จรับเงิน",
+   "shift": "เช้า",
+   "submitted": "46314.3860532407"
+  },
+  {
+   "id": "6149",
+   "date": "2026-10-19",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 #2298",
+   "notes": "ใบวางบิล KTT",
+   "shift": "เช้า",
+   "submitted": "46314.3977777778"
+  },
+  {
+   "id": "6150",
+   "date": "2026-10-19",
+   "dept": "Procurement",
+   "requester": "๋๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "เชฟใหม่",
+   "contact_phone": "02-180 8974",
+   "notes": "เอกสารเพื่อขอลายเซ็นรับสินค้า",
+   "shift": "บ่าย",
+   "submitted": "46314.4154050926"
   }
  ]
 }
