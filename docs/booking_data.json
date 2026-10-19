@@ -1,6 +1,6 @@
 {
- "generated_at": "19/10/2026 14:53 น.",
- "count": 6001,
+ "generated_at": "19/10/2026 16:15 น.",
+ "count": 6002,
  "records": [
   {
    "id": "1",
@@ -84015,6 +84015,20 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46314.6169907407"
+  },
+  {
+   "id": "6159",
+   "date": "2026-10-20",
+   "dept": "Marketing",
+   "requester": "Pap",
+   "phone": "099-256-3655",
+   "task": "รับเอกสาร",
+   "loc": "Indy Design & Printing",
+   "contact": "ชื่อร้าน อินดี้ ดีไซน์",
+   "contact_phone": "082-227-0337",
+   "notes": "รับตรางยาง Marlo มาส่งที่บริษัท",
+   "shift": "เช้า",
+   "submitted": "46314.6200462963"
   }
  ]
 }
