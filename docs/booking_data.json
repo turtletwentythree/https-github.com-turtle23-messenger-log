@@ -1,6 +1,6 @@
 {
- "generated_at": "20/10/2026 08:46 น.",
- "count": 6002,
+ "generated_at": "20/10/2026 09:58 น.",
+ "count": 6006,
  "records": [
   {
    "id": "1",
@@ -84029,6 +84029,62 @@
    "notes": "รับตรางยาง Marlo มาส่งที่บริษัท",
    "shift": "เช้า",
    "submitted": "46314.6200462963"
+  },
+  {
+   "id": "6160",
+   "date": "2026-10-20",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 #2260",
+   "notes": "Reimbursement RCS",
+   "shift": "เช้า",
+   "submitted": "46315.3631018518"
+  },
+  {
+   "id": "6161",
+   "date": "2026-10-20",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 #2298",
+   "notes": "Inv. KTT",
+   "shift": "เช้า",
+   "submitted": "46315.3640625"
+  },
+  {
+   "id": "6162",
+   "date": "2026-10-20",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เฟิร์ส",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46315.3999189815"
+  },
+  {
+   "id": "6163",
+   "date": "2026-10-20",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ปาล์ม",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามคุณโชติ",
+   "shift": "เช้า",
+   "submitted": "46315.4010763889"
   }
  ]
 }
