@@ -1,6 +1,6 @@
 {
- "generated_at": "20/10/2026 10:20 น.",
- "count": 6009,
+ "generated_at": "20/10/2026 10:26 น.",
+ "count": 6010,
  "records": [
   {
    "id": "1",
@@ -84127,6 +84127,20 @@
    "notes": "INV GR",
    "shift": "เช้า",
    "submitted": "46315.4302893518"
+  },
+  {
+   "id": "6167",
+   "date": "2026-10-20",
+   "dept": "Project Development",
+   "requester": "PJ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "เช้า",
+   "submitted": "46315.4306597222"
   }
  ]
 }
