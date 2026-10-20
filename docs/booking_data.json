@@ -1,6 +1,6 @@
 {
- "generated_at": "20/10/2026 10:18 น.",
- "count": 6007,
+ "generated_at": "20/10/2026 10:20 น.",
+ "count": 6009,
  "records": [
   {
    "id": "1",
@@ -84099,6 +84099,34 @@
    "notes": "บิล food truck 17-18/10/26",
    "shift": "เช้า",
    "submitted": "46315.4148842593"
+  },
+  {
+   "id": "6165",
+   "date": "2026-10-20",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46315.4236458333"
+  },
+  {
+   "id": "6166",
+   "date": "2026-10-20",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46315.4302893518"
   }
  ]
 }
