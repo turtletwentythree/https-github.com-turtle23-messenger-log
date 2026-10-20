@@ -1,6 +1,6 @@
 {
- "generated_at": "20/10/2026 14:15 น.",
- "count": 6010,
+ "generated_at": "20/10/2026 14:49 น.",
+ "count": 6018,
  "records": [
   {
    "id": "1",
@@ -84141,6 +84141,118 @@
    "notes": "เอกสาร",
    "shift": "เช้า",
    "submitted": "46315.4306597222"
+  },
+  {
+   "id": "6168",
+   "date": "2026-10-20",
+   "dept": "Project Development",
+   "requester": "Ky",
+   "phone": "0659657846",
+   "task": "รับเอกสาร",
+   "loc": "อาคารพักอาศัย คอนโด 12 ชั้น (สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง)",
+   "contact": "คุณแอ๋ม",
+   "contact_phone": "0951061967",
+   "notes": "รับเอกสารมาส่งจัดซื้อที่ T23 office",
+   "shift": "บ่าย",
+   "submitted": "46311.5814699074"
+  },
+  {
+   "id": "6169",
+   "date": "2026-10-20",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 #2260",
+   "notes": "Inv. RCS",
+   "shift": "บ่าย",
+   "submitted": "46315.580150463"
+  },
+  {
+   "id": "6170",
+   "date": "2026-10-20",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Kronos (Sushi Saryu)",
+   "contact": "คุณ มุก",
+   "contact_phone": "02-180 8974",
+   "notes": "ตัวอย่างกระดาษ",
+   "shift": "บ่าย",
+   "submitted": "46315.5809722222"
+  },
+  {
+   "id": "6171",
+   "date": "2026-10-20",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46315.4346527778"
+  },
+  {
+   "id": "6172",
+   "date": "2026-10-20",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P อ้อม",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46315.6111689815"
+  },
+  {
+   "id": "6173",
+   "date": "2026-10-20",
+   "dept": "Accounting",
+   "requester": "มิ้น",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "K.นิล",
+   "contact_phone": "-",
+   "notes": "หัก ณ ที่จ่าย",
+   "shift": "บ่าย",
+   "submitted": "46315.6114699074"
+  },
+  {
+   "id": "6174",
+   "date": "2026-10-20",
+   "dept": "Operation",
+   "requester": "Koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "HR T23",
+   "contact_phone": "-",
+   "notes": "BT",
+   "shift": "บ่าย",
+   "submitted": "46315.6120601852"
+  },
+  {
+   "id": "6175",
+   "date": "2026-10-20",
+   "dept": "Marketing",
+   "requester": "โบ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Kronos (Sushi Saryu)",
+   "contact": "K.มุข",
+   "contact_phone": "-",
+   "notes": "ส่งป้าย",
+   "shift": "บ่าย",
+   "submitted": "46315.6124768518"
   }
  ]
 }
