@@ -1,6 +1,6 @@
 {
- "generated_at": "20/10/2026 09:58 น.",
- "count": 6006,
+ "generated_at": "20/10/2026 10:18 น.",
+ "count": 6007,
  "records": [
   {
    "id": "1",
@@ -84085,6 +84085,20 @@
    "notes": "เอกสารลงนามคุณโชติ",
    "shift": "เช้า",
    "submitted": "46315.4010763889"
+  },
+  {
+   "id": "6164",
+   "date": "2026-10-20",
+   "dept": "Accounting",
+   "requester": "Mee",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Beam",
+   "contact_phone": "-",
+   "notes": "บิล food truck 17-18/10/26",
+   "shift": "เช้า",
+   "submitted": "46315.4148842593"
   }
  ]
 }
