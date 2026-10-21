@@ -1,6 +1,6 @@
 {
- "generated_at": "21/10/2026 14:48 น.",
- "count": 6045,
+ "generated_at": "21/10/2026 19:21 น.",
+ "count": 6048,
  "records": [
   {
    "id": "1",
@@ -84631,6 +84631,48 @@
    "notes": "เอกสารลงนาม",
    "shift": "บ่าย",
    "submitted": "46316.6152662037"
+  },
+  {
+   "id": "6205",
+   "date": "2026-10-22",
+   "dept": "Accounting",
+   "requester": "natcha",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "HR som-o",
+   "contact_phone": "-",
+   "notes": "HR Document",
+   "shift": "เช้า",
+   "submitted": "46316.6175694444"
+  },
+  {
+   "id": "6206",
+   "date": "2026-10-22",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Takashi S38",
+   "contact": "K.lucky",
+   "contact_phone": "-",
+   "notes": "ใบอนุญาตร้านอาหาร",
+   "shift": "บ่าย",
+   "submitted": "46316.7580208333"
+  },
+  {
+   "id": "6207",
+   "date": "2026-10-22",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "SCB T5",
+   "shift": "เช้า",
+   "submitted": "46316.7590046296"
   }
  ]
 }
