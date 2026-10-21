@@ -1,6 +1,6 @@
 {
- "generated_at": "21/10/2026 14:33 น.",
- "count": 6045,
+ "generated_at": "21/10/2026 14:35 น.",
+ "count": 6043,
  "records": [
   {
    "id": "1",
@@ -84603,34 +84603,6 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46316.6027430556"
-  },
-  {
-   "id": "6201",
-   "date": "2026-10-21",
-   "dept": "Procurement",
-   "requester": "จัดซื้อ",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.G",
-   "contact": "P koko",
-   "contact_phone": "-",
-   "notes": "INV GR",
-   "shift": "บ่าย",
-   "submitted": "46316.6041435185"
-  },
-  {
-   "id": "6202",
-   "date": "2026-10-21",
-   "dept": "Procurement",
-   "requester": "จัดซื้อ",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.G",
-   "contact": "P ละ",
-   "contact_phone": "-",
-   "notes": "INV GR",
-   "shift": "บ่าย",
-   "submitted": "46316.6045486111"
   }
  ]
 }
