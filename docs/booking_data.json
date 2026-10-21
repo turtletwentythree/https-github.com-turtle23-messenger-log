@@ -1,6 +1,6 @@
 {
- "generated_at": "21/10/2026 13:56 น.",
- "count": 6039,
+ "generated_at": "21/10/2026 14:33 น.",
+ "count": 6045,
  "records": [
   {
    "id": "1",
@@ -84547,6 +84547,90 @@
    "notes": "ส่งของ 1 ถุง เเละ รับเอกสารกลับ",
    "shift": "บ่าย",
    "submitted": "46316.4959259259"
+  },
+  {
+   "id": "6197",
+   "date": "2026-10-21",
+   "dept": "Human Resources",
+   "requester": "ส้มโอ",
+   "phone": "082-3936914",
+   "task": "ส่งเอกสาร",
+   "loc": "Office T23 Unicorn Fl.20",
+   "contact": "Bank AB",
+   "contact_phone": "-",
+   "notes": "ฝากเอกสารฝห้แบงค์ AB",
+   "shift": "บ่าย",
+   "submitted": "46316.5641087963"
+  },
+  {
+   "id": "6198",
+   "date": "2026-10-21",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "185,000",
+   "shift": "บ่าย",
+   "submitted": "46316.5124884259"
+  },
+  {
+   "id": "6199",
+   "date": "2026-10-21",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46316.5835069444"
+  },
+  {
+   "id": "6200",
+   "date": "2026-10-21",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณละห์",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46316.6027430556"
+  },
+  {
+   "id": "6201",
+   "date": "2026-10-21",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46316.6041435185"
+  },
+  {
+   "id": "6202",
+   "date": "2026-10-21",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ละ",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46316.6045486111"
   }
  ]
 }
