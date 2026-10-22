@@ -1,6 +1,6 @@
 {
- "generated_at": "22/10/2026 09:42 น.",
- "count": 6055,
+ "generated_at": "22/10/2026 10:12 น.",
+ "count": 6056,
  "records": [
   {
    "id": "1",
@@ -84771,6 +84771,20 @@
    "notes": "ฝากเอกสารให้พี่จี้ลงนาม",
    "shift": "เช้า",
    "submitted": "46317.4002083333"
+  },
+  {
+   "id": "6215",
+   "date": "2026-10-22",
+   "dept": "Accounting",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "SCB",
+   "contact": "คุณ เตย",
+   "contact_phone": "0956823809",
+   "notes": "เอกสาร SCB",
+   "shift": "เช้า",
+   "submitted": "46317.4077199074"
   }
  ]
 }
