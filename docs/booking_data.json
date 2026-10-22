@@ -1,6 +1,6 @@
 {
- "generated_at": "22/10/2026 13:49 น.",
- "count": 6057,
+ "generated_at": "22/10/2026 13:50 น.",
+ "count": 6058,
  "records": [
   {
    "id": "1",
@@ -84799,6 +84799,20 @@
    "notes": "เอกสารลงนาม",
    "shift": "บ่าย",
    "submitted": "46317.4724421296"
+  },
+  {
+   "id": "6217",
+   "date": "2026-10-22",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม 1 ฝา",
+   "shift": "บ่าย",
+   "submitted": "46317.5757638889"
   }
  ]
 }
