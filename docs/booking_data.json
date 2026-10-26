@@ -1,6 +1,6 @@
 {
- "generated_at": "26/10/2026 14:15 น.",
- "count": 6080,
+ "generated_at": "26/10/2026 14:22 น.",
+ "count": 6081,
  "records": [
   {
    "id": "1",
@@ -85121,6 +85121,20 @@
    "notes": "Petty Cash KIN1",
    "shift": "บ่าย",
    "submitted": "46321.5924768519"
+  },
+  {
+   "id": "6241",
+   "date": "2026-10-26",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ โก้",
+   "contact_phone": "02-080 1000 # 2255",
+   "notes": "Non-PO T23",
+   "shift": "บ่าย",
+   "submitted": "46321.5930671296"
   }
  ]
 }
