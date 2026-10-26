@@ -1,6 +1,6 @@
 {
- "generated_at": "26/10/2026 10:33 น.",
- "count": 6068,
+ "generated_at": "26/10/2026 10:34 น.",
+ "count": 6069,
  "records": [
   {
    "id": "1",
@@ -84953,6 +84953,20 @@
    "notes": "บิล 23-24/10/69",
    "shift": "เช้า",
    "submitted": "46321.4246759259"
+  },
+  {
+   "id": "6229",
+   "date": "2026-10-26",
+   "dept": "Procurement",
+   "requester": "เเนน",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารซองจดหมาย",
+   "shift": "เช้า",
+   "submitted": "46321.4321296296"
   }
  ]
 }
