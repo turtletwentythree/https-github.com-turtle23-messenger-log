@@ -1,6 +1,6 @@
 {
- "generated_at": "26/10/2026 11:48 น.",
- "count": 6069,
+ "generated_at": "26/10/2026 12:03 น.",
+ "count": 6075,
  "records": [
   {
    "id": "1",
@@ -84967,6 +84967,90 @@
    "notes": "เอกสารซองจดหมาย",
    "shift": "เช้า",
    "submitted": "46321.4321296296"
+  },
+  {
+   "id": "6230",
+   "date": "2026-10-26",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46321.4395486111"
+  },
+  {
+   "id": "6231",
+   "date": "2026-10-26",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Achi",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46321.4808680556"
+  },
+  {
+   "id": "6232",
+   "date": "2026-10-26",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "บ่าย",
+   "submitted": "46321.4821412037"
+  },
+  {
+   "id": "6233",
+   "date": "2026-10-26",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.talatat",
+   "contact_phone": "-",
+   "notes": "cash voucher",
+   "shift": "บ่าย",
+   "submitted": "46321.4825462963"
+  },
+  {
+   "id": "6234",
+   "date": "2026-10-26",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม 1 ถาด",
+   "shift": "บ่าย",
+   "submitted": "46321.487662037"
+  },
+  {
+   "id": "6235",
+   "date": "2026-10-26",
+   "dept": "Marketing",
+   "requester": "Pap",
+   "phone": "099-256-3655",
+   "task": "รับเอกสาร",
+   "loc": "เอนกปริ้นท์",
+   "contact": "เอก",
+   "contact_phone": "083-430-7707",
+   "notes": "รับสติ๊กเกอร์ร้าน Marlo",
+   "shift": "บ่าย",
+   "submitted": "46321.5003356481"
   }
  ]
 }
