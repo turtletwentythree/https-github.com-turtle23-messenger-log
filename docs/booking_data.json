@@ -1,6 +1,6 @@
 {
- "generated_at": "27/10/2026 12:35 น.",
- "count": 6095,
+ "generated_at": "27/10/2026 13:57 น.",
+ "count": 6102,
  "records": [
   {
    "id": "1",
@@ -85331,6 +85331,104 @@
    "notes": "รับเอกสารมาส่งให้กี้ที่ office",
    "shift": "บ่าย",
    "submitted": "46322.4347800926"
+  },
+  {
+   "id": "6256",
+   "date": "2026-10-28",
+   "dept": "Operation",
+   "requester": "K.nant23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟ",
+   "shift": "บ่าย",
+   "submitted": "46322.4322222222"
+  },
+  {
+   "id": "6257",
+   "date": "2026-10-27",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.หมี",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46322.5720486111"
+  },
+  {
+   "id": "6258",
+   "date": "2026-10-28",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "k.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46322.5731828704"
+  },
+  {
+   "id": "6259",
+   "date": "2026-10-28",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "ตั้งฮั้วปัก",
+   "contact": "K.ดวงใจ",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จค่าน้ำไฟ",
+   "shift": "บ่าย",
+   "submitted": "46322.5736689815"
+  },
+  {
+   "id": "6260",
+   "date": "2026-10-27",
+   "dept": "Accounting",
+   "requester": "ACHI",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "บัญชี",
+   "contact_phone": "-",
+   "notes": "WHT ค่าซักรีด",
+   "shift": "บ่าย",
+   "submitted": "46322.5748958333"
+  },
+  {
+   "id": "6261",
+   "date": "2026-10-27",
+   "dept": "Operation",
+   "requester": "K.nant 23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "T5 MPZ",
+   "shift": "บ่าย",
+   "submitted": "46322.5776273148"
+  },
+  {
+   "id": "6262",
+   "date": "2026-10-27",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสาร NON PO PKP Project",
+   "shift": "บ่าย",
+   "submitted": "46322.5782638889"
   }
  ]
 }
