@@ -1,6 +1,6 @@
 {
- "generated_at": "27/10/2026 10:10 น.",
- "count": 6093,
+ "generated_at": "27/10/2026 10:25 น.",
+ "count": 6094,
  "records": [
   {
    "id": "1",
@@ -85303,6 +85303,20 @@
    "notes": "ของจากคุณเว้งถึงK.KV",
    "shift": "เช้า",
    "submitted": "46322.4229050926"
+  },
+  {
+   "id": "6254",
+   "date": "2026-10-27",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จรับเงิน",
+   "shift": "เช้า",
+   "submitted": "46322.4238657407"
   }
  ]
 }
