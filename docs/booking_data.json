@@ -1,6 +1,6 @@
 {
- "generated_at": "28/10/2026 14:04 น.",
- "count": 6123,
+ "generated_at": "28/10/2026 18:29 น.",
+ "count": 6124,
  "records": [
   {
    "id": "1",
@@ -85628,7 +85628,7 @@
   },
   {
    "id": "6277",
-   "date": "2026-10-28",
+   "date": "2026-10-29",
    "dept": "Operation",
    "requester": "Wassana",
    "phone": "021808984",
@@ -85723,6 +85723,20 @@
    "notes": "Inv. Thitid",
    "shift": "บ่าย",
    "submitted": "46323.5653240741"
+  },
+  {
+   "id": "6285",
+   "date": "2026-10-28",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 # 2287",
+   "notes": "Inv. KINN1",
+   "shift": "บ่าย",
+   "submitted": "46323.5978356482"
   }
  ]
 }
