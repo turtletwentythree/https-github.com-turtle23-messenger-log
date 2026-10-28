@@ -1,6 +1,6 @@
 {
- "generated_at": "28/10/2026 10:02 น.",
- "count": 6111,
+ "generated_at": "28/10/2026 10:06 น.",
+ "count": 6113,
  "records": [
   {
    "id": "1",
@@ -85555,6 +85555,34 @@
    "notes": "เอกสาร",
    "shift": "เช้า",
    "submitted": "46323.4103703704"
+  },
+  {
+   "id": "6272",
+   "date": "2026-10-28",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ดวงใจ",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จน้ำไฟ",
+   "shift": "เช้า",
+   "submitted": "46323.4111574074"
+  },
+  {
+   "id": "6273",
+   "date": "2026-10-28",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เฟิร์ส",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46323.4118981481"
   }
  ]
 }
