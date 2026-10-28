@@ -1,6 +1,6 @@
 {
- "generated_at": "28/10/2026 13:32 น.",
- "count": 6120,
+ "generated_at": "28/10/2026 14:04 น.",
+ "count": 6123,
  "records": [
   {
    "id": "1",
@@ -85681,6 +85681,48 @@
    "notes": "MEMO ลงนาม",
    "shift": "บ่าย",
    "submitted": "46323.562662037"
+  },
+  {
+   "id": "6282",
+   "date": "2026-10-28",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46323.5632060185"
+  },
+  {
+   "id": "6283",
+   "date": "2026-10-28",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "petty csah kappo",
+   "shift": "บ่าย",
+   "submitted": "46323.5634722222"
+  },
+  {
+   "id": "6284",
+   "date": "2026-10-28",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 # 2298",
+   "notes": "Inv. Thitid",
+   "shift": "บ่าย",
+   "submitted": "46323.5653240741"
   }
  ]
 }
