@@ -1,6 +1,6 @@
 {
- "generated_at": "28/10/2026 07:01 น.",
- "count": 6106,
+ "generated_at": "28/10/2026 09:53 น.",
+ "count": 6111,
  "records": [
   {
    "id": "1",
@@ -85485,6 +85485,76 @@
    "notes": "เอกสารลงนาม",
    "shift": "เช้า",
    "submitted": "46322.7523611111"
+  },
+  {
+   "id": "6267",
+   "date": "2026-10-28",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ณัชชา",
+   "contact_phone": "02-180 8974",
+   "notes": "สรุปใบสั่งซื้อเพื่อการลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46323.3503356482"
+  },
+  {
+   "id": "6268",
+   "date": "2026-10-28",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "เชฟ ใหม่",
+   "contact_phone": "02-180 8974",
+   "notes": "เอกสารเพื่อการขอลายเซ็นรับสินค้า",
+   "shift": "บ่าย",
+   "submitted": "46323.3508796296"
+  },
+  {
+   "id": "6269",
+   "date": "2026-10-28",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Gob HR",
+   "contact_phone": "-",
+   "notes": "?ฎ?ฯ ?ญ(",
+   "shift": "เช้า",
+   "submitted": "46323.4002893518"
+  },
+  {
+   "id": "6270",
+   "date": "2026-10-28",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46323.4099652778"
+  },
+  {
+   "id": "6271",
+   "date": "2026-10-28",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ละห์",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "เช้า",
+   "submitted": "46323.4103703704"
   }
  ]
 }
