@@ -1,6 +1,6 @@
 {
- "generated_at": "28/10/2026 12:25 น.",
- "count": 6117,
+ "generated_at": "28/10/2026 13:32 น.",
+ "count": 6120,
  "records": [
   {
    "id": "1",
@@ -85440,7 +85440,7 @@
    "loc": "Alpea",
    "contact": "k.natcha",
    "contact_phone": "-",
-   "notes": "เอกสารเชฟลงนาม",
+   "notes": "เอกสารเชฟลงนาม 2 ซอง",
    "shift": "บ่าย",
    "submitted": "46322.5731828704"
   },
@@ -85639,6 +85639,48 @@
    "notes": "รับตัวอย่างถาดคืน",
    "shift": "บ่าย",
    "submitted": "46323.4405902778"
+  },
+  {
+   "id": "6279",
+   "date": "2026-10-28",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 # 2298",
+   "notes": "Inv. KTT",
+   "shift": "บ่าย",
+   "submitted": "46323.5605092593"
+  },
+  {
+   "id": "6280",
+   "date": "2026-10-28",
+   "dept": "Human Resources",
+   "requester": "SOM-O",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "P mai",
+   "contact_phone": "-",
+   "notes": "หนังสือรับรอง",
+   "shift": "บ่าย",
+   "submitted": "46323.5597106481"
+  },
+  {
+   "id": "6281",
+   "date": "2026-10-28",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P som-o",
+   "contact_phone": "-",
+   "notes": "MEMO ลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46323.562662037"
   }
  ]
 }
