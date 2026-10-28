@@ -1,6 +1,6 @@
 {
- "generated_at": "28/10/2026 10:09 น.",
- "count": 6113,
+ "generated_at": "28/10/2026 12:25 น.",
+ "count": 6117,
  "records": [
   {
    "id": "1",
@@ -85333,20 +85333,6 @@
    "submitted": "46322.4347800926"
   },
   {
-   "id": "6256",
-   "date": "2026-10-28",
-   "dept": "Operation",
-   "requester": "K.nant23",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "Alpea",
-   "contact": "K.natcha",
-   "contact_phone": "-",
-   "notes": "เอกสารเชฟ",
-   "shift": "บ่าย",
-   "submitted": "46322.4322222222"
-  },
-  {
    "id": "6257",
    "date": "2026-10-27",
    "dept": "Executive",
@@ -85359,34 +85345,6 @@
    "notes": "เอกสารลงนามส่งคืน",
    "shift": "บ่าย",
    "submitted": "46322.5720486111"
-  },
-  {
-   "id": "6258",
-   "date": "2026-10-28",
-   "dept": "Accounting",
-   "requester": "ฟิวส์",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "Alpea",
-   "contact": "k.natcha",
-   "contact_phone": "-",
-   "notes": "เอกสารเชฟลงนาม",
-   "shift": "บ่าย",
-   "submitted": "46322.5731828704"
-  },
-  {
-   "id": "6259",
-   "date": "2026-10-28",
-   "dept": "Accounting",
-   "requester": "ฟิวส์",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "ตั้งฮั้วปัก",
-   "contact": "K.ดวงใจ",
-   "contact_phone": "-",
-   "notes": "ใบเสร็จค่าน้ำไฟ",
-   "shift": "บ่าย",
-   "submitted": "46322.5736689815"
   },
   {
    "id": "6260",
@@ -85457,6 +85415,48 @@
    "notes": "เอกสาร",
    "shift": "บ่าย",
    "submitted": "46322.5780787037"
+  },
+  {
+   "id": "6256",
+   "date": "2026-10-28",
+   "dept": "Operation",
+   "requester": "K.nant23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟ",
+   "shift": "บ่าย",
+   "submitted": "46322.4322222222"
+  },
+  {
+   "id": "6258",
+   "date": "2026-10-28",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "k.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46322.5731828704"
+  },
+  {
+   "id": "6259",
+   "date": "2026-10-28",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "ตั้งฮั้วปัก",
+   "contact": "K.ดวงใจ",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จค่าน้ำไฟ",
+   "shift": "บ่าย",
+   "submitted": "46322.5736689815"
   },
   {
    "id": "6265",
@@ -85583,6 +85583,62 @@
    "notes": "เอกสารลงนามส่งคืน",
    "shift": "เช้า",
    "submitted": "46323.4118981481"
+  },
+  {
+   "id": "6274",
+   "date": "2026-10-28",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46323.420150463"
+  },
+  {
+   "id": "6275",
+   "date": "2026-10-28",
+   "dept": "Operation",
+   "requester": "Nan",
+   "phone": "0935249451",
+   "task": "รับเอกสาร",
+   "loc": "Bangkok Bank (head office)",
+   "contact": "Khun Chissanupong",
+   "contact_phone": "02 230 1067",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46323.437662037"
+  },
+  {
+   "id": "6276",
+   "date": "2026-10-28",
+   "dept": "Operation",
+   "requester": "Nan",
+   "phone": "0935249451",
+   "task": "ส่งเอกสาร",
+   "loc": "Rabbit insurance: Q House Lumpini Building, 29th Floor, No. 1 South Sathon Road, Thung Maha Mek, Sathon, Bangkok 10120",
+   "contact": "คุณธิติพงศ์",
+   "contact_phone": "098 267 1298",
+   "notes": "รับเช็คจากธนาคาร กรุงเทพ ไปให้คุณธิติพงศ์ Rabbit",
+   "shift": "บ่าย",
+   "submitted": "46323.4419675926"
+  },
+  {
+   "id": "6277",
+   "date": "2026-10-28",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "รับของมาที่ออฟฟิศ",
+   "loc": "BK Salon สาธุประดิษฐ์",
+   "contact": "คุณโดโด้",
+   "contact_phone": "0957317072",
+   "notes": "รับตัวอย่างถาดคืน",
+   "shift": "บ่าย",
+   "submitted": "46323.4405902778"
   }
  ]
 }
