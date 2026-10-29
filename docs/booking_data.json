@@ -1,6 +1,6 @@
 {
- "generated_at": "29/10/2026 14:11 น.",
- "count": 6133,
+ "generated_at": "29/10/2026 21:17 น.",
+ "count": 6134,
  "records": [
   {
    "id": "1",
@@ -85863,6 +85863,20 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46324.5679166667"
+  },
+  {
+   "id": "6296",
+   "date": "2026-10-30",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "1749 ถ.จันทร์เก่า",
+   "contact": "K.เว้ง",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "เช้า",
+   "submitted": "46324.572037037"
   }
  ]
 }
