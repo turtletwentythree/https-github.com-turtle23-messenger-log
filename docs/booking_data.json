@@ -1,5 +1,5 @@
 {
- "generated_at": "29/10/2026 10:16 น.",
+ "generated_at": "29/10/2026 10:39 น.",
  "count": 6128,
  "records": [
   {
@@ -85627,20 +85627,6 @@
    "submitted": "46323.4419675926"
   },
   {
-   "id": "6277",
-   "date": "2026-10-29",
-   "dept": "Operation",
-   "requester": "Wassana",
-   "phone": "021808984",
-   "task": "รับของมาที่ออฟฟิศ",
-   "loc": "BK Salon สาธุประดิษฐ์",
-   "contact": "คุณโดโด้",
-   "contact_phone": "0957317072",
-   "notes": "รับตัวอย่างถาดคืน",
-   "shift": "บ่าย",
-   "submitted": "46323.4405902778"
-  },
-  {
    "id": "6279",
    "date": "2026-10-28",
    "dept": "Procurement",
@@ -85737,6 +85723,20 @@
    "notes": "Inv. KINN1",
    "shift": "บ่าย",
    "submitted": "46323.5978356482"
+  },
+  {
+   "id": "6277",
+   "date": "2026-10-29",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "รับของมาที่ออฟฟิศ",
+   "loc": "BK Salon สาธุประดิษฐ์",
+   "contact": "คุณโดโด้",
+   "contact_phone": "0957317072",
+   "notes": "รับตัวอย่างถาดคืน",
+   "shift": "บ่าย",
+   "submitted": "46323.4405902778"
   },
   {
    "id": "6286",
