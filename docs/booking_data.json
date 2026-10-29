@@ -1,6 +1,6 @@
 {
- "generated_at": "29/10/2026 13:44 น.",
- "count": 6131,
+ "generated_at": "29/10/2026 13:50 น.",
+ "count": 6133,
  "records": [
   {
    "id": "1",
@@ -85823,18 +85823,46 @@
    "submitted": "46324.4422916667"
   },
   {
-   "id": "6292",
+   "id": "6293",
    "date": "2026-10-29",
-   "dept": "Marketing",
-   "requester": "PAP",
-   "phone": "-",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
    "task": "ส่งเอกสาร",
-   "loc": "Kappo Takashi S38",
-   "contact": "Kappo takashi",
-   "contact_phone": "-",
-   "notes": "kappo menu",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 # 2298",
+   "notes": "ใบเสร็จรับเงิน KTT",
    "shift": "บ่าย",
-   "submitted": "46324.4439467593"
+   "submitted": "46324.5619097222"
+  },
+  {
+   "id": "6294",
+   "date": "2026-10-29",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46324.5673611111"
+  },
+  {
+   "id": "6295",
+   "date": "2026-10-29",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณละห์",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46324.5679166667"
   }
  ]
 }
