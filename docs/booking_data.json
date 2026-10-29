@@ -1,6 +1,6 @@
 {
- "generated_at": "29/10/2026 08:15 น.",
- "count": 6124,
+ "generated_at": "29/10/2026 10:16 น.",
+ "count": 6128,
  "records": [
   {
    "id": "1",
@@ -85737,6 +85737,62 @@
    "notes": "Inv. KINN1",
    "shift": "บ่าย",
    "submitted": "46323.5978356482"
+  },
+  {
+   "id": "6286",
+   "date": "2026-10-29",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46323.6024652778"
+  },
+  {
+   "id": "6287",
+   "date": "2026-10-29",
+   "dept": "Marketing",
+   "requester": "Pap",
+   "phone": "099-256-3655",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Takashi S38",
+   "contact": "พี่ลัคกี้",
+   "contact_phone": "061-172-2598",
+   "notes": "ส่งเมนู Kappo Takahsi",
+   "shift": "บ่าย",
+   "submitted": "46323.7251388889"
+  },
+  {
+   "id": "6288",
+   "date": "2026-10-29",
+   "dept": "Marketing",
+   "requester": "P mob",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ลักษณ์",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม KV",
+   "shift": "เช้า",
+   "submitted": "46324.416412037"
+  },
+  {
+   "id": "6289",
+   "date": "2026-10-29",
+   "dept": "Accounting",
+   "requester": "chefmai",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เอิธ",
+   "contact_phone": "-",
+   "notes": "INV ETC",
+   "shift": "เช้า",
+   "submitted": "46324.4198842593"
   }
  ]
 }
