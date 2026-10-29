@@ -1,6 +1,6 @@
 {
- "generated_at": "29/10/2026 10:39 น.",
- "count": 6128,
+ "generated_at": "29/10/2026 10:41 น.",
+ "count": 6130,
  "records": [
   {
    "id": "1",
@@ -85793,6 +85793,34 @@
    "notes": "INV ETC",
    "shift": "เช้า",
    "submitted": "46324.4198842593"
+  },
+  {
+   "id": "6290",
+   "date": "2026-10-29",
+   "dept": "Finance",
+   "requester": "กอล์ฟ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.หญิง",
+   "contact_phone": "-",
+   "notes": "เช็ค alpea",
+   "shift": "เช้า",
+   "submitted": "46324.4270717593"
+  },
+  {
+   "id": "6291",
+   "date": "2026-10-29",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสาร Non PO PKP Project",
+   "shift": "เช้า",
+   "submitted": "46324.4422916667"
   }
  ]
 }
