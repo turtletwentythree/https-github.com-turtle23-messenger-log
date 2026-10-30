@@ -1,6 +1,6 @@
 {
- "generated_at": "30/10/2026 10:04 น.",
- "count": 6136,
+ "generated_at": "30/10/2026 13:30 น.",
+ "count": 6143,
  "records": [
   {
    "id": "1",
@@ -85905,6 +85905,104 @@
    "notes": "non po แก้ไข",
    "shift": "เช้า",
    "submitted": "46325.403587963"
+  },
+  {
+   "id": "6301",
+   "date": "2026-10-30",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46325.4119560185"
+  },
+  {
+   "id": "6302",
+   "date": "2026-10-30",
+   "dept": "IT",
+   "requester": "BOSS",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "K.นิล",
+   "contact_phone": "-",
+   "notes": "ฝากของไปให้ที่ร้าน",
+   "shift": "บ่าย",
+   "submitted": "46325.4319097222"
+  },
+  {
+   "id": "6303",
+   "date": "2026-10-30",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "1749 ถ.จันทร์เก่า",
+   "contact": "K.เว้ง",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารเเละรอรับกลับ",
+   "shift": "บ่าย",
+   "submitted": "46325.4477893518"
+  },
+  {
+   "id": "6304",
+   "date": "2026-10-30",
+   "dept": "Operation",
+   "requester": "Koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "1749 ถ.จันทร์เก่า",
+   "contact": "K.henry",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามเเละรอรับกลับ",
+   "shift": "บ่าย",
+   "submitted": "46325.5090972222"
+  },
+  {
+   "id": "6305",
+   "date": "2026-10-30",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P Pare Hr",
+   "contact_phone": "-",
+   "notes": "MEMO",
+   "shift": "บ่าย",
+   "submitted": "46325.5114467593"
+  },
+  {
+   "id": "6306",
+   "date": "2026-10-30",
+   "dept": "Operation",
+   "requester": "Koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "T10 (Baan Turtle)",
+   "contact": "พี่สมชาย",
+   "contact_phone": "-",
+   "notes": "ใบหัก ณ ที่จ่าย",
+   "shift": "บ่าย",
+   "submitted": "46325.5605439815"
+  },
+  {
+   "id": "6307",
+   "date": "2026-10-30",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "เชฟใหม่",
+   "contact_phone": "-",
+   "notes": "เอกสารส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46325.5612384259"
   }
  ]
 }
