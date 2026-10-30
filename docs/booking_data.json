@@ -1,6 +1,6 @@
 {
- "generated_at": "30/10/2026 13:30 น.",
- "count": 6143,
+ "generated_at": "30/10/2026 13:59 น.",
+ "count": 6145,
  "records": [
   {
    "id": "1",
@@ -86003,6 +86003,34 @@
    "notes": "เอกสารส่งคืน",
    "shift": "บ่าย",
    "submitted": "46325.5612384259"
+  },
+  {
+   "id": "6308",
+   "date": "2026-10-30",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Achi",
+   "contact_phone": "-",
+   "notes": "INV Kinn 1",
+   "shift": "บ่าย",
+   "submitted": "46325.5622800926"
+  },
+  {
+   "id": "6309",
+   "date": "2026-10-30",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46325.5692939815"
   }
  ]
 }
