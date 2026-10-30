@@ -1,6 +1,6 @@
 {
- "generated_at": "30/10/2026 16:29 น.",
- "count": 6145,
+ "generated_at": "30/10/2026 23:10 น.",
+ "count": 6153,
  "records": [
   {
    "id": "1",
@@ -86031,6 +86031,118 @@
    "notes": "INV GR",
    "shift": "บ่าย",
    "submitted": "46325.5692939815"
+  },
+  {
+   "id": "6310",
+   "date": "2026-11-02",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "SCB",
+   "shift": "เช้า",
+   "submitted": "46325.5858449074"
+  },
+  {
+   "id": "6311",
+   "date": "2026-11-02",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.talatat",
+   "contact_phone": "-",
+   "notes": "cash voucher",
+   "shift": "เช้า",
+   "submitted": "46325.7461111111"
+  },
+  {
+   "id": "6312",
+   "date": "2026-11-02",
+   "dept": "Executive",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P Ple",
+   "contact_phone": "-",
+   "notes": "cash voucher",
+   "shift": "เช้า",
+   "submitted": "46325.7467592593"
+  },
+  {
+   "id": "6313",
+   "date": "2026-11-02",
+   "dept": "Accounting",
+   "requester": "natcha",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "HR som-o",
+   "contact_phone": "-",
+   "notes": "document",
+   "shift": "เช้า",
+   "submitted": "46325.7473263889"
+  },
+  {
+   "id": "6314",
+   "date": "2026-11-02",
+   "dept": "Accounting",
+   "requester": "natcha",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "HR som-o",
+   "contact_phone": "-",
+   "notes": "passport",
+   "shift": "เช้า",
+   "submitted": "46325.7529513889"
+  },
+  {
+   "id": "6315",
+   "date": "2026-11-02",
+   "dept": "Executive",
+   "requester": "Beeb",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46325.7533564815"
+  },
+  {
+   "id": "6316",
+   "date": "2026-11-02",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P Pare Hr",
+   "contact_phone": "-",
+   "notes": "MEMO",
+   "shift": "เช้า",
+   "submitted": "46325.753900463"
+  },
+  {
+   "id": "6317",
+   "date": "2026-11-02",
+   "dept": "Operation",
+   "requester": "Koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "ใบส่งมอบ สำเนา",
+   "shift": "บ่าย",
+   "submitted": "46325.7542476852"
   }
  ]
 }
