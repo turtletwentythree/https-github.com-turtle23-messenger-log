@@ -1,6 +1,6 @@
 {
- "generated_at": "30/10/2026 06:36 น.",
- "count": 6134,
+ "generated_at": "30/10/2026 09:55 น.",
+ "count": 6136,
  "records": [
   {
    "id": "1",
@@ -85865,18 +85865,46 @@
    "submitted": "46324.5679166667"
   },
   {
-   "id": "6296",
+   "id": "6297",
+   "date": "2026-10-30",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 #2287",
+   "notes": "Original Inv. Sake Merchant",
+   "shift": "เช้า",
+   "submitted": "46325.3527893518"
+  },
+  {
+   "id": "6299",
+   "date": "2026-10-30",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46325.4031018519"
+  },
+  {
+   "id": "6300",
    "date": "2026-10-30",
    "dept": "Executive",
    "requester": "BeeB",
    "phone": "-",
    "task": "ส่งเอกสาร",
-   "loc": "1749 ถ.จันทร์เก่า",
-   "contact": "K.เว้ง",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
    "contact_phone": "-",
-   "notes": "เอกสารลงนาม",
+   "notes": "non po แก้ไข",
    "shift": "เช้า",
-   "submitted": "46324.572037037"
+   "submitted": "46325.403587963"
   }
  ]
 }
