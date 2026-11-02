@@ -1,6 +1,6 @@
 {
- "generated_at": "02/11/2026 09:50 น.",
- "count": 6153,
+ "generated_at": "02/11/2026 10:00 น.",
+ "count": 6157,
  "records": [
   {
    "id": "1",
@@ -86143,6 +86143,62 @@
    "notes": "ใบส่งมอบ สำเนา",
    "shift": "บ่าย",
    "submitted": "46325.7542476852"
+  },
+  {
+   "id": "6318",
+   "date": "2026-11-02",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "0899257174",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P’Koko",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสาร Non-PO & Cash Advance to P’Koko",
+   "shift": "เช้า",
+   "submitted": "46328.3217361111"
+  },
+  {
+   "id": "6319",
+   "date": "2026-11-02",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "Inv. Alpea",
+   "shift": "เช้า",
+   "submitted": "46328.3870486111"
+  },
+  {
+   "id": "6320",
+   "date": "2026-11-02",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "คุณ ณัชชา",
+   "contact_phone": "02-180 8974",
+   "notes": "สรุปใบสั่งซื้อเพื่ิอการลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46328.3878009259"
+  },
+  {
+   "id": "6321",
+   "date": "2026-11-02",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "0823557542",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่เปิ้ล เลขา TK",
+   "contact_phone": "พี่เปิ้ล เลขา TK",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46328.4158564815"
   }
  ]
 }
