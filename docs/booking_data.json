@@ -1,6 +1,6 @@
 {
- "generated_at": "02/11/2026 10:00 น.",
- "count": 6157,
+ "generated_at": "02/11/2026 10:32 น.",
+ "count": 6161,
  "records": [
   {
    "id": "1",
@@ -86199,6 +86199,62 @@
    "notes": "",
    "shift": "เช้า",
    "submitted": "46328.4158564815"
+  },
+  {
+   "id": "6322",
+   "date": "2026-11-02",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "0823557542",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV 27Fl.",
+   "contact": "คุณ Tat VGI",
+   "contact_phone": "คุณ Tat VGI",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46328.4164351852"
+  },
+  {
+   "id": "6323",
+   "date": "2026-11-02",
+   "dept": "Finance",
+   "requester": "ตรีธนา(กอล์ฟ)",
+   "phone": "084-155-5758",
+   "task": "อื่นๆ",
+   "loc": "ธนาคาร",
+   "contact": "ธนาคาร",
+   "contact_phone": "ธนาคาร",
+   "notes": "๊Upbook",
+   "shift": "เช้า",
+   "submitted": "46328.4175925926"
+  },
+  {
+   "id": "6324",
+   "date": "2026-11-02",
+   "dept": "Procurement",
+   "requester": "แนน",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46328.4209259259"
+  },
+  {
+   "id": "6325",
+   "date": "2026-11-02",
+   "dept": "Procurement",
+   "requester": "แนน",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่มิ้น",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จรับเงิน",
+   "shift": "เช้า",
+   "submitted": "46328.4324884259"
   }
  ]
 }
