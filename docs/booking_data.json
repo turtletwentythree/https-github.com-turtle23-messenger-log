@@ -1,6 +1,6 @@
 {
- "generated_at": "03/11/2026 10:44 น.",
- "count": 6188,
+ "generated_at": "03/11/2026 10:47 น.",
+ "count": 6189,
  "records": [
   {
    "id": "1",
@@ -86633,6 +86633,20 @@
    "notes": "ส่งเอกสารที่แก้ไขเพิ่มเติมคืนพี่โก้ค่ะ",
    "shift": "เช้า",
    "submitted": "46329.4422800926"
+  },
+  {
+   "id": "6353",
+   "date": "2026-11-03",
+   "dept": "Project Development",
+   "requester": "Pavarit Imem. (Dome)",
+   "phone": "0629352466",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้ BCAF",
+   "contact_phone": "-",
+   "notes": "แก้บิล เซนต์ใบรับของ 7-Eleven (Coffee Truck T5 00002)",
+   "shift": "เช้า",
+   "submitted": "46329.4476157407"
   }
  ]
 }
