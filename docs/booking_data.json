@@ -1,6 +1,6 @@
 {
- "generated_at": "03/11/2026 11:46 น.",
- "count": 6193,
+ "generated_at": "03/11/2026 14:14 น.",
+ "count": 6194,
  "records": [
   {
    "id": "1",
@@ -86703,6 +86703,20 @@
    "notes": "ใบประกาศพ่นยาฆ่าเเมลง",
    "shift": "บ่าย",
    "submitted": "46329.4888425926"
+  },
+  {
+   "id": "6358",
+   "date": "2026-11-03",
+   "dept": "Operation",
+   "requester": "koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "บ่าย",
+   "submitted": "46329.4897222222"
   }
  ]
 }
