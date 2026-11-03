@@ -1,6 +1,6 @@
 {
- "generated_at": "03/11/2026 10:06 น.",
- "count": 6186,
+ "generated_at": "03/11/2026 10:44 น.",
+ "count": 6188,
  "records": [
   {
    "id": "1",
@@ -86605,6 +86605,34 @@
    "notes": "เอกสาร",
    "shift": "เช้า",
    "submitted": "46329.4195717593"
+  },
+  {
+   "id": "6351",
+   "date": "2026-11-03",
+   "dept": "Accounting",
+   "requester": "chefmai",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เอิรธ์",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จ ลันดิไลดีไซ",
+   "shift": "เช้า",
+   "submitted": "46329.4201967593"
+  },
+  {
+   "id": "6352",
+   "date": "2026-11-03",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "0899257174",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko-BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารที่แก้ไขเพิ่มเติมคืนพี่โก้ค่ะ",
+   "shift": "เช้า",
+   "submitted": "46329.4422800926"
   }
  ]
 }
