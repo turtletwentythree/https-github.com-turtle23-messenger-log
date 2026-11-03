@@ -1,6 +1,6 @@
 {
- "generated_at": "03/11/2026 09:23 น.",
- "count": 6178,
+ "generated_at": "03/11/2026 10:06 น.",
+ "count": 6186,
  "records": [
   {
    "id": "1",
@@ -86493,6 +86493,118 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46328.5855902778"
+  },
+  {
+   "id": "6343",
+   "date": "2026-11-03",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "ประทับตราบริษัท",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal Admin",
+   "contact_phone": "-",
+   "notes": "ประทับตราบริษัท Turtle23 เอกสาร POA และ LOA",
+   "shift": "เช้า",
+   "submitted": "46328.666412037"
+  },
+  {
+   "id": "6344",
+   "date": "2026-11-03",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ โก้",
+   "contact_phone": "02-080 1000 # 2255",
+   "notes": "Non-PO Perfect Health Care - T5",
+   "shift": "เช้า",
+   "submitted": "46329.370462963"
+  },
+  {
+   "id": "6345",
+   "date": "2026-11-03",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ Few",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Petty Cash Alpea",
+   "shift": "เช้า",
+   "submitted": "46329.3709953704"
+  },
+  {
+   "id": "6346",
+   "date": "2026-11-03",
+   "dept": "Marketing",
+   "requester": "mind",
+   "phone": "0985694192",
+   "task": "รับเอกสาร",
+   "loc": "reception ชั้น 5",
+   "contact": "may",
+   "contact_phone": "0997030369",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46329.394212963"
+  },
+  {
+   "id": "6347",
+   "date": "2026-11-03",
+   "dept": "Procurement",
+   "requester": "๋๋๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ Few",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Inv. Alpea",
+   "shift": "เช้า",
+   "submitted": "46329.4006828704"
+  },
+  {
+   "id": "6348",
+   "date": "2026-11-03",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ โก้",
+   "contact_phone": "02-080 1000 # 2255",
+   "notes": "Non-PO การไฟฟ้าส่วนภูมิภาค",
+   "shift": "เช้า",
+   "submitted": "46329.4163310185"
+  },
+  {
+   "id": "6349",
+   "date": "2026-11-03",
+   "dept": "Procurement",
+   "requester": "แนน",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ละห์",
+   "contact_phone": "-",
+   "notes": "INV",
+   "shift": "เช้า",
+   "submitted": "46329.4088194444"
+  },
+  {
+   "id": "6350",
+   "date": "2026-11-03",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "เช้า",
+   "submitted": "46329.4195717593"
   }
  ]
 }
