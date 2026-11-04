@@ -1,6 +1,6 @@
 {
- "generated_at": "04/11/2026 14:11 น.",
- "count": 6204,
+ "generated_at": "04/11/2026 14:17 น.",
+ "count": 6207,
  "records": [
   {
    "id": "1",
@@ -86857,6 +86857,48 @@
    "notes": "INV GR",
    "shift": "เช้า",
    "submitted": "46330.4127777778"
+  },
+  {
+   "id": "6369",
+   "date": "2026-11-04",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "ใบเเจ้งหนี้ jagota",
+   "shift": "บ่าย",
+   "submitted": "46330.4300810185"
+  },
+  {
+   "id": "6370",
+   "date": "2026-11-04",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "เชฟป้อม",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จรับเงินค่าเช่า",
+   "shift": "บ่าย",
+   "submitted": "46330.5558796296"
+  },
+  {
+   "id": "6371",
+   "date": "2026-11-04",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.อ้อม",
+   "contact_phone": "-",
+   "notes": "ใบเเจ้งหนี้ T5",
+   "shift": "บ่าย",
+   "submitted": "46330.5903935185"
   }
  ]
 }
