@@ -1,6 +1,6 @@
 {
- "generated_at": "05/11/2026 09:54 น.",
- "count": 6211,
+ "generated_at": "05/11/2026 10:05 น.",
+ "count": 6218,
  "records": [
   {
    "id": "1",
@@ -86481,20 +86481,6 @@
    "submitted": "46328.6119791667"
   },
   {
-   "id": "6342",
-   "date": "2026-11-04",
-   "dept": "Human Resources",
-   "requester": "Pattiya H.",
-   "phone": "0988326685",
-   "task": "รับเอกสาร",
-   "loc": "1749 ถ.จันทร์เก่า",
-   "contact": "K. เดียร์",
-   "contact_phone": "0838382134",
-   "notes": "",
-   "shift": "บ่าย",
-   "submitted": "46328.5855902778"
-  },
-  {
    "id": "6343",
    "date": "2026-11-03",
    "dept": "Operation",
@@ -86719,6 +86705,20 @@
    "submitted": "46329.4897222222"
   },
   {
+   "id": "6342",
+   "date": "2026-11-04",
+   "dept": "Human Resources",
+   "requester": "Pattiya H.",
+   "phone": "0988326685",
+   "task": "รับเอกสาร",
+   "loc": "1749 ถ.จันทร์เก่า",
+   "contact": "K. เดียร์",
+   "contact_phone": "0838382134",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46328.5855902778"
+  },
+  {
    "id": "6359",
    "date": "2026-11-04",
    "dept": "Procurement",
@@ -86915,6 +86915,20 @@
    "submitted": "46330.5977083333"
   },
   {
+   "id": "6375",
+   "date": "2026-11-05",
+   "dept": "Marketing",
+   "requester": "mind",
+   "phone": "0985694192",
+   "task": "ส่งเอกสารและรอรับกลับ",
+   "loc": "สำนักงานเขตจตุจักร",
+   "contact": "เจ้าหน้าที่สรรพกร",
+   "contact_phone": "-",
+   "notes": "ติดอากรแสตมป์ที่กรมสรรพกร ต้นฉบับ 2400 บาท/ คู่ฉบับ 5 บาท",
+   "shift": "เช้า",
+   "submitted": "46330.7287615741"
+  },
+  {
    "id": "6373",
    "date": "2026-11-05",
    "dept": "Marketing",
@@ -86943,18 +86957,102 @@
    "submitted": "46330.7195023148"
   },
   {
-   "id": "6375",
-   "date": "2026-11-04",
-   "dept": "Marketing",
-   "requester": "mind",
-   "phone": "0985694192",
-   "task": "ส่งเอกสารและรอรับกลับ",
-   "loc": "สำนักงานเขตจตุจักร",
-   "contact": "เจ้าหน้าที่สรรพกร",
-   "contact_phone": "-",
-   "notes": "ติดอากรแสตมป์ที่กรมสรรพกร ต้นฉบับ 2400 บาท/ คู่ฉบับ 5 บาท",
+   "id": "6376",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "Inv. Alpea (Final)",
    "shift": "เช้า",
-   "submitted": "46330.7287615741"
+   "submitted": "46331.3537268519"
+  },
+  {
+   "id": "6377",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 # 2260",
+   "notes": "ใบวางบิลงอกงาม",
+   "shift": "เช้า",
+   "submitted": "46331.3801388889"
+  },
+  {
+   "id": "6378",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 # 2286",
+   "notes": "Inv. ตัวจริง อภิธน",
+   "shift": "เช้า",
+   "submitted": "46331.3808796296"
+  },
+  {
+   "id": "6379",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 # 2263",
+   "notes": "Inv. Alpea",
+   "shift": "เช้า",
+   "submitted": "46331.3815509259"
+  },
+  {
+   "id": "6380",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "ใบวางบิล",
+   "shift": "เช้า",
+   "submitted": "46331.414375"
+  },
+  {
+   "id": "6381",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P ละห์",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46331.4147453704"
+  },
+  {
+   "id": "6382",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46331.4150810185"
   }
  ]
 }
