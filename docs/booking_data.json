@@ -1,6 +1,6 @@
 {
- "generated_at": "05/11/2026 11:24 น.",
- "count": 6227,
+ "generated_at": "05/11/2026 11:26 น.",
+ "count": 6226,
  "records": [
   {
    "id": "1",
@@ -86953,7 +86953,7 @@
    "contact": "-",
    "contact_phone": "-",
    "notes": "ส่งสติ๊กเกอร์และเมนู",
-   "shift": "เช้า",
+   "shift": "บ่าย",
    "submitted": "46330.7195023148"
   },
   {
@@ -86997,20 +86997,6 @@
    "notes": "Inv. ตัวจริง อภิธน",
    "shift": "เช้า",
    "submitted": "46331.3808796296"
-  },
-  {
-   "id": "6379",
-   "date": "2026-11-05",
-   "dept": "Procurement",
-   "requester": "JC",
-   "phone": "02-180 8974",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.29",
-   "contact": "คุณ ฟิวส์",
-   "contact_phone": "02-080 1000 # 2263",
-   "notes": "Inv. Alpea",
-   "shift": "เช้า",
-   "submitted": "46331.3815509259"
   },
   {
    "id": "6380",
