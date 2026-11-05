@@ -1,6 +1,6 @@
 {
- "generated_at": "05/11/2026 15:16 น.",
- "count": 6236,
+ "generated_at": "05/11/2026 15:18 น.",
+ "count": 6238,
  "records": [
   {
    "id": "1",
@@ -87305,6 +87305,34 @@
    "notes": "เอกสาร",
    "shift": "บ่าย",
    "submitted": "46331.6033449074"
+  },
+  {
+   "id": "6403",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 # 2260",
+   "notes": "Inv. RCS",
+   "shift": "บ่าย",
+   "submitted": "46331.6339930556"
+  },
+  {
+   "id": "6404",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 #2298",
+   "notes": "Inv. KTT",
+   "shift": "บ่าย",
+   "submitted": "46331.6346990741"
   }
  ]
 }
