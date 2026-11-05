@@ -1,6 +1,6 @@
 {
- "generated_at": "05/11/2026 14:25 น.",
- "count": 6234,
+ "generated_at": "05/11/2026 14:40 น.",
+ "count": 6236,
  "records": [
   {
    "id": "1",
@@ -87277,6 +87277,34 @@
    "notes": "petty cash",
    "shift": "บ่าย",
    "submitted": "46331.5992476852"
+  },
+  {
+   "id": "6401",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46331.6000810185"
+  },
+  {
+   "id": "6402",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "บ่าย",
+   "submitted": "46331.6033449074"
   }
  ]
 }
