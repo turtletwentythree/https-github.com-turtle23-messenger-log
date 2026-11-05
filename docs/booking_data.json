@@ -1,6 +1,6 @@
 {
- "generated_at": "05/11/2026 10:05 น.",
- "count": 6218,
+ "generated_at": "05/11/2026 10:08 น.",
+ "count": 6219,
  "records": [
   {
    "id": "1",
@@ -87053,6 +87053,20 @@
    "notes": "INV GR",
    "shift": "เช้า",
    "submitted": "46331.4150810185"
+  },
+  {
+   "id": "6383",
+   "date": "2026-11-05",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ยีน Legal",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46331.4195717593"
   }
  ]
 }
