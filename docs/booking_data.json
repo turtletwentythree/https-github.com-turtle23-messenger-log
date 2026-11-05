@@ -1,6 +1,6 @@
 {
- "generated_at": "05/11/2026 10:14 น.",
- "count": 6220,
+ "generated_at": "05/11/2026 11:06 น.",
+ "count": 6224,
  "records": [
   {
    "id": "1",
@@ -87081,6 +87081,62 @@
    "notes": "reim",
    "shift": "เช้า",
    "submitted": "46331.4199652778"
+  },
+  {
+   "id": "6386",
+   "date": "2026-11-05",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "ส่งเอกสาร",
+   "loc": "บริษัท เทอร์มีเดซ จำกัด / THERMEDEZ CO., LTD. \nศูนย์การค้า พาราไดซ์ เพลส ออฟฟิต ชั้น 4 \nเลขที่ 59/5 ถนน ศรีนครินทร์ แขวงหนองบอน เขตประเวศ \nกรุงเทพมหานคร 10250",
+   "contact": "คุณกุลภัสสรณ์  สืบวรรณวงศ์ (เกรซ)",
+   "contact_phone": "098-3982414",
+   "notes": "ส่งเอกสาร LOA",
+   "shift": "บ่าย",
+   "submitted": "46330.4181481482"
+  },
+  {
+   "id": "6387",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 # 2287",
+   "notes": "Inv. Kinn1 Final",
+   "shift": "เช้า",
+   "submitted": "46331.4357986111"
+  },
+  {
+   "id": "6388",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 # 2298",
+   "notes": "Inv. KTT",
+   "shift": "เช้า",
+   "submitted": "46331.4363657407"
+  },
+  {
+   "id": "6389",
+   "date": "2026-11-05",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P อ้อม",
+   "contact_phone": "-",
+   "notes": ".[;k'[b]",
+   "shift": "เช้า",
+   "submitted": "46331.4284837963"
   }
  ]
 }
