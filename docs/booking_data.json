@@ -1,6 +1,6 @@
 {
- "generated_at": "06/11/2026 13:48 น.",
- "count": 6254,
+ "generated_at": "06/11/2026 13:51 น.",
+ "count": 6255,
  "records": [
   {
    "id": "1",
@@ -87557,6 +87557,20 @@
    "notes": "แฟ้มส่งคืน",
    "shift": "บ่าย",
    "submitted": "46332.5732175926"
+  },
+  {
+   "id": "6421",
+   "date": "2026-11-06",
+   "dept": "Accounting",
+   "requester": "K.หญิง",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BK Salon สาธุประดิษฐ์",
+   "contact": "K.เมษา",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46332.5743634259"
   }
  ]
 }
