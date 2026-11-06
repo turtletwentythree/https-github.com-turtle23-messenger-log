@@ -1,6 +1,6 @@
 {
- "generated_at": "06/11/2026 10:37 น.",
- "count": 6247,
+ "generated_at": "06/11/2026 13:48 น.",
+ "count": 6254,
  "records": [
   {
    "id": "1",
@@ -87459,6 +87459,104 @@
    "notes": "Juristic",
    "shift": "เช้า",
    "submitted": "46332.4370023148"
+  },
+  {
+   "id": "6414",
+   "date": "2026-11-06",
+   "dept": "Operation",
+   "requester": "K.nan",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "บ่าย",
+   "submitted": "46332.4351736111"
+  },
+  {
+   "id": "6415",
+   "date": "2026-11-06",
+   "dept": "Executive",
+   "requester": "K.nan",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "petty cash kappo",
+   "shift": "บ่าย",
+   "submitted": "46332.5705324074"
+  },
+  {
+   "id": "6416",
+   "date": "2026-11-06",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46332.5709375"
+  },
+  {
+   "id": "6417",
+   "date": "2026-11-06",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จรับเงิน",
+   "shift": "บ่าย",
+   "submitted": "46332.5714930556"
+  },
+  {
+   "id": "6418",
+   "date": "2026-11-06",
+   "dept": "Operation",
+   "requester": "KOY",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "ใบรับรองเเทนใบเสร็จ",
+   "shift": "บ่าย",
+   "submitted": "46332.5718287037"
+  },
+  {
+   "id": "6419",
+   "date": "2026-11-06",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46332.5725925926"
+  },
+  {
+   "id": "6420",
+   "date": "2026-11-06",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เฟิร์ส",
+   "contact_phone": "-",
+   "notes": "แฟ้มส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46332.5732175926"
   }
  ]
 }
