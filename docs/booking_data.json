@@ -1,6 +1,6 @@
 {
- "generated_at": "06/11/2026 10:09 น.",
- "count": 6244,
+ "generated_at": "06/11/2026 10:37 น.",
+ "count": 6247,
  "records": [
   {
    "id": "1",
@@ -87415,8 +87415,50 @@
    "contact": "ร้าน ข้าวสารเสก",
    "contact_phone": "-",
    "notes": "รับเอกสารแก้บิล",
-   "shift": "เช้า",
+   "shift": "บ่าย",
    "submitted": "46332.4219791667"
+  },
+  {
+   "id": "6411",
+   "date": "2026-11-06",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46332.4227314815"
+  },
+  {
+   "id": "6412",
+   "date": "2026-11-06",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน 1 ถุง",
+   "shift": "เช้า",
+   "submitted": "46332.4348842593"
+  },
+  {
+   "id": "6413",
+   "date": "2026-11-06",
+   "dept": "Marketing",
+   "requester": "mind",
+   "phone": "0985694192",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "May",
+   "contact_phone": "0948622111",
+   "notes": "Juristic",
+   "shift": "เช้า",
+   "submitted": "46332.4370023148"
   }
  ]
 }
