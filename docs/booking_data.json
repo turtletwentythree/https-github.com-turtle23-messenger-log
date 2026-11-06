@@ -1,6 +1,6 @@
 {
- "generated_at": "06/11/2026 13:51 น.",
- "count": 6255,
+ "generated_at": "06/11/2026 18:28 น.",
+ "count": 6256,
  "records": [
   {
    "id": "1",
@@ -87571,6 +87571,20 @@
    "notes": "เอกสารเชฟลงนาม",
    "shift": "บ่าย",
    "submitted": "46332.5743634259"
+  },
+  {
+   "id": "6422",
+   "date": "2026-11-06",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "lab test kappo",
+   "shift": "บ่าย",
+   "submitted": "46332.5750115741"
   }
  ]
 }
