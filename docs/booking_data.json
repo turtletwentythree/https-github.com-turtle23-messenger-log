@@ -1,6 +1,6 @@
 {
- "generated_at": "09/11/2026 14:06 น.",
- "count": 6271,
+ "generated_at": "09/11/2026 18:15 น.",
+ "count": 6273,
  "records": [
   {
    "id": "1",
@@ -87764,7 +87764,7 @@
    "loc": "BTSV Fl.G",
    "contact": "Legal",
    "contact_phone": "-",
-   "notes": "เอกสารลงนาม 1 ซอง 1 ถุง",
+   "notes": "เอกสารลงนาม",
    "shift": "บ่าย",
    "submitted": "46335.5034837963"
   },
@@ -87792,9 +87792,37 @@
    "loc": "BTSV Fl.G",
    "contact": "P mint",
    "contact_phone": "-",
-   "notes": "เอกสารลงนามส่งคืน",
+   "notes": "เอกสารลงนามส่งคืน  1 ซอง 1 ถุง",
    "shift": "บ่าย",
    "submitted": "46335.5659143519"
+  },
+  {
+   "id": "6438",
+   "date": "2026-11-09",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ying",
+   "contact_phone": "-",
+   "notes": "petty cash alpea",
+   "shift": "บ่าย",
+   "submitted": "46335.5663888889"
+  },
+  {
+   "id": "6439",
+   "date": "2026-11-10",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.beam",
+   "contact_phone": "-",
+   "notes": "INV capricci",
+   "shift": "เช้า",
+   "submitted": "46335.5827430556"
   }
  ]
 }
