@@ -1,6 +1,6 @@
 {
- "generated_at": "09/11/2026 06:42 น.",
- "count": 6256,
+ "generated_at": "09/11/2026 09:50 น.",
+ "count": 6264,
  "records": [
   {
    "id": "1",
@@ -87585,6 +87585,118 @@
    "notes": "lab test kappo",
    "shift": "บ่าย",
    "submitted": "46332.5750115741"
+  },
+  {
+   "id": "6423",
+   "date": "2026-11-09",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 # 2260",
+   "notes": "Reimbursement RCS",
+   "shift": "เช้า",
+   "submitted": "46335.3609375"
+  },
+  {
+   "id": "6424",
+   "date": "2026-11-09",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "เอกสารตัวจริง Kokoro",
+   "shift": "เช้า",
+   "submitted": "46335.3738657407"
+  },
+  {
+   "id": "6425",
+   "date": "2026-11-09",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46335.3933564815"
+  },
+  {
+   "id": "6426",
+   "date": "2026-11-09",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K'Mint",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46335.3937037037"
+  },
+  {
+   "id": "6427",
+   "date": "2026-11-09",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 # 2298",
+   "notes": "Receipt Chope",
+   "shift": "เช้า",
+   "submitted": "46335.3985648148"
+  },
+  {
+   "id": "6428",
+   "date": "2026-11-09",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.talatat",
+   "contact_phone": "-",
+   "notes": "cash voucher",
+   "shift": "เช้า",
+   "submitted": "46335.4046527778"
+  },
+  {
+   "id": "6429",
+   "date": "2026-11-09",
+   "dept": "Operation",
+   "requester": "KOY",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po น้ำไฟ รถ",
+   "shift": "เช้า",
+   "submitted": "46335.4059259259"
+  },
+  {
+   "id": "6430",
+   "date": "2026-11-09",
+   "dept": "Accounting",
+   "requester": "chef mai",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "HR K.แพร",
+   "contact_phone": "-",
+   "notes": "Approval",
+   "shift": "เช้า",
+   "submitted": "46335.4066319444"
   }
  ]
 }
