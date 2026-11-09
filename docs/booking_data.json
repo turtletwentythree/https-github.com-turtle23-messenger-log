@@ -1,6 +1,6 @@
 {
- "generated_at": "09/11/2026 09:59 น.",
- "count": 6264,
+ "generated_at": "09/11/2026 10:13 น.",
+ "count": 6265,
  "records": [
   {
    "id": "1",
@@ -87697,6 +87697,20 @@
    "notes": "Approval",
    "shift": "เช้า",
    "submitted": "46335.4066319444"
+  },
+  {
+   "id": "6431",
+   "date": "2026-11-09",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "คุณ ณัชชา",
+   "contact_phone": "02-180 8974",
+   "notes": "เอกสารขอลายเซ็น - งอกงาม",
+   "shift": "บ่าย",
+   "submitted": "46335.4163310185"
   }
  ]
 }
