@@ -1,6 +1,6 @@
 {
- "generated_at": "10/11/2026 13:52 น.",
- "count": 6283,
+ "generated_at": "10/11/2026 13:56 น.",
+ "count": 6285,
  "records": [
   {
    "id": "1",
@@ -87963,6 +87963,34 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46336.5522916667"
+  },
+  {
+   "id": "6450",
+   "date": "2026-11-10",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal k.เพื่อน",
+   "contact_phone": "-",
+   "notes": "เเสตม 5 บ",
+   "shift": "บ่าย",
+   "submitted": "46336.4056944444"
+  },
+  {
+   "id": "6451",
+   "date": "2026-11-10",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Roi Chak Sam  Langham",
+   "contact": "เชฟอิท",
+   "contact_phone": "-",
+   "notes": "เอกสารลายเซ็นต์รับสินค้า",
+   "shift": "บ่าย",
+   "submitted": "46336.5784027778"
   }
  ]
 }
