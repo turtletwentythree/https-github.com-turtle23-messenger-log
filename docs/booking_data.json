@@ -1,6 +1,6 @@
 {
- "generated_at": "10/11/2026 10:44 น.",
- "count": 6281,
+ "generated_at": "10/11/2026 13:52 น.",
+ "count": 6283,
  "records": [
   {
    "id": "1",
@@ -87935,6 +87935,34 @@
    "notes": "ส่งบิล ABB ที่ขาดไป ของ Coffee Truck 18Oct / 24Oct",
    "shift": "เช้า",
    "submitted": "46336.4322800926"
+  },
+  {
+   "id": "6448",
+   "date": "2026-11-10",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46336.4936226852"
+  },
+  {
+   "id": "6449",
+   "date": "2026-11-10",
+   "dept": "Marketing",
+   "requester": "mind",
+   "phone": "0985694192",
+   "task": "รับของและส่งต่อ",
+   "loc": "Others",
+   "contact": "kappo Takashi",
+   "contact_phone": "พี่แต๋น",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46336.5522916667"
   }
  ]
 }
