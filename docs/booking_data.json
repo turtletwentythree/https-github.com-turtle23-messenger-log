@@ -1,6 +1,6 @@
 {
- "generated_at": "10/11/2026 09:50 น.",
- "count": 6280,
+ "generated_at": "10/11/2026 10:44 น.",
+ "count": 6281,
  "records": [
   {
    "id": "1",
@@ -87877,7 +87877,7 @@
    "contact": "-",
    "contact_phone": "-",
    "notes": "ส่งสติ๊กเกอร์",
-   "shift": "เช้า",
+   "shift": "บ่าย",
    "submitted": "46336.3614814815"
   },
   {
@@ -87921,6 +87921,20 @@
    "notes": "เอกสาร",
    "shift": "บ่าย",
    "submitted": "46335.7532638889"
+  },
+  {
+   "id": "6447",
+   "date": "2026-11-10",
+   "dept": "Project Development",
+   "requester": "ปวริศร์ อิ่มเอม",
+   "phone": "0629352466",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณบีม BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งบิล ABB ที่ขาดไป ของ Coffee Truck 18Oct / 24Oct",
+   "shift": "เช้า",
+   "submitted": "46336.4322800926"
   }
  ]
 }
