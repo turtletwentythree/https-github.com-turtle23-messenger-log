@@ -1,6 +1,6 @@
 {
- "generated_at": "10/11/2026 04:28 น.",
- "count": 6273,
+ "generated_at": "10/11/2026 09:46 น.",
+ "count": 6280,
  "records": [
   {
    "id": "1",
@@ -87823,6 +87823,104 @@
    "notes": "INV capricci",
    "shift": "เช้า",
    "submitted": "46335.5827430556"
+  },
+  {
+   "id": "6440",
+   "date": "2026-11-10",
+   "dept": "Executive",
+   "requester": "KOY",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "แก้ไขใบรับรอง",
+   "shift": "เช้า",
+   "submitted": "46335.6634027778"
+  },
+  {
+   "id": "6441",
+   "date": "2026-11-10",
+   "dept": "Operation",
+   "requester": "Koy",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.niramon Bcaf",
+   "contact_phone": "-",
+   "notes": "non po F B",
+   "shift": "เช้า",
+   "submitted": "46335.7287615741"
+  },
+  {
+   "id": "6442",
+   "date": "2026-11-10",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 #2298",
+   "notes": "Petty Cash KTT",
+   "shift": "เช้า",
+   "submitted": "46336.3454398148"
+  },
+  {
+   "id": "6443",
+   "date": "2026-11-10",
+   "dept": "Marketing",
+   "requester": "Bo",
+   "phone": "0624292244",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "-",
+   "contact_phone": "-",
+   "notes": "ส่งสติ๊กเกอร์",
+   "shift": "เช้า",
+   "submitted": "46336.3614814815"
+  },
+  {
+   "id": "6444",
+   "date": "2026-11-10",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 #2260",
+   "notes": "Inv. RCS",
+   "shift": "เช้า",
+   "submitted": "46336.3704166667"
+  },
+  {
+   "id": "6445",
+   "date": "2026-11-10",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 #2298",
+   "notes": "เอกสารตัวจริง แคทช์ แอนด์ โค และ งอกงาม",
+   "shift": "เช้า",
+   "submitted": "46336.375474537"
+  },
+  {
+   "id": "6446",
+   "date": "2026-11-10",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "K.monruedee",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "บ่าย",
+   "submitted": "46335.7532638889"
   }
  ]
 }
