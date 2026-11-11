@@ -1,6 +1,6 @@
 {
- "generated_at": "11/11/2026 06:50 น.",
- "count": 6286,
+ "generated_at": "11/11/2026 09:56 น.",
+ "count": 6293,
  "records": [
   {
    "id": "1",
@@ -88005,6 +88005,104 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46336.5820486111"
+  },
+  {
+   "id": "6453",
+   "date": "2026-11-11",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "เชฟใหม่",
+   "contact_phone": "02-180 8974",
+   "notes": "เอกสารส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46337.3479282407"
+  },
+  {
+   "id": "6454",
+   "date": "2026-11-11",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 #2260",
+   "notes": "Petty Cash KTT",
+   "shift": "เช้า",
+   "submitted": "46337.3484259259"
+  },
+  {
+   "id": "6455",
+   "date": "2026-11-11",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ Few",
+   "contact_phone": "02-800 1000 #2263",
+   "notes": "วางบิลงอกงาม",
+   "shift": "เช้า",
+   "submitted": "46337.3490509259"
+  },
+  {
+   "id": "6456",
+   "date": "2026-11-11",
+   "dept": "Accounting",
+   "requester": "LUCKY T5",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Pare HR",
+   "contact_phone": "-",
+   "notes": "ใบเลื่อนวันหยุด T5",
+   "shift": "เช้า",
+   "submitted": "46337.3933449074"
+  },
+  {
+   "id": "6457",
+   "date": "2026-11-11",
+   "dept": "Finance",
+   "requester": "Bank",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46337.3941319444"
+  },
+  {
+   "id": "6458",
+   "date": "2026-11-11",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสาร P จี้ K.SM",
+   "shift": "เช้า",
+   "submitted": "46337.3950347222"
+  },
+  {
+   "id": "6459",
+   "date": "2026-11-11",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เฟิร์ส",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46337.3984837963"
   }
  ]
 }
