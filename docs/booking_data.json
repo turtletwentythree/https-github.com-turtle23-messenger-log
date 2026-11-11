@@ -1,6 +1,6 @@
 {
- "generated_at": "11/11/2026 14:04 น.",
- "count": 6302,
+ "generated_at": "11/11/2026 14:07 น.",
+ "count": 6303,
  "records": [
   {
    "id": "1",
@@ -88229,6 +88229,20 @@
    "notes": "ใบต่ออนุญาตอาหาร",
    "shift": "บ่าย",
    "submitted": "46337.5752430556"
+  },
+  {
+   "id": "6469",
+   "date": "2026-11-11",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 # 2260",
+   "notes": "เอกสาร P/O ที่ขาดหาย",
+   "shift": "บ่าย",
+   "submitted": "46337.5810069444"
   }
  ]
 }
