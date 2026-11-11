@@ -1,6 +1,6 @@
 {
- "generated_at": "11/11/2026 13:59 น.",
- "count": 6301,
+ "generated_at": "11/11/2026 14:04 น.",
+ "count": 6302,
  "records": [
   {
    "id": "1",
@@ -88215,6 +88215,20 @@
    "notes": "ใบ OT",
    "shift": "บ่าย",
    "submitted": "46337.5698263889"
+  },
+  {
+   "id": "6468",
+   "date": "2026-11-11",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "ใบต่ออนุญาตอาหาร",
+   "shift": "บ่าย",
+   "submitted": "46337.5752430556"
   }
  ]
 }
