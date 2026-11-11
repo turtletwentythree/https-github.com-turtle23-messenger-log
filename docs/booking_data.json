@@ -1,6 +1,6 @@
 {
- "generated_at": "11/11/2026 14:07 น.",
- "count": 6303,
+ "generated_at": "11/11/2026 14:11 น.",
+ "count": 6304,
  "records": [
   {
    "id": "1",
@@ -88243,6 +88243,20 @@
    "notes": "เอกสาร P/O ที่ขาดหาย",
    "shift": "บ่าย",
    "submitted": "46337.5810069444"
+  },
+  {
+   "id": "6470",
+   "date": "2026-11-11",
+   "dept": "Procurement",
+   "requester": "Jc",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BK Salon สาธุประดิษฐ์",
+   "contact": "เชฟอิท",
+   "contact_phone": "-",
+   "notes": "ขอลายเซ็นต์",
+   "shift": "บ่าย",
+   "submitted": "46337.5855787037"
   }
  ]
 }
