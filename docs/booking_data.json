@@ -1,6 +1,6 @@
 {
- "generated_at": "11/11/2026 14:11 น.",
- "count": 6304,
+ "generated_at": "11/11/2026 17:57 น.",
+ "count": 6312,
  "records": [
   {
    "id": "1",
@@ -88257,6 +88257,118 @@
    "notes": "ขอลายเซ็นต์",
    "shift": "บ่าย",
    "submitted": "46337.5855787037"
+  },
+  {
+   "id": "6471",
+   "date": "2026-11-11",
+   "dept": "Business Strategy",
+   "requester": "Dom",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "บ่าย",
+   "submitted": "46337.5950694444"
+  },
+  {
+   "id": "6472",
+   "date": "2026-11-12",
+   "dept": "Marketing",
+   "requester": "Mind",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46337.6107291667"
+  },
+  {
+   "id": "6473",
+   "date": "2026-11-12",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46337.7178125"
+  },
+  {
+   "id": "6474",
+   "date": "2026-11-12",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K'อ้อม",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46337.7184606481"
+  },
+  {
+   "id": "6475",
+   "date": "2026-11-12",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint,Achi",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46337.6570717593"
+  },
+  {
+   "id": "6476",
+   "date": "2026-11-12",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Beam BCAF",
+   "contact_phone": "-",
+   "notes": "bill T5",
+   "shift": "เช้า",
+   "submitted": "46337.7305208333"
+  },
+  {
+   "id": "6477",
+   "date": "2026-11-12",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.fuse BCAF",
+   "contact_phone": "-",
+   "notes": "casual Maison",
+   "shift": "เช้า",
+   "submitted": "46337.7318402778"
+  },
+  {
+   "id": "6478",
+   "date": "2026-11-12",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po 5 ฉบับ",
+   "shift": "เช้า",
+   "submitted": "46337.7328009259"
   }
  ]
 }
