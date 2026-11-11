@@ -1,6 +1,6 @@
 {
- "generated_at": "11/11/2026 10:11 น.",
- "count": 6294,
+ "generated_at": "11/11/2026 13:40 น.",
+ "count": 6300,
  "records": [
   {
    "id": "1",
@@ -88117,6 +88117,90 @@
    "notes": "เอกสาร",
    "shift": "เช้า",
    "submitted": "46337.4141435185"
+  },
+  {
+   "id": "6461",
+   "date": "2026-11-11",
+   "dept": "Finance",
+   "requester": "Bank",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "เอกสาร",
+   "shift": "บ่าย",
+   "submitted": "46337.4309837963"
+  },
+  {
+   "id": "6462",
+   "date": "2026-11-11",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "SCB",
+   "shift": "บ่าย",
+   "submitted": "46337.4736689815"
+  },
+  {
+   "id": "6463",
+   "date": "2026-11-11",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46337.5651041667"
+  },
+  {
+   "id": "6464",
+   "date": "2026-11-11",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เฟิร์ส",
+   "contact_phone": "-",
+   "notes": "เอกสารแฟ้มลงนามส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46337.5659490741"
+  },
+  {
+   "id": "6465",
+   "date": "2026-11-11",
+   "dept": "Accounting",
+   "requester": "เอิร์ธ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BK Salon สาธุประดิษฐ์",
+   "contact": "K.เมษา",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามเชฟถุงฟ้า",
+   "shift": "บ่าย",
+   "submitted": "46337.5662962963"
+  },
+  {
+   "id": "6466",
+   "date": "2026-11-11",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.หมี",
+   "contact_phone": "-",
+   "notes": "เอกสารแฟ้มลงนาม 2 เเฟ้ม ส่งคืน ถุงขาว",
+   "shift": "บ่าย",
+   "submitted": "46337.5675462963"
   }
  ]
 }
