@@ -1,6 +1,6 @@
 {
- "generated_at": "12/11/2026 14:33 น.",
- "count": 6337,
+ "generated_at": "12/11/2026 14:36 น.",
+ "count": 6338,
  "records": [
   {
    "id": "1",
@@ -88719,6 +88719,20 @@
    "notes": "petty cash alpea",
    "shift": "บ่าย",
    "submitted": "46338.5770138889"
+  },
+  {
+   "id": "6504",
+   "date": "2026-11-12",
+   "dept": "Marketing",
+   "requester": "Pap",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Marlo &1749 ถ.จันทร์เก่า",
+   "contact": "Mod",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46338.5877083333"
   }
  ]
 }
