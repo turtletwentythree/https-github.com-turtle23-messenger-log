@@ -1,6 +1,6 @@
 {
- "generated_at": "12/11/2026 14:07 น.",
- "count": 6336,
+ "generated_at": "12/11/2026 14:25 น.",
+ "count": 6337,
  "records": [
   {
    "id": "1",
@@ -88705,6 +88705,20 @@
    "notes": "เอกสาร",
    "shift": "บ่าย",
    "submitted": "46338.5680208333"
+  },
+  {
+   "id": "6503",
+   "date": "2026-11-12",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ying",
+   "contact_phone": "-",
+   "notes": "petty cash alpea",
+   "shift": "บ่าย",
+   "submitted": "46338.5770138889"
   }
  ]
 }
