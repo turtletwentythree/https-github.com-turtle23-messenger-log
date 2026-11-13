@@ -1,6 +1,6 @@
 {
- "generated_at": "13/11/2026 17:01 น.",
- "count": 6351,
+ "generated_at": "14/11/2026 00:38 น.",
+ "count": 6353,
  "records": [
   {
    "id": "1",
@@ -88904,7 +88904,7 @@
   },
   {
    "id": "6517",
-   "date": "2026-11-13",
+   "date": "2026-11-16",
    "dept": "Operation",
    "requester": "K.nan t23",
    "phone": "-",
@@ -88915,6 +88915,34 @@
    "notes": "เอกสารเปิด credit , EGS Hotel",
    "shift": "บ่าย",
    "submitted": "46339.4231018518"
+  },
+  {
+   "id": "6519",
+   "date": "2026-11-16",
+   "dept": "Accounting",
+   "requester": "K.natcha",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Few",
+   "contact_phone": "-",
+   "notes": "Reim",
+   "shift": "เช้า",
+   "submitted": "46339.7195601852"
+  },
+  {
+   "id": "6520",
+   "date": "2026-11-16",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.talatat",
+   "contact_phone": "-",
+   "notes": "cash voucher",
+   "shift": "เช้า",
+   "submitted": "46339.7215740741"
   }
  ]
 }
