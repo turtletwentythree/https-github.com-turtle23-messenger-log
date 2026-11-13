@@ -1,6 +1,6 @@
 {
- "generated_at": "13/11/2026 09:34 น.",
- "count": 6339,
+ "generated_at": "13/11/2026 09:42 น.",
+ "count": 6344,
  "records": [
   {
    "id": "1",
@@ -88567,20 +88567,6 @@
    "submitted": "46338.4227314815"
   },
   {
-   "id": "6488",
-   "date": "2026-11-13",
-   "dept": "Procurement",
-   "requester": "JC",
-   "phone": "02-180 8974",
-   "task": "ส่งเอกสาร",
-   "loc": "Alpea",
-   "contact": "คุณ ณัชชา",
-   "contact_phone": "02-180 8974",
-   "notes": "สรุปใบสั่งซื้อเพื่อการลงนาม",
-   "shift": "เช้า",
-   "submitted": "46338.3865625"
-  },
-  {
    "id": "6494",
    "date": "2026-11-12",
    "dept": "Operation",
@@ -88747,6 +88733,90 @@
    "notes": "INV GR",
    "shift": "บ่าย",
    "submitted": "46338.6061342593"
+  },
+  {
+   "id": "6488",
+   "date": "2026-11-13",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "คุณ ณัชชา",
+   "contact_phone": "02-180 8974",
+   "notes": "สรุปใบสั่งซื้อเพื่อการลงนาม",
+   "shift": "เช้า",
+   "submitted": "46338.3865625"
+  },
+  {
+   "id": "6506",
+   "date": "2026-11-13",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Achi",
+   "contact_phone": "-",
+   "notes": "เช็คส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46339.3950810185"
+  },
+  {
+   "id": "6507",
+   "date": "2026-11-13",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม 2 ซอง",
+   "shift": "บ่าย",
+   "submitted": "46339.3955555556"
+  },
+  {
+   "id": "6508",
+   "date": "2026-11-13",
+   "dept": "Human Resources",
+   "requester": "Pare",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.Rahman",
+   "contact_phone": "-",
+   "notes": "passport",
+   "shift": "บ่าย",
+   "submitted": "46339.3987037037"
+  },
+  {
+   "id": "6509",
+   "date": "2026-11-13",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "K.ป็อบ",
+   "contact_phone": "-",
+   "notes": "เอกสารขอลายเซ็นต์",
+   "shift": "บ่าย",
+   "submitted": "46339.4020949074"
+  },
+  {
+   "id": "6510",
+   "date": "2026-11-13",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "เชฟใหม่",
+   "contact_phone": "-",
+   "notes": "เอกสารขอลายเซ็นต์",
+   "shift": "บ่าย",
+   "submitted": "46339.402662037"
   }
  ]
 }
