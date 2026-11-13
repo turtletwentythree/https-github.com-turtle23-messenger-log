@@ -1,6 +1,6 @@
 {
- "generated_at": "13/11/2026 14:22 น.",
- "count": 6350,
+ "generated_at": "13/11/2026 15:10 น.",
+ "count": 6351,
  "records": [
   {
    "id": "1",
@@ -88901,6 +88901,20 @@
    "notes": "",
    "shift": "เช้า",
    "submitted": "46339.432037037"
+  },
+  {
+   "id": "6517",
+   "date": "2026-11-13",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "contact": "K.maysa",
+   "contact_phone": "-",
+   "notes": "เอกสารเปิด credit , EGS Hotel",
+   "shift": "บ่าย",
+   "submitted": "46339.4231018518"
   }
  ]
 }
