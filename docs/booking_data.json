@@ -1,6 +1,6 @@
 {
- "generated_at": "13/11/2026 10:09 น.",
- "count": 6347,
+ "generated_at": "13/11/2026 10:30 น.",
+ "count": 6350,
  "records": [
   {
    "id": "1",
@@ -88745,7 +88745,7 @@
    "contact": "คุณ ณัชชา",
    "contact_phone": "02-180 8974",
    "notes": "สรุปใบสั่งซื้อเพื่อการลงนาม",
-   "shift": "เช้า",
+   "shift": "บ่าย",
    "submitted": "46338.3865625"
   },
   {
@@ -88859,6 +88859,48 @@
    "notes": "INV GR",
    "shift": "เช้า",
    "submitted": "46339.4145833333"
+  },
+  {
+   "id": "6514",
+   "date": "2026-11-13",
+   "dept": "Human Resources",
+   "requester": "Pattiya H.",
+   "phone": "020801000",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K. Natcha",
+   "contact_phone": "-",
+   "notes": "ส่ง PP + WP ของคุณรามัน / อุปกรณ์ตรวจสุขภาพประจำปี",
+   "shift": "บ่าย",
+   "submitted": "46339.4220486111"
+  },
+  {
+   "id": "6515",
+   "date": "2026-11-13",
+   "dept": "Human Resources",
+   "requester": "Pattiya H.",
+   "phone": "020801000",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "P' Mai",
+   "contact_phone": "-",
+   "notes": "อุปกรณ์ตรวจสุขภาพประจำปี",
+   "shift": "บ่าย",
+   "submitted": "46339.4300231481"
+  },
+  {
+   "id": "6516",
+   "date": "2026-11-13",
+   "dept": "Finance",
+   "requester": "ตรีธนา (กอล์ฟ)",
+   "phone": "084-155-5758",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณหญิง BCAF",
+   "contact_phone": "084-155-5758",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46339.432037037"
   }
  ]
 }
