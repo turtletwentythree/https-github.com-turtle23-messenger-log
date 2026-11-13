@@ -1,6 +1,6 @@
 {
- "generated_at": "13/11/2026 09:50 น.",
- "count": 6345,
+ "generated_at": "13/11/2026 10:09 น.",
+ "count": 6347,
  "records": [
   {
    "id": "1",
@@ -88831,6 +88831,34 @@
    "notes": "ไปรับผ้าขาวรองโต็ะเเละไปส่งที่มาโล่ก่อน 4 โมง",
    "shift": "บ่าย",
    "submitted": "46339.4081828704"
+  },
+  {
+   "id": "6512",
+   "date": "2026-11-13",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "สรุปใบสั่งซื้อ",
+   "shift": "บ่าย",
+   "submitted": "46339.409212963"
+  },
+  {
+   "id": "6513",
+   "date": "2026-11-13",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46339.4145833333"
   }
  ]
 }
