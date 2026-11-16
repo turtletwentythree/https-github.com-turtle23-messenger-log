@@ -1,6 +1,6 @@
 {
- "generated_at": "16/11/2026 14:19 น.",
- "count": 6362,
+ "generated_at": "16/11/2026 17:56 น.",
+ "count": 6365,
  "records": [
   {
    "id": "1",
@@ -89069,6 +89069,48 @@
    "notes": "เอกสารลงนาม Memo",
    "shift": "บ่าย",
    "submitted": "46342.5897453704"
+  },
+  {
+   "id": "6530",
+   "date": "2026-11-16",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "contact": "K.maysa",
+   "contact_phone": "-",
+   "notes": "Credit EGS Hotel",
+   "shift": "บ่าย",
+   "submitted": "46342.595474537"
+  },
+  {
+   "id": "6531",
+   "date": "2026-11-16",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "บ่าย",
+   "submitted": "46342.5965509259"
+  },
+  {
+   "id": "6532",
+   "date": "2026-11-17",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เอิธ",
+   "contact_phone": "-",
+   "notes": "SCB",
+   "shift": "เช้า",
+   "submitted": "46342.6015046296"
   }
  ]
 }
