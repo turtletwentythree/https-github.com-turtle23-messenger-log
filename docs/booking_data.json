@@ -1,6 +1,6 @@
 {
- "generated_at": "17/11/2026 10:14 น.",
- "count": 6365,
+ "generated_at": "17/11/2026 10:21 น.",
+ "count": 6370,
  "records": [
   {
    "id": "1",
@@ -89111,6 +89111,76 @@
    "notes": "SCB",
    "shift": "เช้า",
    "submitted": "46342.6015046296"
+  },
+  {
+   "id": "6533",
+   "date": "2026-11-17",
+   "dept": "Procurement",
+   "requester": "๋๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 #2260",
+   "notes": "วางบิล Evergreen - RCS",
+   "shift": "เช้า",
+   "submitted": "46343.3563425926"
+  },
+  {
+   "id": "6534",
+   "date": "2026-11-17",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 #2298",
+   "notes": "เอกสารตัวจริง Inv. Thipaka",
+   "shift": "เช้า",
+   "submitted": "46343.3705787037"
+  },
+  {
+   "id": "6535",
+   "date": "2026-11-10",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "สรุปใบสั่งซื้อ",
+   "shift": "เช้า",
+   "submitted": "46343.3718865741"
+  },
+  {
+   "id": "6536",
+   "date": "2026-11-17",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46343.37375"
+  },
+  {
+   "id": "6537",
+   "date": "2026-11-17",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K'เจี๊ยบ",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46343.3741319444"
   }
  ]
 }
