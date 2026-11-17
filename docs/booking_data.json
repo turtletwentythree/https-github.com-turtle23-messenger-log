@@ -1,6 +1,6 @@
 {
- "generated_at": "17/11/2026 14:50 น.",
- "count": 6371,
+ "generated_at": "17/11/2026 14:52 น.",
+ "count": 6375,
  "records": [
   {
    "id": "1",
@@ -89195,6 +89195,62 @@
    "notes": "",
    "shift": "เช้า",
    "submitted": "46343.4478356481"
+  },
+  {
+   "id": "6539",
+   "date": "2026-11-18",
+   "dept": "Project Development",
+   "requester": "Pavarit Imem (Dome)",
+   "phone": "0629352466",
+   "task": "ส่งเอกสารและรอรับกลับ",
+   "loc": "Marlo &1749 ถ.จันทร์เก่า",
+   "contact": "หมี / ฮายด์ BARISTA",
+   "contact_phone": "-",
+   "notes": "Time attendant Oct / Nov",
+   "shift": "เช้า",
+   "submitted": "46343.4533796296"
+  },
+  {
+   "id": "6540",
+   "date": "2026-11-17",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K'Mint",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46343.5535763889"
+  },
+  {
+   "id": "6541",
+   "date": "2026-11-17",
+   "dept": "Marketing",
+   "requester": "bo",
+   "phone": "0624292244",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "-",
+   "contact_phone": "-",
+   "notes": "ใบกำกับภาษีค่าปรินท์สติ๊กเกอร์",
+   "shift": "บ่าย",
+   "submitted": "46343.567025463"
+  },
+  {
+   "id": "6542",
+   "date": "2026-11-17",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 #2260",
+   "notes": "Inv. RCS",
+   "shift": "บ่าย",
+   "submitted": "46343.5777777778"
   }
  ]
 }
