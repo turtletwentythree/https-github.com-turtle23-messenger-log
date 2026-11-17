@@ -1,6 +1,6 @@
 {
- "generated_at": "17/11/2026 10:21 น.",
- "count": 6370,
+ "generated_at": "17/11/2026 10:50 น.",
+ "count": 6371,
  "records": [
   {
    "id": "1",
@@ -89181,6 +89181,20 @@
    "notes": "",
    "shift": "เช้า",
    "submitted": "46343.3741319444"
+  },
+  {
+   "id": "6538",
+   "date": "2026-11-17",
+   "dept": "Finance",
+   "requester": "ตรีธนา (กอล์ฟ)",
+   "phone": "084-155-5758",
+   "task": "ส่งเอกสาร",
+   "loc": "M Thai Tower ชั้น 19",
+   "contact": "คุณโชติกุล",
+   "contact_phone": "084-155-5758",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46343.4478356481"
   }
  ]
 }
