@@ -1,6 +1,6 @@
 {
- "generated_at": "18/11/2026 03:35 น.",
- "count": 6375,
+ "generated_at": "18/11/2026 09:34 น.",
+ "count": 6379,
  "records": [
   {
    "id": "1",
@@ -89251,6 +89251,62 @@
    "notes": "Inv. RCS",
    "shift": "บ่าย",
    "submitted": "46343.5777777778"
+  },
+  {
+   "id": "6543",
+   "date": "2026-11-18",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 #2287",
+   "notes": "Petty Cash KIN1",
+   "shift": "เช้า",
+   "submitted": "46344.3184143519"
+  },
+  {
+   "id": "6544",
+   "date": "2026-11-18",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ Few",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "Petty Cash Alpea",
+   "shift": "เช้า",
+   "submitted": "46344.3189351852"
+  },
+  {
+   "id": "6545",
+   "date": "2026-11-18",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 #2260",
+   "notes": "P/O ตัวจริงงอกงาม",
+   "shift": "เช้า",
+   "submitted": "46344.359375"
+  },
+  {
+   "id": "6546",
+   "date": "2026-11-18",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Achi",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46344.3977777778"
   }
  ]
 }
