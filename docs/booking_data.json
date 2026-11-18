@@ -1,6 +1,6 @@
 {
- "generated_at": "18/11/2026 14:02 น.",
- "count": 6391,
+ "generated_at": "18/11/2026 14:06 น.",
+ "count": 6394,
  "records": [
   {
    "id": "1",
@@ -89475,6 +89475,48 @@
    "notes": "NDA Bar Leone เพื่อขอเอกสารประกอบ และเสนอลงนาม",
    "shift": "บ่าย",
    "submitted": "46344.5752777778"
+  },
+  {
+   "id": "6559",
+   "date": "2026-11-18",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P pare HR",
+   "contact_phone": "-",
+   "notes": "Memo",
+   "shift": "บ่าย",
+   "submitted": "46344.5528240741"
+  },
+  {
+   "id": "6560",
+   "date": "2026-11-18",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณอ้อม",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46344.5862962963"
+  },
+  {
+   "id": "6561",
+   "date": "2026-11-18",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46344.5866782407"
   }
  ]
 }
