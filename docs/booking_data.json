@@ -1,6 +1,6 @@
 {
- "generated_at": "18/11/2026 10:15 น.",
- "count": 6384,
+ "generated_at": "18/11/2026 10:19 น.",
+ "count": 6385,
  "records": [
   {
    "id": "1",
@@ -89377,6 +89377,20 @@
    "notes": "non po",
    "shift": "เช้า",
    "submitted": "46344.4125694444"
+  },
+  {
+   "id": "6552",
+   "date": "2026-11-18",
+   "dept": "Project Development",
+   "requester": "Ky",
+   "phone": "0659657846",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "คุณโก้",
+   "contact_phone": "-",
+   "notes": "-",
+   "shift": "เช้า",
+   "submitted": "46344.4179398148"
   }
  ]
 }
