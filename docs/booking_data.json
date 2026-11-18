@@ -1,6 +1,6 @@
 {
- "generated_at": "18/11/2026 10:19 น.",
- "count": 6385,
+ "generated_at": "18/11/2026 13:52 น.",
+ "count": 6391,
  "records": [
   {
    "id": "1",
@@ -89391,6 +89391,90 @@
    "notes": "-",
    "shift": "เช้า",
    "submitted": "46344.4179398148"
+  },
+  {
+   "id": "6553",
+   "date": "2026-11-18",
+   "dept": "Project Development",
+   "requester": "PJ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal",
+   "contact_phone": "-",
+   "notes": "ประทับตรา T5",
+   "shift": "บ่าย",
+   "submitted": "46344.4155439815"
+  },
+  {
+   "id": "6554",
+   "date": "2026-11-18",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "chq",
+   "shift": "บ่าย",
+   "submitted": "46344.5515277778"
+  },
+  {
+   "id": "6555",
+   "date": "2026-11-18",
+   "dept": "Accounting",
+   "requester": "เอิร์ธ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BK Salon สาธุประดิษฐ์",
+   "contact": "K.maysa",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46344.5524189815"
+  },
+  {
+   "id": "6556",
+   "date": "2026-11-18",
+   "dept": "Marketing",
+   "requester": "BO",
+   "phone": "0624292244",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "-",
+   "contact_phone": "-",
+   "notes": "เมนู 2 ชุด",
+   "shift": "บ่าย",
+   "submitted": "46344.554837963"
+  },
+  {
+   "id": "6557",
+   "date": "2026-11-18",
+   "dept": "Project Development",
+   "requester": "Pavarit Imem",
+   "phone": "0629352466",
+   "task": "ประทับตราบริษัท",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal admin",
+   "contact_phone": "-",
+   "notes": "ประทับตราบริษัท T5 (NDA with Mikkeller)",
+   "shift": "บ่าย",
+   "submitted": "46344.5720138889"
+  },
+  {
+   "id": "6558",
+   "date": "2026-11-18",
+   "dept": "Project Development",
+   "requester": "Pavarit Imem",
+   "phone": "0629352466",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Mook (Legal)",
+   "contact_phone": "-",
+   "notes": "NDA Bar Leone เพื่อขอเอกสารประกอบ และเสนอลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46344.5752777778"
   }
  ]
 }
