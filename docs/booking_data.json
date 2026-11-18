@@ -1,6 +1,6 @@
 {
- "generated_at": "18/11/2026 09:34 น.",
- "count": 6379,
+ "generated_at": "18/11/2026 10:15 น.",
+ "count": 6384,
  "records": [
   {
    "id": "1",
@@ -89307,6 +89307,76 @@
    "notes": "เอกสารลงนามส่งคืน",
    "shift": "เช้า",
    "submitted": "46344.3977777778"
+  },
+  {
+   "id": "6547",
+   "date": "2026-11-18",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46344.399849537"
+  },
+  {
+   "id": "6548",
+   "date": "2026-11-18",
+   "dept": "Project Development",
+   "requester": "wassana",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal",
+   "contact_phone": "-",
+   "notes": "ประทับตรา T23",
+   "shift": "เช้า",
+   "submitted": "46344.4025347222"
+  },
+  {
+   "id": "6549",
+   "date": "2026-11-18",
+   "dept": "Project Development",
+   "requester": "wassana",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เพื่อน",
+   "contact_phone": "-",
+   "notes": "อากร 30 บาท",
+   "shift": "เช้า",
+   "submitted": "46344.4043287037"
+  },
+  {
+   "id": "6550",
+   "date": "2026-11-18",
+   "dept": "Project Development",
+   "requester": "wassana",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "เช้า",
+   "submitted": "46344.4046643519"
+  },
+  {
+   "id": "6551",
+   "date": "2026-11-18",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46344.4125694444"
   }
  ]
 }
