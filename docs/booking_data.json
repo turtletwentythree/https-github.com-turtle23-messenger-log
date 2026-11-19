@@ -1,6 +1,6 @@
 {
- "generated_at": "19/11/2026 10:12 น.",
- "count": 6400,
+ "generated_at": "19/11/2026 14:13 น.",
+ "count": 6404,
  "records": [
   {
    "id": "1",
@@ -89601,6 +89601,62 @@
    "notes": "INV GR",
    "shift": "เช้า",
    "submitted": "46345.4061921296"
+  },
+  {
+   "id": "6569",
+   "date": "2026-11-19",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46345.4843518518"
+  },
+  {
+   "id": "6568",
+   "date": "2026-11-20",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.talatat",
+   "contact_phone": "-",
+   "notes": "cash voucher",
+   "shift": "เช้า",
+   "submitted": "46345.4230439815"
+  },
+  {
+   "id": "6570",
+   "date": "2026-11-20",
+   "dept": "Marketing",
+   "requester": "Bo",
+   "phone": "0624292244",
+   "task": "รับของและส่งต่อ",
+   "loc": "Others",
+   "contact": "Sushi Saryu",
+   "contact_phone": "-",
+   "notes": "-",
+   "shift": "เช้า",
+   "submitted": "46345.5613773148"
+  },
+  {
+   "id": "6571",
+   "date": "2026-11-19",
+   "dept": "Procurement",
+   "requester": "จัดวื้อ",
+   "phone": "=",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "inv gr",
+   "shift": "บ่าย",
+   "submitted": "46345.5919675926"
   }
  ]
 }
