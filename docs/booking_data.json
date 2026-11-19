@@ -1,6 +1,6 @@
 {
- "generated_at": "19/11/2026 09:50 น.",
- "count": 6399,
+ "generated_at": "19/11/2026 10:12 น.",
+ "count": 6400,
  "records": [
   {
    "id": "1",
@@ -89587,6 +89587,20 @@
    "notes": "เอกสารเล่มฟ้าส่งคืน",
    "shift": "เช้า",
    "submitted": "46345.4042361111"
+  },
+  {
+   "id": "6567",
+   "date": "2026-11-19",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46345.4061921296"
   }
  ]
 }
