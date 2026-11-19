@@ -1,6 +1,6 @@
 {
- "generated_at": "19/11/2026 08:05 น.",
- "count": 6396,
+ "generated_at": "19/11/2026 09:50 น.",
+ "count": 6399,
  "records": [
   {
    "id": "1",
@@ -89545,6 +89545,48 @@
    "notes": "kkkkkk",
    "shift": "บ่าย",
    "submitted": "46344.5973263889"
+  },
+  {
+   "id": "6564",
+   "date": "2026-11-19",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เอิธร์",
+   "contact_phone": "-",
+   "notes": "SCB 2 ฉบับ",
+   "shift": "เช้า",
+   "submitted": "46344.6195486111"
+  },
+  {
+   "id": "6565",
+   "date": "2026-11-19",
+   "dept": "Accounting",
+   "requester": "K.natcha",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Gob HR",
+   "contact_phone": "-",
+   "notes": "staff party Memo",
+   "shift": "เช้า",
+   "submitted": "46345.4030324074"
+  },
+  {
+   "id": "6566",
+   "date": "2026-11-19",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "หมี",
+   "contact_phone": "-",
+   "notes": "เอกสารเล่มฟ้าส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46345.4042361111"
   }
  ]
 }
