@@ -1,6 +1,6 @@
 {
- "generated_at": "19/11/2026 14:15 น.",
- "count": 6405,
+ "generated_at": "19/11/2026 15:41 น.",
+ "count": 6406,
  "records": [
   {
    "id": "1",
@@ -89671,6 +89671,20 @@
    "notes": "inv gr",
    "shift": "บ่าย",
    "submitted": "46345.5923032407"
+  },
+  {
+   "id": "6573",
+   "date": "2026-11-20",
+   "dept": "Operation",
+   "requester": "Nan",
+   "phone": "0935249451",
+   "task": "รับเอกสาร",
+   "loc": "Roi Chak Sam @ Langham",
+   "contact": "แนน",
+   "contact_phone": "0935249451",
+   "notes": "รับเอกสารที่ร้อยชักสาม และ ส่งต่อไปที่ btsv",
+   "shift": "บ่าย",
+   "submitted": "46345.5934837963"
   }
  ]
 }
