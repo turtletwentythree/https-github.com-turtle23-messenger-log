@@ -1,6 +1,6 @@
 {
- "generated_at": "20/11/2026 14:08 น.",
- "count": 6425,
+ "generated_at": "20/11/2026 14:37 น.",
+ "count": 6428,
  "records": [
   {
    "id": "1",
@@ -89834,9 +89834,9 @@
    "phone": "-",
    "task": "ส่งเอกสาร",
    "loc": "Alpea",
-   "contact": "K.matcha",
+   "contact": "K.natcha",
    "contact_phone": "-",
-   "notes": "เอกสารลงนามส่งคืน",
+   "notes": "เอกสารลงนามเชฟ",
    "shift": "บ่าย",
    "submitted": "46346.4440625"
   },
@@ -89951,6 +89951,48 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46346.5872222222"
+  },
+  {
+   "id": "6593",
+   "date": "2026-11-20",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "รับเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 #2298",
+   "notes": "Inv ตัวจริง แคช แอนด์ โค",
+   "shift": "บ่าย",
+   "submitted": "46346.5951388889"
+  },
+  {
+   "id": "6594",
+   "date": "2026-11-20",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.หมี",
+   "contact_phone": "-",
+   "notes": "RCS",
+   "shift": "บ่าย",
+   "submitted": "46346.5875694444"
+  },
+  {
+   "id": "6595",
+   "date": "2026-11-20",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "คุณ ณัชชา",
+   "contact_phone": "02-180 8974",
+   "notes": "เอกสารขาดลายเซ็นรับสินค้า",
+   "shift": "บ่าย",
+   "submitted": "46346.5959143519"
   }
  ]
 }
