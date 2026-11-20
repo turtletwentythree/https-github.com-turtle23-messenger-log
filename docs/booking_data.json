@@ -1,6 +1,6 @@
 {
- "generated_at": "20/11/2026 14:06 น.",
- "count": 6424,
+ "generated_at": "20/11/2026 14:08 น.",
+ "count": 6425,
  "records": [
   {
    "id": "1",
@@ -89937,6 +89937,20 @@
    "notes": "เอกสารลงนาม",
    "shift": "เช้า",
    "submitted": "46346.5824884259"
+  },
+  {
+   "id": "6592",
+   "date": "2026-11-20",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "021808975",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46346.5872222222"
   }
  ]
 }
