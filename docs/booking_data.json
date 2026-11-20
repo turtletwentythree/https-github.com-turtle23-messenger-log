@@ -1,6 +1,6 @@
 {
- "generated_at": "20/11/2026 11:24 น.",
- "count": 6416,
+ "generated_at": "20/11/2026 13:59 น.",
+ "count": 6422,
  "records": [
   {
    "id": "1",
@@ -89825,6 +89825,90 @@
    "notes": "เอกสารลงนามส่งคืน",
    "shift": "เช้า",
    "submitted": "46346.4419791667"
+  },
+  {
+   "id": "6584",
+   "date": "2026-11-20",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.matcha",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46346.4440625"
+  },
+  {
+   "id": "6585",
+   "date": "2026-11-20",
+   "dept": "Operation",
+   "requester": "K.nant23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "contrack",
+   "shift": "บ่าย",
+   "submitted": "46346.4627546296"
+  },
+  {
+   "id": "6586",
+   "date": "2026-11-20",
+   "dept": "Operation",
+   "requester": "Lyn",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Koko BCAF",
+   "contact_phone": "-",
+   "notes": "Advance Mammapazza",
+   "shift": "บ่าย",
+   "submitted": "46346.5684259259"
+  },
+  {
+   "id": "6587",
+   "date": "2026-11-20",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po 6 ฉบับ",
+   "shift": "บ่าย",
+   "submitted": "46346.5696412037"
+  },
+  {
+   "id": "6588",
+   "date": "2026-11-20",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 #2260",
+   "notes": "P/O ตัวจริงที่ตาม",
+   "shift": "บ่าย",
+   "submitted": "46346.5774305556"
+  },
+  {
+   "id": "6589",
+   "date": "2026-11-20",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 #2298",
+   "notes": "Petty Cash KTT",
+   "shift": "บ่าย",
+   "submitted": "46346.5789930556"
   }
  ]
 }
