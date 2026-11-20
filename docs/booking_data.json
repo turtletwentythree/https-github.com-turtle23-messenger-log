@@ -1,6 +1,6 @@
 {
- "generated_at": "20/11/2026 06:49 น.",
- "count": 6406,
+ "generated_at": "20/11/2026 10:28 น.",
+ "count": 6412,
  "records": [
   {
    "id": "1",
@@ -89617,34 +89617,6 @@
    "submitted": "46345.4843518518"
   },
   {
-   "id": "6568",
-   "date": "2026-11-20",
-   "dept": "Finance",
-   "requester": "AB",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.G",
-   "contact": "K.talatat",
-   "contact_phone": "-",
-   "notes": "cash voucher",
-   "shift": "เช้า",
-   "submitted": "46345.4230439815"
-  },
-  {
-   "id": "6570",
-   "date": "2026-11-20",
-   "dept": "Marketing",
-   "requester": "Bo",
-   "phone": "0624292244",
-   "task": "รับของและส่งต่อ",
-   "loc": "Others",
-   "contact": "Sushi Saryu",
-   "contact_phone": "-",
-   "notes": "-",
-   "shift": "เช้า",
-   "submitted": "46345.5613773148"
-  },
-  {
    "id": "6571",
    "date": "2026-11-19",
    "dept": "Procurement",
@@ -89673,6 +89645,34 @@
    "submitted": "46345.5923032407"
   },
   {
+   "id": "6568",
+   "date": "2026-11-20",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.talatat",
+   "contact_phone": "-",
+   "notes": "cash voucher",
+   "shift": "เช้า",
+   "submitted": "46345.4230439815"
+  },
+  {
+   "id": "6570",
+   "date": "2026-11-20",
+   "dept": "Marketing",
+   "requester": "Bo",
+   "phone": "0624292244",
+   "task": "รับของและส่งต่อ",
+   "loc": "Others",
+   "contact": "Sushi Saryu",
+   "contact_phone": "-",
+   "notes": "-",
+   "shift": "เช้า",
+   "submitted": "46345.5613773148"
+  },
+  {
    "id": "6573",
    "date": "2026-11-20",
    "dept": "Operation",
@@ -89685,6 +89685,90 @@
    "notes": "รับเอกสารที่ร้อยชักสาม และ ส่งต่อไปที่ btsv",
    "shift": "บ่าย",
    "submitted": "46345.5934837963"
+  },
+  {
+   "id": "6574",
+   "date": "2026-11-20",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ Few",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "Inv. Alpea",
+   "shift": "เช้า",
+   "submitted": "46346.3552777778"
+  },
+  {
+   "id": "6575",
+   "date": "2026-11-20",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "คุณ ณัชชา",
+   "contact_phone": "02-180 8974",
+   "notes": "สรุปใบสั่งซื้อเพื่อการลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46346.3562268519"
+  },
+  {
+   "id": "6576",
+   "date": "2026-11-20",
+   "dept": "Operation",
+   "requester": "Lyn",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Koko",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46346.4128125"
+  },
+  {
+   "id": "6577",
+   "date": "2026-11-20",
+   "dept": "Operation",
+   "requester": "Ops",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "เช้า",
+   "submitted": "46346.410474537"
+  },
+  {
+   "id": "6578",
+   "date": "2026-11-20",
+   "dept": "Accounting",
+   "requester": "นิล",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "n มิ้น",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จ willy kitchen",
+   "shift": "เช้า",
+   "submitted": "46346.4329976852"
+  },
+  {
+   "id": "6579",
+   "date": "2026-11-20",
+   "dept": "Operation",
+   "requester": "K.nan",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ying",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "เช้า",
+   "submitted": "46346.433900463"
   }
  ]
 }
