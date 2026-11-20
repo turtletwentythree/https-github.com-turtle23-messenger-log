@@ -1,6 +1,6 @@
 {
- "generated_at": "20/11/2026 10:28 น.",
- "count": 6412,
+ "generated_at": "20/11/2026 10:39 น.",
+ "count": 6416,
  "records": [
   {
    "id": "1",
@@ -89769,6 +89769,62 @@
    "notes": "petty cash",
    "shift": "เช้า",
    "submitted": "46346.433900463"
+  },
+  {
+   "id": "6580",
+   "date": "2026-11-20",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.หมี",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาส่งคืน 1 เล่ม",
+   "shift": "เช้า",
+   "submitted": "46346.437974537"
+  },
+  {
+   "id": "6581",
+   "date": "2026-11-20",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เฟิร์ส",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน 1 ซอง",
+   "shift": "เช้า",
+   "submitted": "46346.4387615741"
+  },
+  {
+   "id": "6582",
+   "date": "2026-11-20",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม T5 ,T23 1 ชุด",
+   "shift": "เช้า",
+   "submitted": "46346.4414814815"
+  },
+  {
+   "id": "6583",
+   "date": "2026-11-20",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ไรวินท์",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46346.4419791667"
   }
  ]
 }
