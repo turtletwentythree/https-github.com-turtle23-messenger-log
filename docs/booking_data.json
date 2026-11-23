@@ -1,6 +1,6 @@
 {
- "generated_at": "23/11/2026 14:24 น.",
- "count": 6440,
+ "generated_at": "23/11/2026 14:28 น.",
+ "count": 6441,
  "records": [
   {
    "id": "1",
@@ -90161,6 +90161,20 @@
    "notes": "Clear Non-PO of Coffee Truck and T23 projects",
    "shift": "บ่าย",
    "submitted": "46349.5948263889"
+  },
+  {
+   "id": "6610",
+   "date": "2026-11-23",
+   "dept": "Finance",
+   "requester": "กอล์ฟ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46349.588125"
   }
  ]
 }
