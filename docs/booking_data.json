@@ -1,6 +1,6 @@
 {
- "generated_at": "23/11/2026 10:12 น.",
- "count": 6433,
+ "generated_at": "23/11/2026 10:19 น.",
+ "count": 6434,
  "records": [
   {
    "id": "1",
@@ -90063,6 +90063,20 @@
    "notes": "เอกสารลงนาม",
    "shift": "เช้า",
    "submitted": "46349.4137152778"
+  },
+  {
+   "id": "6602",
+   "date": "2026-11-23",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "chef mai",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "บ่าย",
+   "submitted": "46349.4245486111"
   }
  ]
 }
