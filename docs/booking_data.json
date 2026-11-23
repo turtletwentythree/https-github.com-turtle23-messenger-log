@@ -1,6 +1,6 @@
 {
- "generated_at": "23/11/2026 09:56 น.",
- "count": 6432,
+ "generated_at": "23/11/2026 10:12 น.",
+ "count": 6433,
  "records": [
   {
    "id": "1",
@@ -90049,6 +90049,20 @@
    "notes": "clear cash advance",
    "shift": "เช้า",
    "submitted": "46349.4130208333"
+  },
+  {
+   "id": "6601",
+   "date": "2026-11-23",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Legal",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "เช้า",
+   "submitted": "46349.4137152778"
   }
  ]
 }
