@@ -1,6 +1,6 @@
 {
- "generated_at": "23/11/2026 14:17 น.",
- "count": 6434,
+ "generated_at": "23/11/2026 14:24 น.",
+ "count": 6440,
  "records": [
   {
    "id": "1",
@@ -90077,6 +90077,90 @@
    "notes": "INV GR",
    "shift": "เช้า",
    "submitted": "46349.4253587963"
+  },
+  {
+   "id": "6604",
+   "date": "2026-11-23",
+   "dept": "Project Development",
+   "requester": "Ky",
+   "phone": "0659657846",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.29",
+   "contact": "P'Koko",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารให้พี่โก้",
+   "shift": "บ่าย",
+   "submitted": "46349.4909837963"
+  },
+  {
+   "id": "6605",
+   "date": "2026-11-23",
+   "dept": "Marketing",
+   "requester": "Mod",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "เอกสารใบเสร็จเพิ่มเติมที่ตกหล่นเซ็นต์",
+   "shift": "บ่าย",
+   "submitted": "46349.5079166667"
+  },
+  {
+   "id": "6606",
+   "date": "2026-11-23",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "customer refunel MPZ",
+   "shift": "บ่าย",
+   "submitted": "46349.5682175926"
+  },
+  {
+   "id": "6607",
+   "date": "2026-11-23",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "petty cash",
+   "shift": "บ่าย",
+   "submitted": "46349.5690625"
+  },
+  {
+   "id": "6608",
+   "date": "2026-11-23",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "ข",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จแก้ไข",
+   "shift": "บ่าย",
+   "submitted": "46349.5711226852"
+  },
+  {
+   "id": "6609",
+   "date": "2026-11-23",
+   "dept": "Project Development",
+   "requester": "Pavarit Im-em",
+   "phone": "0629352466",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้ - BCAF",
+   "contact_phone": "-",
+   "notes": "Clear Non-PO of Coffee Truck and T23 projects",
+   "shift": "บ่าย",
+   "submitted": "46349.5948263889"
   }
  ]
 }
