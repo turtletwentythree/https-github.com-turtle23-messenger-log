@@ -1,6 +1,6 @@
 {
- "generated_at": "23/11/2026 14:28 น.",
- "count": 6441,
+ "generated_at": "23/11/2026 18:17 น.",
+ "count": 6448,
  "records": [
   {
    "id": "1",
@@ -90051,20 +90051,6 @@
    "submitted": "46349.4245486111"
   },
   {
-   "id": "6590",
-   "date": "2026-11-24",
-   "dept": "Executive",
-   "requester": "โอม",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.G",
-   "contact": "P mint",
-   "contact_phone": "-",
-   "notes": "เอกสารลงนาม 2 ถุงใหญ่",
-   "shift": "บ่าย",
-   "submitted": "46346.5750810185"
-  },
-  {
    "id": "6603",
    "date": "2026-11-23",
    "dept": "Operation",
@@ -90175,6 +90161,118 @@
    "notes": "เอกสารเชฟลงนาม",
    "shift": "บ่าย",
    "submitted": "46349.588125"
+  },
+  {
+   "id": "6611",
+   "date": "2026-11-23",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "cash advance",
+   "shift": "บ่าย",
+   "submitted": "46349.6056018519"
+  },
+  {
+   "id": "6590",
+   "date": "2026-11-24",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม 2 ถุงใหญ่",
+   "shift": "บ่าย",
+   "submitted": "46346.5750810185"
+  },
+  {
+   "id": "6612",
+   "date": "2026-11-24",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ฟิวส์",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามเชฟ",
+   "shift": "เช้า",
+   "submitted": "46349.6061342593"
+  },
+  {
+   "id": "6613",
+   "date": "2026-11-24",
+   "dept": "Accounting",
+   "requester": "chef mai",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.แพร HR",
+   "contact_phone": "-",
+   "notes": "Resignation letter",
+   "shift": "เช้า",
+   "submitted": "46349.7563078704"
+  },
+  {
+   "id": "6614",
+   "date": "2026-11-24",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.pui",
+   "contact_phone": "-",
+   "notes": "INV GR NON PO",
+   "shift": "เช้า",
+   "submitted": "46349.7573148148"
+  },
+  {
+   "id": "6615",
+   "date": "2026-11-24",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46349.7582523148"
+  },
+  {
+   "id": "6616",
+   "date": "2026-11-24",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "หลานยายนุสรา (Baan Turtle)",
+   "contact": "K.maysa",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46349.7588194444"
+  },
+  {
+   "id": "6617",
+   "date": "2026-11-24",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน 2 ถุง",
+   "shift": "เช้า",
+   "submitted": "46349.7593634259"
   }
  ]
 }
