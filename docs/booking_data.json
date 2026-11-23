@@ -1,6 +1,6 @@
 {
- "generated_at": "23/11/2026 05:46 น.",
- "count": 6428,
+ "generated_at": "23/11/2026 09:56 น.",
+ "count": 6432,
  "records": [
   {
    "id": "1",
@@ -89993,6 +89993,62 @@
    "notes": "เอกสารขาดลายเซ็นรับสินค้า",
    "shift": "บ่าย",
    "submitted": "46346.5959143519"
+  },
+  {
+   "id": "6597",
+   "date": "2026-11-23",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ อชิ",
+   "contact_phone": "02-080 1000 #2287",
+   "notes": "Inv. KIN1",
+   "shift": "เช้า",
+   "submitted": "46349.355462963"
+  },
+  {
+   "id": "6598",
+   "date": "2026-11-23",
+   "dept": "Operation",
+   "requester": "ก้อย",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.อ้อม",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46349.4099884259"
+  },
+  {
+   "id": "6599",
+   "date": "2026-11-23",
+   "dept": "Operation",
+   "requester": "ก้อย",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ปุ้ย",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46349.4125115741"
+  },
+  {
+   "id": "6600",
+   "date": "2026-11-23",
+   "dept": "Project Development",
+   "requester": "PJ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "clear cash advance",
+   "shift": "เช้า",
+   "submitted": "46349.4130208333"
   }
  ]
 }
