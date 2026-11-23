@@ -1,5 +1,5 @@
 {
- "generated_at": "23/11/2026 10:19 น.",
+ "generated_at": "23/11/2026 14:07 น.",
  "count": 6434,
  "records": [
   {
@@ -89911,34 +89911,6 @@
    "submitted": "46346.5789930556"
   },
   {
-   "id": "6590",
-   "date": "2026-11-24",
-   "dept": "Executive",
-   "requester": "โอม",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.G",
-   "contact": "P mint",
-   "contact_phone": "-",
-   "notes": "เอกสารลงนาม 2 ถุงใหญ่",
-   "shift": "บ่าย",
-   "submitted": "46346.5750810185"
-  },
-  {
-   "id": "6591",
-   "date": "2026-11-23",
-   "dept": "Operation",
-   "requester": "K.nan t23",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.G",
-   "contact": "K.Jirath (Legal)",
-   "contact_phone": "-",
-   "notes": "เอกสารลงนาม",
-   "shift": "เช้า",
-   "submitted": "46346.5824884259"
-  },
-  {
    "id": "6592",
    "date": "2026-11-20",
    "dept": "Procurement",
@@ -89993,6 +89965,20 @@
    "notes": "เอกสารขาดลายเซ็นรับสินค้า",
    "shift": "บ่าย",
    "submitted": "46346.5959143519"
+  },
+  {
+   "id": "6591",
+   "date": "2026-11-23",
+   "dept": "Operation",
+   "requester": "K.nan t23",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Jirath (Legal)",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม",
+   "shift": "เช้า",
+   "submitted": "46346.5824884259"
   },
   {
    "id": "6597",
@@ -90051,20 +90037,6 @@
    "submitted": "46349.4130208333"
   },
   {
-   "id": "6601",
-   "date": "2026-11-23",
-   "dept": "Operation",
-   "requester": "K.nan t23",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.G",
-   "contact": "Legal",
-   "contact_phone": "-",
-   "notes": "เอกสารลงนาม",
-   "shift": "เช้า",
-   "submitted": "46349.4137152778"
-  },
-  {
    "id": "6602",
    "date": "2026-11-23",
    "dept": "Operation",
@@ -90077,6 +90049,34 @@
    "notes": "petty cash",
    "shift": "บ่าย",
    "submitted": "46349.4245486111"
+  },
+  {
+   "id": "6590",
+   "date": "2026-11-24",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม 2 ถุงใหญ่",
+   "shift": "บ่าย",
+   "submitted": "46346.5750810185"
+  },
+  {
+   "id": "6603",
+   "date": "2026-11-23",
+   "dept": "Operation",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46349.4253587963"
   }
  ]
 }
