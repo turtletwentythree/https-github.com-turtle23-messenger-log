@@ -1,6 +1,6 @@
 {
- "generated_at": "24/11/2026 11:54 น.",
- "count": 6457,
+ "generated_at": "24/11/2026 13:55 น.",
+ "count": 6465,
  "records": [
   {
    "id": "1",
@@ -90374,7 +90374,7 @@
   },
   {
    "id": "6625",
-   "date": "2026-11-25",
+   "date": "2026-11-24",
    "dept": "Operation",
    "requester": "K.nan t23",
    "phone": "-",
@@ -90399,6 +90399,118 @@
    "notes": "non po P boss",
    "shift": "บ่าย",
    "submitted": "46350.4939930556"
+  },
+  {
+   "id": "6627",
+   "date": "2026-11-24",
+   "dept": "Project Development",
+   "requester": "Ky",
+   "phone": "0659657846",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "ฝากเอกสารให้พี่โก้ค่ะ",
+   "shift": "บ่าย",
+   "submitted": "46349.6146064815"
+  },
+  {
+   "id": "6628",
+   "date": "2026-11-24",
+   "dept": "Marketing",
+   "requester": "Pap",
+   "phone": "0992563655",
+   "task": "ส่งเอกสาร",
+   "loc": "Kappo Takeshi",
+   "contact": "พี่ลัคกี้",
+   "contact_phone": "085-553-5662",
+   "notes": "ส่งเมนู",
+   "shift": "บ่าย",
+   "submitted": "46350.5570486111"
+  },
+  {
+   "id": "6629",
+   "date": "2026-11-25",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "INV",
+   "shift": "บ่าย",
+   "submitted": "46350.494375"
+  },
+  {
+   "id": "6630",
+   "date": "2026-11-24",
+   "dept": "Executive",
+   "requester": "ดอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เฟิร์ส",
+   "contact_phone": "-",
+   "notes": "เอกสาารลงนามส่งคืน",
+   "shift": "บ่าย",
+   "submitted": "46350.5659837963"
+  },
+  {
+   "id": "6631",
+   "date": "2026-11-24",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Kob (HR)",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารขออนุมัติเดินทางไป PKP ย้อนหลัง",
+   "shift": "บ่าย",
+   "submitted": "46350.5671990741"
+  },
+  {
+   "id": "6632",
+   "date": "2026-11-24",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณเพื่อน Legal BTSG",
+   "contact_phone": "-",
+   "notes": "ส่งหนังสือยินยอมใช้สถานที่เพื่อนำไปจด VAT",
+   "shift": "บ่าย",
+   "submitted": "46350.5680671296"
+  },
+  {
+   "id": "6633",
+   "date": "2026-11-24",
+   "dept": "Operation",
+   "requester": "Wassana",
+   "phone": "021808984",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko BCAF",
+   "contact_phone": "-",
+   "notes": "ส่งเอกสารเบิก Advance Payment ของบริษัท PAC",
+   "shift": "บ่าย",
+   "submitted": "46350.5688078704"
+  },
+  {
+   "id": "6634",
+   "date": "2026-11-24",
+   "dept": "Procurement",
+   "requester": "JC-",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เอิร์ธ",
+   "contact_phone": "-",
+   "notes": "INV KTT",
+   "shift": "บ่าย",
+   "submitted": "46350.5677777778"
   }
  ]
 }
