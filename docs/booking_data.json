@@ -1,5 +1,5 @@
 {
- "generated_at": "24/11/2026 14:24 น.",
+ "generated_at": "24/11/2026 17:10 น.",
  "count": 6470,
  "records": [
   {
@@ -90387,20 +90387,6 @@
    "submitted": "46350.473275463"
   },
   {
-   "id": "6626",
-   "date": "2026-11-24",
-   "dept": "Executive",
-   "requester": "โอม",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "BTSV Fl.G",
-   "contact": "P koko",
-   "contact_phone": "-",
-   "notes": "non po P boss",
-   "shift": "บ่าย",
-   "submitted": "46350.4939930556"
-  },
-  {
    "id": "6627",
    "date": "2026-11-24",
    "dept": "Project Development",
@@ -90429,24 +90415,10 @@
    "submitted": "46350.5570486111"
   },
   {
-   "id": "6629",
-   "date": "2026-11-25",
-   "dept": "Accounting",
-   "requester": "ฟิวส์",
-   "phone": "-",
-   "task": "ส่งเอกสาร",
-   "loc": "Alpea",
-   "contact": "K.natcha",
-   "contact_phone": "-",
-   "notes": "INV",
-   "shift": "บ่าย",
-   "submitted": "46350.494375"
-  },
-  {
    "id": "6630",
    "date": "2026-11-24",
    "dept": "Executive",
-   "requester": "ดอม",
+   "requester": "โอม",
    "phone": "-",
    "task": "ส่งเอกสาร",
    "loc": "BTSV Fl.G",
@@ -90581,6 +90553,34 @@
    "notes": "petty cash kinn 1",
    "shift": "บ่าย",
    "submitted": "46350.5906712963"
+  },
+  {
+   "id": "6626",
+   "date": "2026-11-25",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po P boss",
+   "shift": "บ่าย",
+   "submitted": "46350.4939930556"
+  },
+  {
+   "id": "6629",
+   "date": "2026-11-25",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.natcha",
+   "contact_phone": "-",
+   "notes": "INV",
+   "shift": "บ่าย",
+   "submitted": "46350.494375"
   }
  ]
 }
