@@ -1,6 +1,6 @@
 {
- "generated_at": "24/11/2026 07:23 น.",
- "count": 6448,
+ "generated_at": "24/11/2026 10:00 น.",
+ "count": 6453,
  "records": [
   {
    "id": "1",
@@ -90273,6 +90273,76 @@
    "notes": "เอกสารลงนามส่งคืน 2 ถุง",
    "shift": "เช้า",
    "submitted": "46349.7593634259"
+  },
+  {
+   "id": "6618",
+   "date": "2026-11-24",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 # 2260",
+   "notes": "Inv. RCS",
+   "shift": "เช้า",
+   "submitted": "46350.3426967593"
+  },
+  {
+   "id": "6619",
+   "date": "2026-11-24",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ หมี",
+   "contact_phone": "02-080 1000 #2260",
+   "notes": "ใบส่งสินค้า ออร์เร้นโค้ช / ใบกำกับภาษี ธัญญ์ธีร์",
+   "shift": "เช้า",
+   "submitted": "46350.3572685185"
+  },
+  {
+   "id": "6620",
+   "date": "2026-11-24",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "เชฟ อิท",
+   "contact_phone": "0880099763",
+   "notes": "เอกสารที่ขาดลายเซ็นรับสินค้า",
+   "shift": "บ่าย",
+   "submitted": "46350.3602546296"
+  },
+  {
+   "id": "6621",
+   "date": "2026-11-24",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "สรุปใบสั่งซื้อ",
+   "shift": "เช้า",
+   "submitted": "46350.3622337963"
+  },
+  {
+   "id": "6622",
+   "date": "2026-11-24",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ ฟิวส์",
+   "contact_phone": "02-080 1000 #2263",
+   "notes": "Inv. ASC",
+   "shift": "เช้า",
+   "submitted": "46350.412337963"
   }
  ]
 }
