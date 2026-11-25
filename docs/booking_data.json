@@ -1,6 +1,6 @@
 {
- "generated_at": "25/11/2026 10:44 น.",
- "count": 6477,
+ "generated_at": "25/11/2026 10:57 น.",
+ "count": 6480,
  "records": [
   {
    "id": "1",
@@ -90679,6 +90679,48 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46351.4302893518"
+  },
+  {
+   "id": "6647",
+   "date": "2026-11-25",
+   "dept": "Operation",
+   "requester": "Koy",
+   "phone": "0645151536",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P'Koko, BCAF",
+   "contact_phone": "020801000 Ext. 2255",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46351.4477314815"
+  },
+  {
+   "id": "6648",
+   "date": "2026-11-25",
+   "dept": "Procurement",
+   "requester": "แนน",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่ปุ้ย",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "เช้า",
+   "submitted": "46351.4485532407"
+  },
+  {
+   "id": "6649",
+   "date": "2026-11-25",
+   "dept": "Operation",
+   "requester": "Koy",
+   "phone": "0645151536",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K. Pumarin, BCAF",
+   "contact_phone": "020801000Ext. 2238",
+   "notes": "",
+   "shift": "เช้า",
+   "submitted": "46351.4488310185"
   }
  ]
 }
