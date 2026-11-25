@@ -1,6 +1,6 @@
 {
- "generated_at": "25/11/2026 10:57 น.",
- "count": 6480,
+ "generated_at": "25/11/2026 15:38 น.",
+ "count": 6488,
  "records": [
   {
    "id": "1",
@@ -90721,6 +90721,118 @@
    "notes": "",
    "shift": "เช้า",
    "submitted": "46351.4488310185"
+  },
+  {
+   "id": "6650",
+   "date": "2026-11-25",
+   "dept": "Operation",
+   "requester": "Lyn",
+   "phone": "0956607584",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "นิล",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46351.4649305556"
+  },
+  {
+   "id": "6651",
+   "date": "2026-11-25",
+   "dept": "Procurement",
+   "requester": "๋JC",
+   "phone": "02-180 8974",
+   "task": "รับเอกสาร",
+   "loc": "Others",
+   "contact": "เจ้าหน้าที่ร้าน",
+   "contact_phone": "0990783444",
+   "notes": "รับเอกสารใบแจ้งหนี้ ร้อยชักสาม",
+   "shift": "บ่าย",
+   "submitted": "46351.5695138889"
+  },
+  {
+   "id": "6652",
+   "date": "2026-11-25",
+   "dept": "Finance",
+   "requester": "AB",
+   "phone": "0823557542",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P.Koko",
+   "contact_phone": "P.Koko",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46351.5916203704"
+  },
+  {
+   "id": "6653",
+   "date": "2026-11-25",
+   "dept": "Finance",
+   "requester": "ตรีธนา (กอล์ฟ)",
+   "phone": "084-155-5758",
+   "task": "ส่งเอกสาร",
+   "loc": "BK Salon สาธุประดิษฐ์",
+   "contact": "คุณเมษา",
+   "contact_phone": "083-918-8964",
+   "notes": "เอกสารส่งให้เชฟต้นลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46351.5950810185"
+  },
+  {
+   "id": "6654",
+   "date": "2026-11-25",
+   "dept": "Procurement",
+   "requester": "แนน",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46351.6229398148"
+  },
+  {
+   "id": "6655",
+   "date": "2026-11-25",
+   "dept": "Procurement",
+   "requester": "แนน",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่มิ้น",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จรับเงิน",
+   "shift": "บ่าย",
+   "submitted": "46351.6237731482"
+  },
+  {
+   "id": "6656",
+   "date": "2026-11-25",
+   "dept": "Finance",
+   "requester": "ตรีธนา (กอล์ฟ)",
+   "phone": "084-155-5758",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณนิว BCAF",
+   "contact_phone": "094-959-8941",
+   "notes": "On Hand",
+   "shift": "บ่าย",
+   "submitted": "46351.6422569444"
+  },
+  {
+   "id": "6657",
+   "date": "2026-11-25",
+   "dept": "Finance",
+   "requester": "ตรีธนา (กอล์ฟ)",
+   "phone": "084-155-5758",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณหญิง BCAF",
+   "contact_phone": "02-080-1000 ต่อ 2286",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46351.6488888889"
   }
  ]
 }
