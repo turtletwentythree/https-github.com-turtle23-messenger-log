@@ -1,6 +1,6 @@
 {
- "generated_at": "25/11/2026 03:38 น.",
- "count": 6470,
+ "generated_at": "25/11/2026 10:39 น.",
+ "count": 6477,
  "records": [
   {
    "id": "1",
@@ -90581,6 +90581,104 @@
    "notes": "INV",
    "shift": "บ่าย",
    "submitted": "46350.494375"
+  },
+  {
+   "id": "6640",
+   "date": "2026-11-25",
+   "dept": "IT",
+   "requester": "Boss",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.จุ๋ม",
+   "contact_phone": "--",
+   "notes": "เอกสารลงนาม",
+   "shift": "เช้า",
+   "submitted": "46350.5911805556"
+  },
+  {
+   "id": "6641",
+   "date": "2026-11-25",
+   "dept": "Operation",
+   "requester": "Lyn",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Koko BCAF",
+   "contact_phone": "-",
+   "notes": "Cash Advance MPZ",
+   "shift": "เช้า",
+   "submitted": "46350.7313194444"
+  },
+  {
+   "id": "6642",
+   "date": "2026-11-24",
+   "dept": "Project Development",
+   "requester": "Ky",
+   "phone": "0659657846",
+   "task": "รับของและส่งต่อ",
+   "loc": "The Unicorn",
+   "contact": "คุณชมพู่",
+   "contact_phone": "0806519466",
+   "notes": "ส่งสติกเกอร์ให้คุณชมพู่ที่โรงงานค่ะ",
+   "shift": "บ่าย",
+   "submitted": "46350.7531828704"
+  },
+  {
+   "id": "6643",
+   "date": "2026-11-25",
+   "dept": "Executive",
+   "requester": "ฺBeeB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "เช้า",
+   "submitted": "46350.7241435185"
+  },
+  {
+   "id": "6644",
+   "date": "2026-11-25",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ โก้",
+   "contact_phone": "02-080 1000 # 2255",
+   "notes": "Non-PO KOL -T5 Marlo",
+   "shift": "เช้า",
+   "submitted": "46351.343587963"
+  },
+  {
+   "id": "6645",
+   "date": "2026-11-25",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 # 2298",
+   "notes": "ใบเสร็จรับเงิน ประสาทพร - KTT",
+   "shift": "เช้า",
+   "submitted": "46351.3442708333"
+  },
+  {
+   "id": "6646",
+   "date": "2026-11-25",
+   "dept": "Marketing",
+   "requester": "Mod",
+   "phone": "021088981",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P Koko",
+   "contact_phone": "081808981",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46351.4302893518"
   }
  ]
 }
