@@ -1,6 +1,6 @@
 {
- "generated_at": "26/11/2026 11:25 น.",
- "count": 6495,
+ "generated_at": "26/11/2026 13:59 น.",
+ "count": 6500,
  "records": [
   {
    "id": "1",
@@ -90931,6 +90931,76 @@
    "notes": "เอกสารลงนามส่งคืน",
    "shift": "เช้า",
    "submitted": "46352.4181597222"
+  },
+  {
+   "id": "6665",
+   "date": "2026-11-26",
+   "dept": "Executive",
+   "requester": "BeeB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "non po",
+   "shift": "บ่าย",
+   "submitted": "46352.4188888889"
+  },
+  {
+   "id": "6666",
+   "date": "2026-11-26",
+   "dept": "Operation",
+   "requester": "Lyn",
+   "phone": "0956607584",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Ying BCAF",
+   "contact_phone": "-",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46352.495474537"
+  },
+  {
+   "id": "6667",
+   "date": "2026-11-26",
+   "dept": "Accounting",
+   "requester": "มิ้นต์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Capricci เย็นอากาศ 1",
+   "contact": "K.นิล",
+   "contact_phone": "-",
+   "notes": "หัก ณ ที่จ่าย",
+   "shift": "บ่าย",
+   "submitted": "46352.497037037"
+  },
+  {
+   "id": "6668",
+   "date": "2026-11-26",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46352.5733796296"
+  },
+  {
+   "id": "6669",
+   "date": "2026-11-26",
+   "dept": "Procurement",
+   "requester": "จัดซื้อ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P koko",
+   "contact_phone": "-",
+   "notes": "INV GR",
+   "shift": "บ่าย",
+   "submitted": "46352.5811574074"
   }
  ]
 }
