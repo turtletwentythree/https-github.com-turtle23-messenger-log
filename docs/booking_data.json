@@ -1,6 +1,6 @@
 {
- "generated_at": "26/11/2026 05:42 น.",
- "count": 6488,
+ "generated_at": "26/11/2026 10:08 น.",
+ "count": 6495,
  "records": [
   {
    "id": "1",
@@ -90833,6 +90833,104 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46351.6488888889"
+  },
+  {
+   "id": "6658",
+   "date": "2026-11-26",
+   "dept": "Marketing",
+   "requester": "mind",
+   "phone": "0985694192",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "Mink Juristic",
+   "contact_phone": "02-078-0800 Ext.7006",
+   "notes": "ส่งที่ห้อง mercury",
+   "shift": "เช้า",
+   "submitted": "46351.6843981482"
+  },
+  {
+   "id": "6659",
+   "date": "2026-11-26",
+   "dept": "Project Development",
+   "requester": "Pavarit Imem",
+   "phone": "0629352466",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "พี่โก้ - BCAF",
+   "contact_phone": "-",
+   "notes": "Casual of Coffee Truck - T5 (00002)",
+   "shift": "เช้า",
+   "submitted": "46352.3939699074"
+  },
+  {
+   "id": "6660",
+   "date": "2026-11-26",
+   "dept": "Accounting",
+   "requester": "natcha",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Pare Hr",
+   "contact_phone": "-",
+   "notes": "Document CV",
+   "shift": "เช้า",
+   "submitted": "46352.4039699074"
+  },
+  {
+   "id": "6661",
+   "date": "2026-11-26",
+   "dept": "Executive",
+   "requester": "maison Dunund",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.แอนนี่ BTSG",
+   "contact_phone": "-",
+   "notes": "INV K.Tong",
+   "shift": "เช้า",
+   "submitted": "46352.4047916667"
+  },
+  {
+   "id": "6662",
+   "date": "2026-11-26",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.ฟิวส์",
+   "contact_phone": "-",
+   "notes": "เอกสาร CHQ ส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46352.4166087963"
+  },
+  {
+   "id": "6663",
+   "date": "2026-11-26",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "หมี",
+   "contact_phone": "-",
+   "notes": "CHQ ส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46352.4178356481"
+  },
+  {
+   "id": "6664",
+   "date": "2026-11-26",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P mint",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนามส่งคืน",
+   "shift": "เช้า",
+   "submitted": "46352.4181597222"
   }
  ]
 }
