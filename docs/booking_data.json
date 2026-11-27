@@ -1,6 +1,6 @@
 {
- "generated_at": "27/11/2026 14:10 น.",
- "count": 6518,
+ "generated_at": "27/11/2026 21:28 น.",
+ "count": 6524,
  "records": [
   {
    "id": "1",
@@ -91253,6 +91253,90 @@
    "notes": "เอกสารเชฟลงนาม",
    "shift": "บ่าย",
    "submitted": "46353.5547222222"
+  },
+  {
+   "id": "6688",
+   "date": "2026-11-30",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "ตั้งฮั่วปัก",
+   "contact": "คุณดวงใจ",
+   "contact_phone": "-",
+   "notes": "ใบเสร็จน้ำไฟ",
+   "shift": "เช้า",
+   "submitted": "46353.5900925926"
+  },
+  {
+   "id": "6689",
+   "date": "2026-11-30",
+   "dept": "Finance",
+   "requester": "chef mai",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เอิร์ธ",
+   "contact_phone": "-",
+   "notes": "TRUE,VJ",
+   "shift": "เช้า",
+   "submitted": "46353.7549189815"
+  },
+  {
+   "id": "6690",
+   "date": "2026-11-30",
+   "dept": "Executive",
+   "requester": "โอม",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.เอิร์ธ",
+   "contact_phone": "-",
+   "notes": "เอกสารลงนาม 1 ถุงขาว",
+   "shift": "บ่าย",
+   "submitted": "46353.7692824074"
+  },
+  {
+   "id": "6691",
+   "date": "2026-11-30",
+   "dept": "Accounting",
+   "requester": "เมษา",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.pare",
+   "contact_phone": "-",
+   "notes": "เชฟต้นลงนาม",
+   "shift": "เช้า",
+   "submitted": "46353.7699421296"
+  },
+  {
+   "id": "6692",
+   "date": "2026-11-30",
+   "dept": "Accounting",
+   "requester": "chef IT",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Pare HR",
+   "contact_phone": "-",
+   "notes": "ประกัน RCS และ ใบลาออก",
+   "shift": "เช้า",
+   "submitted": "46353.7705092593"
+  },
+  {
+   "id": "6693",
+   "date": "2026-11-30",
+   "dept": "Accounting",
+   "requester": "AB",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.talatat",
+   "contact_phone": "-",
+   "notes": "cash voucher",
+   "shift": "เช้า",
+   "submitted": "46353.7712847222"
   }
  ]
 }
