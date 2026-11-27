@@ -1,6 +1,6 @@
 {
- "generated_at": "27/11/2026 10:13 น.",
- "count": 6511,
+ "generated_at": "27/11/2026 11:52 น.",
+ "count": 6513,
  "records": [
   {
    "id": "1",
@@ -91155,6 +91155,34 @@
    "notes": "ค่าน้ำไฟ",
    "shift": "เช้า",
    "submitted": "46353.3944328704"
+  },
+  {
+   "id": "6681",
+   "date": "2026-11-27",
+   "dept": "Project Development",
+   "requester": "PJ",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "P pare",
+   "contact_phone": "-",
+   "notes": "เอกสารตาม",
+   "shift": "บ่าย",
+   "submitted": "46353.4430092593"
+  },
+  {
+   "id": "6682",
+   "date": "2026-11-27",
+   "dept": "Operation",
+   "requester": "Koy",
+   "phone": "0645151536",
+   "task": "ส่งเอกสารและรอรับกลับ",
+   "loc": "T10 (Baan Turtle)",
+   "contact": "สง่า",
+   "contact_phone": "0865076717",
+   "notes": "",
+   "shift": "บ่าย",
+   "submitted": "46353.4713078704"
   }
  ]
 }
