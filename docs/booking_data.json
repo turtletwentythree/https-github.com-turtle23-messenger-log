@@ -1,6 +1,6 @@
 {
- "generated_at": "27/11/2026 11:52 น.",
- "count": 6513,
+ "generated_at": "27/11/2026 13:47 น.",
+ "count": 6517,
  "records": [
   {
    "id": "1",
@@ -91183,6 +91183,62 @@
    "notes": "",
    "shift": "บ่าย",
    "submitted": "46353.4713078704"
+  },
+  {
+   "id": "6683",
+   "date": "2026-11-27",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "คุณ เอิร์ธ",
+   "contact_phone": "02-080 1000 #2298",
+   "notes": "Inv. KTT",
+   "shift": "บ่าย",
+   "submitted": "46353.5453472222"
+  },
+  {
+   "id": "6684",
+   "date": "2026-11-27",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Lawoi",
+   "contact": "เชฟใหม่",
+   "contact_phone": "02-180 8974",
+   "notes": "เอกสารขาดลายเซ็น Catch & Co",
+   "shift": "บ่าย",
+   "submitted": "46353.5463425926"
+  },
+  {
+   "id": "6685",
+   "date": "2026-11-27",
+   "dept": "Procurement",
+   "requester": "JC",
+   "phone": "02-180 8974",
+   "task": "ส่งเอกสาร",
+   "loc": "Roi Chak Sam @ Langham",
+   "contact": "เชฟ อิท",
+   "contact_phone": "0880099763",
+   "notes": "เอกสารขาดลายเซ็นรับสินค้า งอกงาม",
+   "shift": "บ่าย",
+   "submitted": "46353.5469791667"
+  },
+  {
+   "id": "6686",
+   "date": "2026-11-27",
+   "dept": "Accounting",
+   "requester": "natcha",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "BTSV Fl.G",
+   "contact": "K.Pare HR",
+   "contact_phone": "-",
+   "notes": "Leave Extend",
+   "shift": "บ่าย",
+   "submitted": "46353.44375"
   }
  ]
 }
