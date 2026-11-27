@@ -1,6 +1,6 @@
 {
- "generated_at": "27/11/2026 13:47 น.",
- "count": 6517,
+ "generated_at": "27/11/2026 14:10 น.",
+ "count": 6518,
  "records": [
   {
    "id": "1",
@@ -91239,6 +91239,20 @@
    "notes": "Leave Extend",
    "shift": "บ่าย",
    "submitted": "46353.44375"
+  },
+  {
+   "id": "6687",
+   "date": "2026-11-27",
+   "dept": "Accounting",
+   "requester": "ฟิวส์",
+   "phone": "-",
+   "task": "ส่งเอกสาร",
+   "loc": "Alpea",
+   "contact": "K.นิชา",
+   "contact_phone": "-",
+   "notes": "เอกสารเชฟลงนาม",
+   "shift": "บ่าย",
+   "submitted": "46353.5547222222"
   }
  ]
 }
